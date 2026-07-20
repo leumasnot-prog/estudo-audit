@@ -1,0 +1,247 @@
+{
+  "sourceExam": "RFB 2023 — Auditor-Fiscal da Receita Federal do Brasil (AFRFB) — Prova Objetiva Manhã, Tipo 1 Branca (caderno CNS101), aplicada em 19/03/2023, blocos de Auditoria e de Contabilidade Geral e Pública",
+  "board": "FGV",
+  "year": 2023,
+  "questions": [
+    {
+      "subject": "Auditoria Governamental",
+      "topic": "Amostragem em auditoria — fatores que afetam o tamanho da amostra (NBC TA 530)",
+      "statement": "Ao determinar o tamanho da amostra para os testes de detalhes, o auditor pode levar em consideração alguns fatores que influenciam na escolha do tamanho da amostra. Nesse contexto, analise os fatores a seguir. I. Aumento na avaliação do risco de distorção relevante do auditor. II. Aumento no uso de outros procedimentos substantivos direcionados à mesma afirmação. III. Aumento no valor da distorção que o auditor espera encontrar na população. IV. Quantidade de unidades de amostragem na população. De acordo com a NBC TA 530, assinale a opção que indica os fatores que têm como efeito um aumento no tamanho da amostra.",
+      "options": [
+        {"key": "A", "text": "I e II, apenas."},
+        {"key": "B", "text": "I e III, apenas."},
+        {"key": "C", "text": "II e III, apenas."},
+        {"key": "D", "text": "III e IV, apenas."},
+        {"key": "E", "text": "I, II e IV, apenas."}
+      ],
+      "correctAnswer": "B",
+      "explanation": "Pelo Apêndice 3 da NBC TA 530: (I) quanto maior o risco de distorção relevante avaliado, maior a amostra — aumenta; (III) quanto maior a distorção esperada na população, maior a amostra necessária para estimar com segurança — aumenta; (II) o aumento do uso de OUTROS procedimentos substantivos dirigidos à mesma afirmação REDUZ a necessidade de evidência via amostragem, diminuindo a amostra; (IV) o tamanho da população tem efeito insignificante sobre o tamanho da amostra, salvo populações muito pequenas. Corretos: I e III.",
+      "difficulty": 3
+    },
+    {
+      "subject": "Auditoria Governamental",
+      "topic": "Testes de superavaliação e subavaliação (direção dos testes)",
+      "statement": "Durante um trabalho de auditoria financeira, ao analisar a conta de despesa com manutenção de equipamentos industriais, o auditor observou que o valor com a aquisição de uma máquina embaladora havia sido debitado nessa conta. Nessa situação, são aplicáveis",
+      "options": [
+        {"key": "A", "text": "um teste principal de ativo para superavaliação e um teste secundário de despesa para subavaliação."},
+        {"key": "B", "text": "um teste principal de despesa para superavaliação e um teste secundário de ativo para subavaliação."},
+        {"key": "C", "text": "um teste secundário de ativo para superavaliação e um teste principal de despesa para subavaliação."},
+        {"key": "D", "text": "um teste secundário de despesa para subavaliação e um teste principal de ativo para superavaliação."},
+        {"key": "E", "text": "um teste secundário de despesa para superavaliação e um teste principal de ativo para subavaliação."}
+      ],
+      "correctAnswer": "B",
+      "explanation": "Registrar a aquisição de uma máquina (item do imobilizado) como despesa de manutenção gera despesa SUPERAVALIADA e ativo SUBAVALIADO. A direção do teste parte da conta onde o erro se manifesta: o teste principal é o de superavaliação da despesa (vouching dos débitos da conta de despesa para a documentação suporte, que revela o item capitalizável); o efeito espelho — subavaliação do ativo — é coberto por teste secundário. Por isso a alternativa B é a correta.",
+      "difficulty": 4
+    },
+    {
+      "subject": "Auditoria Governamental",
+      "topic": "Confirmação externa (circularização) — NBC TA 505",
+      "statement": "No decorrer da realização de um trabalho de auditoria, um auditor estava analisando o saldo de contas a receber da entidade auditada. Diante da necessidade de confirmar a existência de um débito com um devedor, o auditor deve",
+      "options": [
+        {"key": "A", "text": "aplicar procedimentos de conciliação bancária com contas a receber."},
+        {"key": "B", "text": "examinar evidências internas da firma."},
+        {"key": "C", "text": "examinar os registros contábeis e a documentação hábil."},
+        {"key": "D", "text": "realizar procedimentos analíticos nos saldos de contas a receber e de créditos de liquidação duvidosa."},
+        {"key": "E", "text": "solicitar confirmação positiva para obter evidência de melhor qualidade."}
+      ],
+      "correctAnswer": "E",
+      "explanation": "Para a afirmação de EXISTÊNCIA de contas a receber, a evidência mais confiável é a obtida de fonte externa e diretamente pelo auditor: a confirmação externa (circularização) regulada pela NBC TA 505. A confirmação POSITIVA — em que o devedor responde concordando ou discordando do saldo — fornece evidência de melhor qualidade que a negativa. Evidências internas (B e C) têm confiabilidade menor, e procedimentos analíticos (D) não confirmam a existência de um débito específico.",
+      "difficulty": 2
+    },
+    {
+      "subject": "Auditoria Governamental",
+      "topic": "Passivos fictícios e omissão de receitas — procedimentos de detecção",
+      "statement": "Os passivos fictícios são associados à falta de escrituração de pagamentos efetuados e admitem a presunção de omissão de receitas. Uma maneira de identificar esse artifício é",
+      "options": [
+        {"key": "A", "text": "aplicar testes para subavaliação de passivos e contas a receber."},
+        {"key": "B", "text": "buscar evidências a partir de procedimentos de indagação escrita."},
+        {"key": "C", "text": "comparar o saldo da conta fornecedores, existente na data do balanço, com as duplicatas representativas deste saldo."},
+        {"key": "D", "text": "examinar a documentação de suporte aos registros contábeis relativos ao período coberto pelas demonstrações contábeis."},
+        {"key": "E", "text": "realizar conciliação bancária conjuntamente com a razão analítica do passivo."}
+      ],
+      "correctAnswer": "C",
+      "explanation": "O passivo fictício surge quando a obrigação já foi paga, mas o pagamento não foi escriturado, mantendo-se no balanço um passivo inexistente (art. 40 da Lei 9.430/1996 autoriza a presunção de omissão de receita na esfera fiscal). O procedimento eficaz é confrontar o saldo de fornecedores na data do balanço com as duplicatas/títulos que deveriam representá-lo, verificando junto aos credores e aos pagamentos posteriores se aquelas obrigações ainda existiam. Testes de subavaliação (A) vão na direção oposta: aqui o passivo está SUPERAVALIADO.",
+      "difficulty": 4
+    },
+    {
+      "subject": "Auditoria Governamental",
+      "topic": "Procedimentos substantivos — depreciação (teste preditivo/recálculo)",
+      "statement": "Um auditor estava elaborando o planejamento de um trabalho de auditoria do ativo imobilizado. A análise do relatório de auditoria do ano anterior indicou a necessidade de analisar esse grupo do ativo. Por isso, nesse trabalho, um dos objetivos foi verificar se a despesa de depreciação do ativo imobilizado fora corretamente registrada e feita em uma base consistente. Um procedimento substantivo que pode ser aplicado para atingir esse objetivo é",
+      "options": [
+        {"key": "A", "text": "analisar a documentação de aquisição de itens registrados no imobilizado."},
+        {"key": "B", "text": "aplicar testes de existência e propriedade dos ativos adquiridos no exercício de referência."},
+        {"key": "C", "text": "examinar as normas e as políticas da entidade para controle de ativos."},
+        {"key": "D", "text": "realizar testes preditivos da despesa de depreciação no período de referência."},
+        {"key": "E", "text": "examinar os registros de perdas por redução ao valor recuperável ocorridas no período."}
+      ],
+      "correctAnswer": "D",
+      "explanation": "Para verificar se a despesa de depreciação foi corretamente calculada e registrada em base consistente, o auditor desenvolve uma expectativa independente do valor (teste preditivo/recalculação — procedimento analítico substantivo, NBC TA 520): aplica as taxas e o método aprovados sobre a base depreciável e compara com o valor contabilizado. Documentação de aquisição (A) e existência/propriedade (B) atendem a outras afirmações; exame de políticas (C) é entendimento de controles, não procedimento substantivo do valor; impairment (E) é mensuração distinta da depreciação.",
+      "difficulty": 3
+    },
+    {
+      "subject": "Auditoria Governamental",
+      "topic": "Procedimentos substantivos para integridade dos custos de produção (estoques)",
+      "statement": "Uma equipe de auditoria foi designada para um trabalho em uma sociedade empresária fabricante de equipamentos eletrodomésticos. Um dos auditores ficou responsável por apresentar uma minuta de planejamento de procedimentos para auditoria dos estoques de produtos acabados. O objetivo era gerar evidências quanto à integridade dos custos de produção alocados no período em análise. O auditor indicou na minuta os seguintes procedimentos substantivos: I. Procedimentos analíticos. II. Inspeção física dos estoques de produtos acabados. III. Circularização junto a fornecedores de matérias-primas. IV. Teste de corte (cutoff) do custo de produtos acabados. Os procedimentos adequados ao referido objetivo de auditoria são apenas",
+      "options": [
+        {"key": "A", "text": "I e IV."},
+        {"key": "B", "text": "II e III."},
+        {"key": "C", "text": "II e IV."},
+        {"key": "D", "text": "I, III e IV."},
+        {"key": "E", "text": "II, III e IV."}
+      ],
+      "correctAnswer": "A",
+      "explanation": "O objetivo é a INTEGRIDADE (completeness) dos custos de produção alocados no período. Procedimentos analíticos (I) — como comparar custos alocados com padrões, orçamentos e períodos anteriores — detectam custos não alocados; o teste de corte (IV) assegura que os custos foram reconhecidos no período correto. A inspeção física (II) fornece evidência de EXISTÊNCIA das quantidades, não da alocação de custos; a circularização de fornecedores (III) atende a passivos/compras, não à alocação de custos de produção. Corretos: I e IV.",
+      "difficulty": 4
+    },
+    {
+      "subject": "Auditoria Governamental",
+      "topic": "Planejamento — direção, supervisão e revisão da equipe (NBC TA 300)",
+      "statement": "Como parte das atividades de planejamento de um trabalho de auditoria de demonstrações contábeis orientadas pela NBC TA 300 (R1), o auditor deve planejar a natureza, a época e a extensão do direcionamento e supervisão da equipe de trabalho e a revisão do seu trabalho. O planejamento desses elementos",
+      "options": [
+        {"key": "A", "text": "deve ser considerado inclusive quando a auditoria é realizada integralmente pelo sócio do trabalho."},
+        {"key": "B", "text": "é indiferente ao porte e à complexidade da entidade."},
+        {"key": "C", "text": "independe da área em que o trabalho de auditoria é realizado."},
+        {"key": "D", "text": "tem extensão inversa ao nível de risco de distorções relevantes."},
+        {"key": "E", "text": "varia conforme a capacidade e a competência dos membros individuais da equipe que realiza o trabalho."}
+      ],
+      "correctAnswer": "E",
+      "explanation": "A NBC TA 300 (A16-A17) estabelece que a natureza, a época e a extensão da direção, supervisão e revisão variam conforme o porte e a complexidade da entidade, a área de auditoria, os riscos avaliados de distorção relevante (relação DIRETA: quanto maior o risco, maior a supervisão) e a capacidade e competência individual dos membros da equipe — o que torna E correta e B, C e D erradas. Se o trabalho é realizado integralmente pelo sócio, não há equipe a dirigir ou supervisionar (A errada).",
+      "difficulty": 3
+    },
+    {
+      "subject": "Auditoria Governamental",
+      "topic": "Risco de distorção relevante (NBC TA 315)",
+      "statement": "Um elemento importante nos trabalhos de auditoria, que inclusive afeta o planejamento e a extensão dos procedimentos de auditoria, é o risco de distorção relevante. De acordo com a NBC TA 315 (R2), esse tipo de risco precisa ser adequadamente identificado e avaliado nos trabalhos de auditoria e",
+      "options": [
+        {"key": "A", "text": "depende majoritariamente do risco de controle."},
+        {"key": "B", "text": "deve ser identificado antes da realização dos testes dos controles internos."},
+        {"key": "C", "text": "inclui tanto aqueles causados por erro como aqueles causados por fraude."},
+        {"key": "D", "text": "não deve ser influenciado pelo entendimento do auditor sobre o ambiente em que a entidade opera."},
+        {"key": "E", "text": "requer um maior ceticismo profissional no início do trabalho de auditoria em uma entidade."}
+      ],
+      "correctAnswer": "C",
+      "explanation": "Pela NBC TA 315 (R2) c/c NBC TA 200, o risco de distorção relevante é avaliado nos níveis das demonstrações e das afirmações e abrange distorções decorrentes de ERRO (não intencionais) e de FRAUDE (intencionais — NBC TA 240). O risco de distorção relevante compõe-se de risco inerente e risco de controle (não 'majoritariamente' de controle — A errada); sua identificação decorre justamente do entendimento da entidade e seu ambiente (D errada); e o ceticismo profissional deve ser mantido DURANTE TODO o trabalho, não apenas no início (E errada).",
+      "difficulty": 2
+    },
+    {
+      "subject": "Auditoria Governamental",
+      "topic": "Estrutura Conceitual para Trabalhos de Asseguração — confiabilidade da evidência",
+      "statement": "De acordo com a NBC TA Estrutura Conceitual — Estrutura Conceitual para Trabalhos de Asseguração, a confiabilidade da evidência é influenciada por sua fonte e sua natureza e depende das circunstâncias particulares sob as quais são obtidas. Assinale a opção que, de um modo geral, indica quando a generalização sobre a confiabilidade da evidência pode ser feita.",
+      "options": [
+        {"key": "A", "text": "A evidência é mais confiável quando é obtida por meio de fontes internas às partes apropriadas."},
+        {"key": "B", "text": "A evidência que é gerada internamente é mais confiável quando os controles relacionados são efetivos."},
+        {"key": "C", "text": "A evidência gerada pela representação verbal do que foi debatido é mais confiável do que a evidência em papel."},
+        {"key": "D", "text": "A evidência obtida indiretamente por dedução é mais confiável do que a evidência obtida diretamente pelo auditor independente."},
+        {"key": "E", "text": "A evidência gerada por auditor independente que realiza o trabalho pela primeira vez é mais confiável do que a evidência gerada por auditor independente antigo."}
+      ],
+      "correctAnswer": "B",
+      "explanation": "Generalizações clássicas da Estrutura Conceitual de Asseguração (também na NBC TA 500): a evidência é mais confiável quando obtida de fontes EXTERNAS independentes (A errada); quando gerada internamente, é mais confiável se os controles internos relacionados forem efetivos (B correta); evidência documental é mais confiável que representação verbal (C errada); evidência obtida DIRETAMENTE pelo auditor é mais confiável que a obtida indiretamente ou por inferência (D errada). A antiguidade do auditor no trabalho não é critério de confiabilidade da evidência (E errada).",
+      "difficulty": 2
+    },
+    {
+      "subject": "Contabilidade Geral",
+      "topic": "Ativo não circulante mantido para venda (CPC 31) — cálculo do resultado na venda",
+      "statement": "Uma entidade que trabalha com auditoria contábil adquiriu, em 01/01/X1, por R$ 700.000 à vista, um imóvel para ser utilizado como sede. A vida útil do imóvel era estimada em 25 anos e não era considerado valor residual. Além disso, a entidade depreciava os seus ativos imobilizados de acordo com o método da linha reta. Em 31/12/X3, o imóvel foi colocado à venda. Na data, o ativo estava disponível para venda imediata e o nível hierárquico de gestão estava comprometido com o plano de venda do ativo, tendo iniciado um programa para localizar um comprador. Além disso, o valor justo do imóvel, líquido das despesas de venda, foi avaliado em R$ 720.000. Em 31/12/X4, o imóvel foi vendido por R$ 750.000 à vista. Assinale a opção que indica o resultado obtido com a venda do imóvel, contabilizado na Demonstração do Resultado do Exercício da entidade em 31/12/X4.",
+      "options": [
+        {"key": "A", "text": "R$ 30.000."},
+        {"key": "B", "text": "R$ 50.000."},
+        {"key": "C", "text": "R$ 62.727."},
+        {"key": "D", "text": "R$ 134.000."},
+        {"key": "E", "text": "R$ 162.000."}
+      ],
+      "correctAnswer": "D",
+      "explanation": "Depreciação anual = 700.000 ÷ 25 = 28.000. Em 31/12/X3 (3 anos), valor contábil = 700.000 − 84.000 = 616.000. Na data, os critérios do CPC 31 para classificação como mantido para venda estavam atendidos; o ativo é mensurado pelo MENOR entre o valor contábil (616.000) e o valor justo líquido das despesas de venda (720.000) → permanece 616.000, e a depreciação CESSA a partir da reclassificação. Resultado na venda em X4 = 750.000 − 616.000 = R$ 134.000 de ganho.",
+      "difficulty": 4
+    },
+    {
+      "subject": "Contabilidade Geral",
+      "topic": "Debêntures captadas com prêmio — apropriação na DRE",
+      "statement": "Uma sociedade empresária efetuou a captação de debêntures de longo prazo no mercado financeiro, com prêmio. No ano de X1, foi efetuado o pagamento dos juros e realizada a amortização periódica do prêmio recebido. Assinale a opção que indica a apresentação do efeito da apropriação do prêmio das debêntures na estrutura de grupos da Demonstração do Resultado do Exercício da sociedade empresária em 31/12/X1.",
+      "options": [
+        {"key": "A", "text": "Despesa Financeira."},
+        {"key": "B", "text": "Receita Financeira."},
+        {"key": "C", "text": "Outras receitas Operacionais."},
+        {"key": "D", "text": "Retificação da Receita Financeira."},
+        {"key": "E", "text": "Prêmios na emissão de debêntures a apropriar."}
+      ],
+      "correctAnswer": "A",
+      "explanation": "Pelo CPC 08 (custos de transação e prêmios na emissão de títulos) e pelo método do custo amortizado (CPC 48), o prêmio recebido na emissão integra a mensuração inicial do passivo e é apropriado ao resultado pela taxa efetiva de juros ao longo do prazo, como AJUSTE (redutor) da despesa financeira dos juros das debêntures — ou seja, o efeito é apresentado dentro do grupo de Despesas Financeiras, reduzindo-as. Não se trata de receita financeira autônoma (B/D), e 'prêmios a apropriar' (E) é conta patrimonial, não de resultado.",
+      "difficulty": 4
+    },
+    {
+      "subject": "Contabilidade Pública (CASP)",
+      "topic": "Investimento avaliado pelo método de custo — reconhecimento do rendimento",
+      "statement": "Uma entidade do setor público possui participação permanente em outra entidade. A participação é avaliada de acordo com o custo de aquisição. A entidade investidora deve reconhecer o rendimento relacionado à entidade investida quando",
+      "options": [
+        {"key": "A", "text": "receber as distribuições de lucros, apenas."},
+        {"key": "B", "text": "a entidade investida reconhecer lucro, apenas."},
+        {"key": "C", "text": "as duas entidades realizarem operações entre si, apenas."},
+        {"key": "D", "text": "a entidade investida reconhecer lucro ou prejuízo, apenas."},
+        {"key": "E", "text": "receber as distribuições de lucros e a entidade investida reconhecer lucro, apenas."}
+      ],
+      "correctAnswer": "A",
+      "explanation": "No método de custo, o investimento permanece registrado pelo custo de aquisição e o investidor reconhece receita (variação patrimonial aumentativa) somente quando adquire o direito às distribuições de lucros/dividendos declarados pela investida (regime aplicável às participações sem influência significativa — MCASP, Parte II, e NBC TSP 18/23 por referência à sistemática geral). No método da equivalência patrimonial, ao contrário, o resultado da investida afeta o investimento na proporção da participação.",
+      "difficulty": 2
+    },
+    {
+      "subject": "Contabilidade Pública (CASP)",
+      "topic": "DFC no setor público — efeito das variações cambiais (NBC TSP 12)",
+      "statement": "Uma entidade do setor público realizou transações em moeda estrangeira. Em sua Demonstração dos Fluxos de Caixa, o efeito das mudanças nas taxas cambiais sobre o caixa e equivalentes de caixa, mantidos ou devidos em moeda estrangeira, deve ser apresentado",
+      "options": [
+        {"key": "A", "text": "como atividade operacional."},
+        {"key": "B", "text": "como atividade de investimento."},
+        {"key": "C", "text": "como atividade de financiamento."},
+        {"key": "D", "text": "como caixa e equivalente de caixa."},
+        {"key": "E", "text": "separadamente dos fluxos de caixa das três atividades."}
+      ],
+      "correctAnswer": "E",
+      "explanation": "Pela NBC TSP 12 (Demonstração dos Fluxos de Caixa), os ganhos e perdas cambiais não realizados sobre caixa e equivalentes mantidos ou devidos em moeda estrangeira não são fluxos de caixa; contudo, seu efeito é apresentado na DFC de forma SEPARADA dos fluxos das atividades operacionais, de investimento e de financiamento, como item de conciliação entre os saldos inicial e final de caixa e equivalentes. Mesma regra do CPC 03 (R2) para o setor privado e do MCASP para a DFC dos entes públicos.",
+      "difficulty": 3
+    },
+    {
+      "subject": "Contabilidade Geral",
+      "topic": "Redução ao valor recuperável (CPC 01) — cálculo com dois ativos",
+      "statement": "Em 31/12/X0, uma sociedade empresária apresentava o seguinte balanço patrimonial: Ativo Circulante — Caixa R$ 45.000; Ativo não Circulante — Imobilizado R$ 130.000, composto por Móveis R$ 100.000 (depreciação acumulada de R$ 8.000) e Computadores R$ 40.000 (depreciação acumulada de R$ 2.000); Ativo Total R$ 175.000; Patrimônio Líquido — Capital Social R$ 175.000. As vidas úteis estimadas dos móveis e dos computadores eram, respectivamente, de 10 anos e de 5 anos. A sociedade empresária depreciava os seus ativos imobilizados de acordo com o método da linha reta e não considerava valor residual. Em 31/12/X1, a sociedade empresária realizou um teste de recuperabilidade de seus ativos imobilizados. No teste, ela constatou que os móveis apresentavam valor justo de R$ 85.000, sendo que as despesas com a sua remoção eram estimadas em R$ 12.000, e as despesas associadas à reorganização do negócio após a venda eram estimadas em R$ 4.000. Por sua vez, o valor em uso dos móveis era estimado em R$ 70.000. Os computadores apresentavam valor justo de R$ 32.000, sendo que os gastos diretos incrementais para deixá-los em condição de venda eram de R$ 5.000. O valor em uso dos computadores era estimado em R$ 28.000. Assinale a opção que indica os valores contabilizados como perda por desvalorização dos móveis e dos computadores, respectivamente.",
+      "options": [
+        {"key": "A", "text": "zero e zero."},
+        {"key": "B", "text": "R$ 9.000 e R$ 2.000."},
+        {"key": "C", "text": "R$ 9.000 e R$ 3.000."},
+        {"key": "D", "text": "zero e R$ 3.000."},
+        {"key": "E", "text": "R$ 13.000 e R$ 2.000."}
+      ],
+      "correctAnswer": "B",
+      "explanation": "Depreciação de X1: móveis 100.000 ÷ 10 = 10.000; computadores 40.000 ÷ 5 = 8.000. Valores contábeis em 31/12/X1: móveis = 100.000 − 8.000 − 10.000 = 82.000; computadores = 40.000 − 2.000 − 8.000 = 30.000. Valor recuperável (CPC 01) = maior entre valor justo líquido das despesas de venda e valor em uso. Móveis: VJ líquido = 85.000 − 12.000 = 73.000 (as despesas de reorganização do negócio NÃO são deduzidas, pois não decorrem diretamente da venda); valor em uso = 70.000 → recuperável 73.000 → perda = 82.000 − 73.000 = 9.000. Computadores: VJ líquido = 32.000 − 5.000 = 27.000; valor em uso = 28.000 → recuperável 28.000 → perda = 30.000 − 28.000 = 2.000. Resposta: R$ 9.000 e R$ 2.000.",
+      "difficulty": 5
+    },
+    {
+      "subject": "Contabilidade Geral",
+      "topic": "Demonstração do Valor Adicionado (CPC 09) — cálculo",
+      "statement": "Uma entidade que presta serviços de consultoria contabilizou as seguintes transações no ano de X0: receita de serviços R$ 500.000; receita com a venda de ativo imobilizado R$ 80.000; receita com aluguel de imóvel a terceiros R$ 15.000; receita com variação cambial ativa R$ 14.000; receita com direito de franquia R$ 6.000; custo dos serviços prestados R$ 160.000; custo do ativo imobilizado vendido R$ 60.000; despesa de salários de funcionários administrativos R$ 50.000; despesa com serviços de contabilidade terceirizada R$ 30.000; despesa com assistência médica a funcionários R$ 25.000; despesa com alimentação de funcionários R$ 42.000; despesa de depreciação dos ativos imobilizados usados para a prestação dos serviços R$ 18.000; despesa com aluguel da sede da empresa R$ 36.000; despesa com juros R$ 12.000. Há incidência de 34% do lucro a título de imposto de renda e contribuição social e distribuição de 30% do lucro após o imposto de renda e contribuição social aos acionistas. Todas as receitas são tributáveis e as despesas, dedutíveis. Além disso, a constituição da reserva legal não foi necessária. Em relação à Demonstração do Valor Adicionado da entidade, analise as afirmações a seguir. I. Valor adicionado recebido em transferência: R$ 21.000. II. Valor adicionado a distribuir a pessoal: R$ 75.000. III. Valor adicionado a distribuir a impostos, taxas e contribuições: R$ 61.880. IV. Valor adicionado a distribuir a remuneração de capitais próprios: R$ 36.036. V. Valor adicionado a distribuir a remuneração de capitais de terceiros: R$ 48.000. Está correto o que se afirma em",
+      "options": [
+        {"key": "A", "text": "I e II, apenas."},
+        {"key": "B", "text": "III e IV, apenas."},
+        {"key": "C", "text": "III e V, apenas."},
+        {"key": "D", "text": "I, III e V, apenas."},
+        {"key": "E", "text": "II, IV e V, apenas."}
+      ],
+      "correctAnswer": "C",
+      "explanation": "Lucro antes do IR/CS = (500.000 + 80.000 + 15.000 + 14.000 + 6.000) − (160.000 + 60.000 + 50.000 + 30.000 + 25.000 + 42.000 + 18.000 + 36.000 + 12.000) = 615.000 − 433.000 = 182.000. III: IR/CS = 34% × 182.000 = R$ 61.880 — CORRETA. V: remuneração de capitais de terceiros = juros 12.000 + aluguéis pagos 36.000 = R$ 48.000 — CORRETA (CPC 09 inclui aluguéis nessa distribuição). I: VA recebido em transferência = receitas financeiras (variação cambial 14.000) + aluguéis recebidos 15.000 + franquia 6.000 = 35.000 (não 21.000) — ERRADA. II: pessoal = salários 50.000 + assistência médica 25.000 + alimentação 42.000 = 117.000 (não 75.000) — ERRADA. IV: remuneração de capitais próprios = lucro líquido total (120.120, entre dividendos de 36.036 e lucros retidos de 84.084), não apenas os dividendos — ERRADA.",
+      "difficulty": 5
+    },
+    {
+      "subject": "Contabilidade Geral",
+      "topic": "Mensuração de estoques (CPC 16) — cálculo do custo",
+      "statement": "Uma entidade vende canetas personalizadas. Em 01/01/X0, não havia estoque. Em 02/01/X0, ela adquiriu 500 unidades de canetas para personalização e venda por R$ 6.000, para pagamento em 3 meses. Se as canetas tivessem sido adquiridas à vista, o custo unitário seria de R$ 10,00. Na data da aquisição, a entidade incorreu em gastos com frete e seguro, respectivamente, de R$ 800 e R$ 700. Para a personalização das 500 canetas são gastos R$ 1.000 em material. Além disso, é utilizada uma máquina que foi adquirida por R$ 10.000 e tem capacidade estimada em 5.000 canetas. A máquina é depreciada de acordo com o método dos benefícios gerados e a entidade não considera valor residual. Ainda, os gastos com o armazenamento das 500 canetas prontas eram de R$ 1.500. Após prontas, 50 canetas foram descartadas, por estarem com qualidade inferior ao esperado. Em 31/01/X0, as canetas foram colocadas à venda por R$ 20,00. A entidade destina aos vendedores uma comissão de 10% sobre o preço de venda. Assinale a opção que indica o valor contabilizado como estoque em 31/01/X0.",
+      "options": [
+        {"key": "A", "text": "R$ 5.850."},
+        {"key": "B", "text": "R$ 6.750."},
+        {"key": "C", "text": "R$ 7.650."},
+        {"key": "D", "text": "R$ 8.100."},
+        {"key": "E", "text": "R$ 9.000."}
+      ],
+      "correctAnswer": "C",
+      "explanation": "Pelo CPC 16, o custo de aquisição na compra a prazo é o preço equivalente à vista (500 × R$ 10 = 5.000; a diferença de R$ 1.000 é despesa financeira apropriada pelo prazo). Custo do estoque = 5.000 + frete 800 + seguro 700 + material de personalização 1.000 + depreciação da máquina pelo método das unidades produzidas (10.000 × 500/5.000 = 1.000) = R$ 8.500 para 500 unidades → R$ 17,00/unidade. Gastos de armazenamento de produto pronto (1.500) não integram o custo. As 50 canetas descartadas são perda (anormal) do período: estoque final = 450 × 17 = R$ 7.650. Teste do valor realizável líquido: VRL = 20 − 2 (comissão 10%) = 18 > 17, sem ajuste.",
+      "difficulty": 5
+    }
+  ]
+}

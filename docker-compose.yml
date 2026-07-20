@@ -1,0 +1,51 @@
+services:
+  postgres:
+    image: postgres:16-alpine
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres
+      POSTGRES_DB: auditor_ai
+    ports:
+      - "5432:5432"
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+      # Cria também o database "evolution" (usado pela Evolution API) no
+      # primeiro boot — só roda com o volume pgdata vazio.
+      - ./infra/postgres-init.sql:/docker-entrypoint-initdb.d/init.sql:ro
+
+  redis:
+    image: redis:7-alpine
+    ports:
+      - "6379:6379"
+    volumes:
+      - redisdata:/data
+
+  # WhatsApp self-hosted (grátis) — conecta via QR code, como o WhatsApp Web.
+  # Manager UI: http://localhost:8080/manager (login = EVOLUTION_API_KEY).
+  # As variáveis ${...} vêm do .env na raiz (o compose carrega sozinho).
+  evolution:
+    image: evoapicloud/evolution-api:latest
+    depends_on:
+      - postgres
+      - redis
+    ports:
+      - "8080:8080"
+    environment:
+      SERVER_URL: http://localhost:8080
+      AUTHENTICATION_API_KEY: ${EVOLUTION_API_KEY:?defina EVOLUTION_API_KEY no .env}
+      DATABASE_ENABLED: "true"
+      DATABASE_PROVIDER: postgresql
+      DATABASE_CONNECTION_URI: postgresql://postgres:postgres@postgres:5432/evolution?schema=public
+      DATABASE_CONNECTION_CLIENT_NAME: evolution
+      CACHE_REDIS_ENABLED: "true"
+      # DB 6 do Redis — não colide com o BullMQ do hermes (DB 0)
+      CACHE_REDIS_URI: redis://redis:6379/6
+      CACHE_REDIS_PREFIX_KEY: evolution
+      DEL_INSTANCE: "false"
+    volumes:
+      - evolution_instances:/evolution/instances
+
+volumes:
+  pgdata:
+  redisdata:
+  evolution_instances:

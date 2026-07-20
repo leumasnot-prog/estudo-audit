@@ -1,0 +1,15 @@
+{
+  "name": "auditor-ai",
+  "private": true,
+  "packageManager": "pnpm@9.15.0",
+  "scripts": {
+    "postinstall": "pnpm --filter @auditor-ai/db generate",
+    "dev:web": "pnpm --filter @auditor-ai/web dev",
+    "dev:hermes": "pnpm --filter @auditor-ai/hermes dev",
+    "dev:workers": "pnpm --filter @auditor-ai/hermes dev:workers",
+    "db:generate": "pnpm --filter @auditor-ai/db generate",
+    "db:migrate": "pnpm --filter @auditor-ai/db migrate",
+    "db:studio": "pnpm --filter @auditor-ai/db studio",
+    "build": "pnpm -r build"
+  }
+}

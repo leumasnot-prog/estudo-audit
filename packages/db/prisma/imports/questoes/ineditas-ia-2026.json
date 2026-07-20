@@ -1,0 +1,934 @@
+{
+  "sourceExam": "Inédita IA 2026 (estilos Cebraspe — Certo/Errado — e FGV/VUNESP — múltipla escolha), elaboradas para o perfil Auditor de Controle Externo TCE-SP/TCU, Ciências Contábeis",
+  "board": "OTHER",
+  "year": 2026,
+  "questions": [
+    {
+      "subject": "Auditoria Governamental",
+      "topic": "ISSAI 100 / NBASP 100 — elementos da auditoria do setor público",
+      "statement": "Julgue o item a seguir, com base nos princípios fundamentais de auditoria do setor público (ISSAI 100 / NBASP nível 100). Toda auditoria do setor público envolve ao menos três partes distintas: o auditor, a parte responsável e os usuários previstos, sendo que a parte responsável e os usuários previstos podem, em determinadas circunstâncias, ser a mesma pessoa ou organização.",
+      "options": [
+        {"key": "A", "text": "Certo"},
+        {"key": "B", "text": "Errado"}
+      ],
+      "correctAnswer": "A",
+      "explanation": "CERTO. A ISSAI 100 (NBASP 100, itens 25-29) estabelece que as auditorias do setor público envolvem três partes: o auditor (EFS e seus profissionais), a parte responsável (responsável pelo objeto — em regra, gestores do Executivo) e os usuários previstos (destinatários do relatório — Legislativo, órgãos de controle, sociedade). A própria norma admite que a parte responsável também pode ser usuária da informação, e que os papéis podem coincidir parcialmente conforme o arranjo institucional.",
+      "difficulty": 2
+    },
+    {
+      "subject": "Auditoria Governamental",
+      "topic": "Ceticismo profissional",
+      "statement": "Julgue o item a seguir, com base na ISSAI 100 / NBASP nível 100 e na NBC TA 200. O ceticismo profissional exigido do auditor governamental implica presumir a desonestidade da administração do órgão auditado, de modo que declarações dos gestores somente possam ser aceitas como evidência quando confirmadas por fonte externa independente.",
+      "options": [
+        {"key": "A", "text": "Certo"},
+        {"key": "B", "text": "Errado"}
+      ],
+      "correctAnswer": "B",
+      "explanation": "ERRADO. Ceticismo profissional é postura de mente questionadora e avaliação crítica das evidências, sem presumir nem a honestidade nem a desonestidade da administração (NBC TA 200, item 15 e A18-A22; ISSAI 100, item 37). O auditor não é obrigado a desconsiderar declarações da administração — deve corroborá-las na medida do risco —, e a norma não exige confirmação externa para toda e qualquer manifestação dos gestores.",
+      "difficulty": 2
+    },
+    {
+      "subject": "Auditoria Governamental",
+      "topic": "Asseguração razoável × asseguração limitada",
+      "statement": "Julgue o item a seguir, com base na ISSAI 100 / NBASP nível 100. Em um trabalho de asseguração razoável, a conclusão do auditor é expressa de forma negativa, informando que nada chegou ao seu conhecimento que indique que o objeto não esteja em conformidade com os critérios aplicáveis.",
+      "options": [
+        {"key": "A", "text": "Certo"},
+        {"key": "B", "text": "Errado"}
+      ],
+      "correctAnswer": "B",
+      "explanation": "ERRADO. O item inverte os conceitos. Na asseguração RAZOÁVEL — nível alto, porém não absoluto —, a conclusão é expressa de forma POSITIVA ('em nossa opinião, as demonstrações estão adequadas...'; 'o objeto está em conformidade, em todos os aspectos relevantes'). A forma NEGATIVA ('nada chegou ao nosso conhecimento...') é característica da asseguração LIMITADA, em que os procedimentos são de menor extensão (ISSAI 100, itens 32-33; NBC TA Estrutura Conceitual).",
+      "difficulty": 2
+    },
+    {
+      "subject": "Auditoria Governamental",
+      "topic": "Tipos de auditoria do setor público (ISSAI 100/200/300/400)",
+      "statement": "Uma equipe de um Tribunal de Contas foi designada para avaliar se os recursos de um programa estadual de merenda escolar foram aplicados com economicidade, eficiência e efetividade, examinando a relação entre insumos adquiridos, refeições servidas e impacto nutricional sobre os alunos. À luz da classificação das ISSAIs/NBASP, esse trabalho caracteriza-se como auditoria",
+      "options": [
+        {"key": "A", "text": "financeira, pois envolve exame de registros de aplicação de recursos públicos."},
+        {"key": "B", "text": "de conformidade, pois verifica a aderência da execução do programa à legislação de regência."},
+        {"key": "C", "text": "operacional, pois examina economicidade, eficiência e efetividade de programa governamental."},
+        {"key": "D", "text": "integrada, modalidade obrigatória sempre que houver exame simultâneo de insumos e resultados."},
+        {"key": "E", "text": "de levantamento, instrumento adequado para conhecer a organização e o funcionamento do programa."}
+      ],
+      "correctAnswer": "C",
+      "explanation": "A auditoria OPERACIONAL (ou de desempenho — ISSAI 300/NBASP 300) examina se programas e órgãos governamentais operam em conformidade com os princípios de economicidade, eficiência e efetividade (e eficácia), focando a relação insumo-produto-resultado-impacto. A auditoria financeira (ISSAI 200) opina sobre demonstrações contábeis; a de conformidade (ISSAI 400) verifica aderência a critérios normativos; 'levantamento' é instrumento de fiscalização do RITCU para conhecer organizações, não tipo de auditoria das ISSAIs; e não existe obrigatoriedade de auditoria 'integrada' no caso descrito.",
+      "difficulty": 2
+    },
+    {
+      "subject": "Auditoria Governamental",
+      "topic": "Modelo de risco de auditoria — cálculo do risco de detecção",
+      "statement": "No planejamento de uma auditoria financeira, a equipe fixou o risco de auditoria aceitável em 5%. Na avaliação de riscos, o risco inerente da área examinada foi estimado em 80% e o risco de controle em 50%, dado que os controles internos foram considerados apenas parcialmente efetivos. Utilizando o modelo clássico RA = RI × RC × RD, o risco de detecção que a equipe poderá admitir ao desenhar seus procedimentos substantivos é de",
+      "options": [
+        {"key": "A", "text": "2,0%."},
+        {"key": "B", "text": "5,0%."},
+        {"key": "C", "text": "8,0%."},
+        {"key": "D", "text": "12,5%."},
+        {"key": "E", "text": "40,0%."}
+      ],
+      "correctAnswer": "D",
+      "explanation": "Pelo modelo RA = RI × RC × RD, o risco de detecção é obtido por RD = RA ÷ (RI × RC) = 0,05 ÷ (0,80 × 0,50) = 0,05 ÷ 0,40 = 0,125 = 12,5%. Interpretação: como o risco combinado de distorção relevante (RI × RC = 40%) é alto, o auditor só pode admitir um risco de detecção baixo (12,5%), o que exige procedimentos substantivos mais extensos e eficazes. Distratores: 2% resulta de multiplicar 0,05 × 0,4; 40% é o risco combinado, não o de detecção.",
+      "difficulty": 3
+    },
+    {
+      "subject": "Auditoria Governamental",
+      "topic": "Materialidade (IN TCU 84/2020 e NBC TA 320)",
+      "statement": "Julgue o item a seguir, acerca da materialidade em auditorias do setor público. A materialidade possui dimensões quantitativa e qualitativa: uma distorção de valor monetário reduzido pode ser material por sua natureza ou pelo contexto em que ocorre, como nos casos de fraude, de descumprimento de exigência legal específica ou de pagamentos a agentes políticos.",
+      "options": [
+        {"key": "A", "text": "Certo"},
+        {"key": "B", "text": "Errado"}
+      ],
+      "correctAnswer": "A",
+      "explanation": "CERTO. Tanto a NBC TA 320 quanto as normas do TCU (IN TCU 84/2020 e o Manual de Auditoria Financeira do TCU) reconhecem que a materialidade não é apenas quantitativa (percentual de um benchmark, como receita ou ativo total): aspectos qualitativos — natureza do item, envolvimento de fraude ou ilegalidade, sensibilidade política (remuneração de autoridades), descumprimento de cláusulas legais — podem tornar relevante uma distorção de pequeno valor. No setor público, a sensibilidade do interesse público reforça a dimensão qualitativa (ISSAI 100, item 41).",
+      "difficulty": 2
+    },
+    {
+      "subject": "Auditoria Governamental",
+      "topic": "Procedimentos de auditoria — afirmações relacionadas",
+      "statement": "Durante auditoria financeira em uma autarquia estadual, o auditor pretende obter evidência sobre a afirmação de EXISTÊNCIA dos bens móveis registrados no imobilizado do balanço patrimonial. Entre os procedimentos a seguir, o mais adequado a esse objetivo é",
+      "options": [
+        {"key": "A", "text": "selecionar bens fisicamente localizados no almoxarifado e rastreá-los até o registro contábil."},
+        {"key": "B", "text": "selecionar itens do registro contábil do imobilizado e inspecioná-los fisicamente."},
+        {"key": "C", "text": "recalcular a depreciação acumulada dos bens registrados."},
+        {"key": "D", "text": "circularizar os fornecedores dos bens adquiridos no exercício."},
+        {"key": "E", "text": "revisar as notas explicativas sobre políticas de mensuração do imobilizado."}
+      ],
+      "correctAnswer": "B",
+      "explanation": "Para a afirmação de EXISTÊNCIA, a direção do teste parte do REGISTRO para o FÍSICO: seleciona-se o item contabilizado e verifica-se, por inspeção física, se ele de fato existe. O caminho inverso — do físico para o registro (alternativa A) — testa INTEGRIDADE/completude (se tudo o que existe foi registrado). Recalcular depreciação testa exatidão da mensuração; circularização de fornecedores é mais afeta a passivos/obrigações; e a revisão de notas atende a apresentação e divulgação (NBC TA 315/500).",
+      "difficulty": 3
+    },
+    {
+      "subject": "Auditoria Governamental",
+      "topic": "Matriz de achados",
+      "statement": "Julgue o item a seguir, sobre a documentação de auditorias governamentais conforme as práticas do TCU. Na matriz de achados, o achado de auditoria é estruturado a partir de quatro atributos essenciais — situação encontrada (condição), critério, causa e efeito —, e a evidência que suporta o achado deve ser suficiente e adequada para permitir que pessoa prudente e informada chegue às mesmas conclusões do auditor.",
+      "options": [
+        {"key": "A", "text": "Certo"},
+        {"key": "B", "text": "Errado"}
+      ],
+      "correctAnswer": "A",
+      "explanation": "CERTO. Pelas Normas de Auditoria do TCU e pelos padrões de auditoria de conformidade e operacional do Tribunal, o achado é a discrepância entre a situação encontrada (condição) e o critério, acrescida da identificação da causa e do efeito (real ou potencial) — atributos registrados na matriz de achados, junto com as evidências e propostas de encaminhamento. O teste da 'pessoa prudente e informada' ('prudent person test') é o padrão clássico de suficiência e adequação da evidência (ISSAI 100, item 49; NAT/TCU).",
+      "difficulty": 2
+    },
+    {
+      "subject": "Auditoria Governamental",
+      "topic": "Amostragem estatística × não estatística",
+      "statement": "Em uma auditoria de conformidade sobre a concessão de diárias e passagens, a equipe decidiu examinar uma amostra dos processos de concessão. Sobre as abordagens de amostragem aplicáveis (NBC TA 530), assinale a afirmativa correta.",
+      "options": [
+        {"key": "A", "text": "Na amostragem estatística, a seleção dos itens deve ser aleatória e os resultados podem ser extrapolados para a população com risco de amostragem mensurável."},
+        {"key": "B", "text": "A amostragem não estatística é vedada em auditorias do setor público, por impedir a generalização dos resultados."},
+        {"key": "C", "text": "A seleção dos itens de maior valor monetário da população caracteriza amostragem estatística por unidade monetária."},
+        {"key": "D", "text": "O risco de amostragem é eliminado quando o auditor utiliza seleção aleatória com tamanho de amostra calculado estatisticamente."},
+        {"key": "E", "text": "Na amostragem por atributos, o auditor estima o valor monetário total das distorções da população."}
+      ],
+      "correctAnswer": "A",
+      "explanation": "A amostragem estatística exige seleção aleatória dos itens e uso da teoria das probabilidades para avaliar os resultados, permitindo mensurar o risco de amostragem e projetar conclusões para a população (NBC TA 530, item 5). A não estatística é admitida (B errada), mas as conclusões dependem mais do julgamento profissional. Selecionar deliberadamente os itens de maior valor é exame dirigido, não amostragem representativa (C errada). O risco de amostragem pode ser medido e reduzido, nunca eliminado (D errada). Amostragem por atributos estima TAXA DE DESVIO (frequência), não valor monetário — esta é a amostragem por variáveis ou por unidade monetária (E errada).",
+      "difficulty": 3
+    },
+    {
+      "subject": "Auditoria Governamental",
+      "topic": "Evidência de auditoria — suficiência e adequação",
+      "statement": "Julgue o item a seguir, com base na NBC TA 500 e na ISSAI 100. A suficiência é a medida da qualidade da evidência de auditoria, enquanto a adequação é a medida de sua quantidade, de modo que a obtenção de maior volume de evidências compensa automaticamente a baixa qualidade dos elementos obtidos.",
+      "options": [
+        {"key": "A", "text": "Certo"},
+        {"key": "B", "text": "Errado"}
+      ],
+      "correctAnswer": "B",
+      "explanation": "ERRADO — o item inverte as definições e conclui mal. SUFICIÊNCIA é a medida da QUANTIDADE da evidência; ADEQUAÇÃO é a medida da QUALIDADE (relevância e confiabilidade) — NBC TA 500, item 5. Além disso, a relação não é automática: obter mais evidência pode compensar qualidade menor em certa medida, mas a simples quantidade NÃO converte evidência de baixa qualidade em suporte apropriado para as conclusões (NBC TA 200, A32).",
+      "difficulty": 2
+    },
+    {
+      "subject": "Auditoria Governamental",
+      "topic": "Opinião modificada (NBC TA 705) — escolha do tipo de opinião",
+      "statement": "Ao concluir a auditoria das demonstrações contábeis de uma empresa estatal, o auditor identificou distorção relevante no reconhecimento de provisões, que a administração se recusou a corrigir. A distorção, embora material, está restrita a um grupo específico de contas e não compromete as demonstrações como um todo. Além disso, o auditor obteve evidência apropriada e suficiente sobre todas as demais áreas. Conforme a NBC TA 705, o auditor deve emitir opinião",
+      "options": [
+        {"key": "A", "text": "adversa, pois a administração se recusou a corrigir a distorção."},
+        {"key": "B", "text": "com ressalva, pois a distorção é relevante, mas não generalizada."},
+        {"key": "C", "text": "com abstenção, pois não foi possível obter evidência sobre as provisões."},
+        {"key": "D", "text": "não modificada com parágrafo de ênfase descrevendo a distorção."},
+        {"key": "E", "text": "não modificada, desde que a distorção seja divulgada em notas explicativas."}
+      ],
+      "correctAnswer": "B",
+      "explanation": "Pela NBC TA 705, a escolha entre ressalva e opinião adversa depende de a distorção relevante ser ou não GENERALIZADA (pervasiva). Distorção relevante NÃO generalizada → opinião COM RESSALVA ('exceto por'). Distorção relevante E generalizada → opinião ADVERSA. A abstenção cabe quando o auditor NÃO consegue obter evidência apropriada e suficiente com possíveis efeitos relevantes e generalizados — não é o caso, pois houve evidência (a distorção foi identificada). Parágrafo de ênfase jamais substitui a modificação de opinião (NBC TA 706, item 8).",
+      "difficulty": 3
+    },
+    {
+      "subject": "Auditoria Governamental",
+      "topic": "Auditoria operacional — dimensões de desempenho",
+      "statement": "Julgue o item a seguir, sobre auditoria operacional. Na análise de desempenho de programas públicos, a eficiência diz respeito à relação entre os produtos entregues e os recursos empregados, enquanto a efetividade refere-se ao alcance dos resultados e impactos de médio e longo prazo pretendidos pela intervenção governamental sobre o público-alvo.",
+      "options": [
+        {"key": "A", "text": "Certo"},
+        {"key": "B", "text": "Errado"}
+      ],
+      "correctAnswer": "A",
+      "explanation": "CERTO. Pelo Manual de Auditoria Operacional do TCU e pela ISSAI 300: ECONOMICIDADE — minimizar custos dos insumos, mantida a qualidade; EFICIÊNCIA — relação produto/insumo (produtividade dos recursos empregados); EFICÁCIA — grau de alcance das metas de entrega de produtos; EFETIVIDADE — alcance dos resultados e impactos (mudança efetiva na realidade do público-alvo, no médio e longo prazo). O item descreve corretamente eficiência e efetividade.",
+      "difficulty": 2
+    },
+    {
+      "subject": "Auditoria Governamental",
+      "topic": "Controle interno — COSO I (Estrutura Integrada)",
+      "statement": "Sobre a estrutura de controle interno COSO I (Internal Control — Integrated Framework), referência das normas de auditoria governamental para avaliação de controles, assinale a alternativa que apresenta corretamente seus cinco componentes.",
+      "options": [
+        {"key": "A", "text": "Ambiente de controle; avaliação de riscos; atividades de controle; informação e comunicação; atividades de monitoramento."},
+        {"key": "B", "text": "Governança; gestão de riscos; conformidade; transparência; prestação de contas."},
+        {"key": "C", "text": "Definição de objetivos; identificação de eventos; resposta a riscos; atividades de controle; monitoramento."},
+        {"key": "D", "text": "Planejamento; execução; verificação; ação corretiva; melhoria contínua."},
+        {"key": "E", "text": "Ambiente interno; apetite a risco; segregação de funções; auditoria interna; supervisão do conselho."}
+      ],
+      "correctAnswer": "A",
+      "explanation": "Os cinco componentes do COSO I (versão 2013, com 17 princípios) são: ambiente de controle, avaliação de riscos, atividades de controle, informação e comunicação e atividades de monitoramento. A alternativa C mistura componentes do COSO II — ERM (definição de objetivos, identificação de eventos, resposta a riscos), que trata de gerenciamento de riscos corporativos; a D descreve o ciclo PDCA; as demais reúnem conceitos de governança que não correspondem aos componentes do framework.",
+      "difficulty": 2
+    },
+    {
+      "subject": "Auditoria Governamental",
+      "topic": "IN TCU 84/2020 — certificação de contas",
+      "statement": "Julgue o item a seguir, sobre a auditoria financeira integrada com conformidade aplicada à certificação de contas no âmbito federal (IN TCU 84/2020). No certificado de auditoria decorrente da prestação de contas anual, a certificação pode ser emitida com opinião sem ressalvas, com ressalvas, adversa ou com abstenção de opinião, abrangendo tanto a opinião sobre as demonstrações contábeis quanto a conclusão sobre a conformidade das transações subjacentes em todos os aspectos relevantes.",
+      "options": [
+        {"key": "A", "text": "Certo"},
+        {"key": "B", "text": "Errado"}
+      ],
+      "correctAnswer": "A",
+      "explanation": "CERTO. A IN TCU 84/2020 estruturou a certificação das contas dos administradores federais como auditoria financeira integrada com conformidade ('audit opinion' em dois pilares): (i) opinião sobre se as demonstrações contábeis refletem a posição patrimonial e os resultados; e (ii) conclusão sobre a legalidade/conformidade das transações subjacentes em todos os aspectos relevantes. As modalidades seguem o padrão das NBC TA/ISSAI: sem ressalvas (limpa), com ressalvas, adversa e abstenção (impossibilidade de opinião), refletidas no certificado de auditoria que subsidia o julgamento das contas.",
+      "difficulty": 4
+    },
+    {
+      "subject": "AFO / Orçamento Público",
+      "topic": "LRF — limites de despesa com pessoal por Poder",
+      "statement": "Julgue o item a seguir, com base na Lei de Responsabilidade Fiscal (LC 101/2000). Em um município, a despesa total com pessoal não poderá exceder 60% da receita corrente líquida, cabendo 54% ao Poder Executivo e 6% ao Poder Legislativo, incluído o Tribunal de Contas do Município, onde houver.",
+      "options": [
+        {"key": "A", "text": "Certo"},
+        {"key": "B", "text": "Errado"}
+      ],
+      "correctAnswer": "A",
+      "explanation": "CERTO. O art. 19, III, da LRF fixa o limite global municipal de 60% da RCL para a despesa total com pessoal, e o art. 20, III, faz a repartição: 6% para o Legislativo, incluído o Tribunal de Contas do Município (onde houver — apenas São Paulo e Rio de Janeiro mantêm TCMs municipais), e 54% para o Executivo. Nos estados, o total é 60% (2% Legislativo incluído o TCE, 6% Judiciário, 49% Executivo, 2% MP — art. 20, II); na União, 50% da RCL.",
+      "difficulty": 2
+    },
+    {
+      "subject": "AFO / Orçamento Público",
+      "topic": "LRF — limites de pessoal: cálculo (limite máximo, prudencial e de alerta)",
+      "statement": "O Poder Executivo de um estado apurou, ao final do quadrimestre, receita corrente líquida de R$ 40 bilhões e despesa total com pessoal de R$ 19,2 bilhões. Considerando que o limite máximo do Executivo estadual é de 49% da RCL (art. 20 da LRF), assinale a afirmativa correta.",
+      "options": [
+        {"key": "A", "text": "O Executivo ultrapassou o limite máximo, devendo eliminar o excedente em dois quadrimestres."},
+        {"key": "B", "text": "O Executivo ultrapassou o limite prudencial (46,55% da RCL), ficando vedada, entre outras medidas, a concessão de vantagens e a criação de cargos, mas não ultrapassou o limite máximo."},
+        {"key": "C", "text": "O Executivo situou-se abaixo do limite de alerta (43,17% da RCL), não cabendo qualquer comunicação do Tribunal de Contas."},
+        {"key": "D", "text": "A despesa corresponde a 48% da RCL, situação que apenas enseja o alerta do Tribunal de Contas, sem qualquer vedação legal."},
+        {"key": "E", "text": "A despesa corresponde a 45% da RCL, abaixo do limite de alerta, do prudencial e do máximo."}
+      ],
+      "correctAnswer": "B",
+      "explanation": "DTP/RCL = 19,2 ÷ 40 = 48% da RCL. Limites do Executivo estadual: máximo = 49%; prudencial = 95% × 49% = 46,55% (LRF, art. 22, parágrafo único); alerta = 90% × 49% = 44,1% (art. 59, § 1º, II). Como 46,55% < 48% < 49%, o ente ultrapassou o limite PRUDENCIAL (mas não o máximo): incidem as vedações do art. 22, parágrafo único — concessão de vantagem ou aumento, criação de cargo/emprego/função, alteração de estrutura de carreira que implique aumento de despesa, novas admissões (ressalvadas reposições de saúde, educação e segurança) e contratação de hora extra. O alerta do TC (art. 59) já teria ocorrido aos 44,1%.",
+      "difficulty": 4
+    },
+    {
+      "subject": "AFO / Orçamento Público",
+      "topic": "LC 200/2023 — Regime Fiscal Sustentável (arcabouço fiscal)",
+      "statement": "Julgue o item a seguir, sobre o Regime Fiscal Sustentável instituído pela Lei Complementar n.º 200/2023. No regime instituído pela LC 200/2023, que substituiu o teto de gastos da EC 95/2016 para a União, o crescimento real da despesa primária sujeita ao limite fica condicionado a 70% da variação real da receita primária apurada na forma da lei, observados os pisos de 0,6% e o teto de 2,5% de crescimento real ao ano.",
+      "options": [
+        {"key": "A", "text": "Certo"},
+        {"key": "B", "text": "Errado"}
+      ],
+      "correctAnswer": "A",
+      "explanation": "CERTO. A LC 200/2023 (regulamentando o art. 6º da EC 126/2022) instituiu o Regime Fiscal Sustentável: o limite de despesa primária da União cresce, em termos reais, o equivalente a 70% da variação real da receita primária acumulada em 12 meses (apurada até junho do exercício anterior), com trava inferior de 0,6% e superior de 2,5% ao ano. Há ainda mecanismo de correção: em caso de descumprimento da meta de resultado primário, o crescimento cai para 50% da variação da receita. O regime substituiu o 'teto de gastos' do Novo Regime Fiscal (EC 95/2016).",
+      "difficulty": 3
+    },
+    {
+      "subject": "AFO / Orçamento Público",
+      "topic": "Créditos adicionais — espécies",
+      "statement": "Durante o exercício, um estado precisou: (i) reforçar dotação de manutenção de escolas que se revelou insuficiente; (ii) incluir despesa para um programa novo, sem dotação específica na LOA; e (iii) atender despesas urgentes e imprevistas decorrentes de enchentes que assolaram diversos municípios. Conforme a Lei n.º 4.320/1964 e a CF/88, os créditos adicionais adequados a cada situação são, respectivamente,",
+      "options": [
+        {"key": "A", "text": "suplementar, especial e extraordinário."},
+        {"key": "B", "text": "especial, suplementar e extraordinário."},
+        {"key": "C", "text": "suplementar, extraordinário e especial."},
+        {"key": "D", "text": "extraordinário, especial e suplementar."},
+        {"key": "E", "text": "especial, extraordinário e suplementar."}
+      ],
+      "correctAnswer": "A",
+      "explanation": "Art. 41 da Lei 4.320/1964: crédito SUPLEMENTAR reforça dotação existente insuficiente (situação i); crédito ESPECIAL atende despesas sem dotação orçamentária específica (programa novo — situação ii); crédito EXTRAORDINÁRIO atende despesas urgentes e imprevistas, como as decorrentes de guerra, comoção interna ou calamidade pública (enchentes — situação iii). O extraordinário é o único que independe de indicação prévia de recursos e, na esfera federal, é aberto por medida provisória (CF, arts. 62, § 1º, I, 'd', e 167, § 3º).",
+      "difficulty": 2
+    },
+    {
+      "subject": "AFO / Orçamento Público",
+      "topic": "Regra de ouro (CF, art. 167, III)",
+      "statement": "Julgue o item a seguir, sobre as vedações orçamentárias constitucionais. A denominada regra de ouro veda a realização de operações de crédito que excedam o montante das despesas de capital, ressalvadas as autorizadas mediante créditos suplementares ou especiais com finalidade precisa, aprovados pelo Poder Legislativo por maioria absoluta.",
+      "options": [
+        {"key": "A", "text": "Certo"},
+        {"key": "B", "text": "Errado"}
+      ],
+      "correctAnswer": "A",
+      "explanation": "CERTO. É a literalidade do art. 167, III, da CF/88: veda-se a realização de operações de crédito que excedam o montante das despesas de capital — impedindo, em regra, que o ente se endivide para pagar despesa corrente —, ressalvadas as operações autorizadas mediante créditos suplementares ou especiais com finalidade precisa, aprovados pelo Poder Legislativo por maioria absoluta. A LRF (art. 32, § 3º) detalha a verificação do cumprimento da regra, apurada pelo Banco Central no caso das operações da União.",
+      "difficulty": 3
+    },
+    {
+      "subject": "AFO / Orçamento Público",
+      "topic": "Superávit financeiro — cálculo (Lei 4.320/1964, art. 43)",
+      "statement": "O balanço patrimonial de uma autarquia, encerrado em 31/12, apresentou: ativo financeiro de R$ 800 milhões; ativo permanente de R$ 2.400 milhões; passivo financeiro de R$ 550 milhões; e passivo permanente de R$ 1.900 milhões. Havia, ainda, saldo de créditos adicionais transferidos (reabertos) para o exercício seguinte no valor de R$ 30 milhões e operações de crédito a eles vinculadas de R$ 10 milhões. O superávit financeiro apurável como fonte para abertura de créditos adicionais no exercício seguinte é de",
+      "options": [
+        {"key": "A", "text": "R$ 250 milhões."},
+        {"key": "B", "text": "R$ 230 milhões."},
+        {"key": "C", "text": "R$ 270 milhões."},
+        {"key": "D", "text": "R$ 500 milhões."},
+        {"key": "E", "text": "R$ 220 milhões."}
+      ],
+      "correctAnswer": "B",
+      "explanation": "Pelo art. 43, § 2º, da Lei 4.320/1964, superávit financeiro = (ativo financeiro − passivo financeiro), conjugando-se ainda os saldos dos créditos adicionais transferidos e as operações de crédito a eles vinculadas. Cálculo: 800 − 550 = 250; deduzem-se os créditos reabertos (30), que já têm destinação, e somam-se as operações de crédito a eles vinculadas (10), que os financiam: 250 − 30 + 10 = R$ 230 milhões. O ativo e o passivo permanentes não entram no cálculo — respondem pelo saldo patrimonial, não pelo financeiro.",
+      "difficulty": 4
+    },
+    {
+      "subject": "AFO / Orçamento Público",
+      "topic": "LRF — renúncia de receita (art. 14)",
+      "statement": "Julgue o item a seguir, com base no art. 14 da LRF. A concessão de benefício tributário do qual decorra renúncia de receita deve estar acompanhada de estimativa do impacto orçamentário-financeiro no exercício em que deva iniciar sua vigência e nos dois seguintes, e deve atender ao menos a uma de duas condições: demonstração de que a renúncia foi considerada na estimativa de receita da lei orçamentária e não afetará as metas fiscais, ou previsão de medidas de compensação por meio de aumento de receita.",
+      "options": [
+        {"key": "A", "text": "Certo"},
+        {"key": "B", "text": "Errado"}
+      ],
+      "correctAnswer": "A",
+      "explanation": "CERTO. O art. 14 da LRF exige: (i) estimativa do impacto orçamentário-financeiro no exercício de início de vigência e nos dois seguintes; (ii) atendimento ao disposto na LDO; e (iii) pelo menos UMA das condições dos incisos I e II — demonstração de que a renúncia foi considerada na estimativa de receita da LOA e não afetará as metas do Anexo de Metas Fiscais, OU medidas de compensação via aumento de receita (elevação de alíquotas, ampliação de base, majoração ou criação de tributo). A renúncia abrange anistia, remissão, subsídio, crédito presumido, isenção não geral, alteração de alíquota ou base que implique redução discriminada de tributos (§ 1º).",
+      "difficulty": 3
+    },
+    {
+      "subject": "AFO / Orçamento Público",
+      "topic": "LRF — despesas de final de mandato (art. 42)",
+      "statement": "Julgue o item a seguir, com base na LRF. É vedado ao titular de Poder ou órgão, nos últimos dois quadrimestres do seu mandato, contrair obrigação de despesa que não possa ser cumprida integralmente dentro dele, ou que tenha parcelas a serem pagas no exercício seguinte sem que haja suficiente disponibilidade de caixa para esse efeito, computados na disponibilidade os encargos e despesas compromissadas a pagar até o final do exercício.",
+      "options": [
+        {"key": "A", "text": "Certo"},
+        {"key": "B", "text": "Errado"}
+      ],
+      "correctAnswer": "A",
+      "explanation": "CERTO. Trata-se da literalidade do art. 42, caput e parágrafo único, da LRF, que impede o gestor de transferir ao sucessor obrigações sem lastro financeiro: nos dois últimos quadrimestres do mandato (a partir de maio do último ano), só se pode contrair obrigação que seja paga integralmente no período ou que deixe disponibilidade de caixa suficiente para as parcelas do exercício seguinte, considerando-se os encargos e compromissos a pagar até 31 de dezembro. O descumprimento configura crime contra as finanças públicas (art. 359-C do Código Penal).",
+      "difficulty": 3
+    },
+    {
+      "subject": "AFO / Orçamento Público",
+      "topic": "Estágios da despesa pública — empenho, liquidação e pagamento",
+      "statement": "Uma secretaria estadual contratou serviços de manutenção predial. Após a prestação dos serviços do mês, o fiscal do contrato atestou a execução e o setor competente verificou o direito adquirido pelo credor, com base na nota fiscal e no contrato, apurando o valor exato a pagar. Nos termos da Lei n.º 4.320/1964, essa verificação corresponde ao estágio da despesa denominado",
+      "options": [
+        {"key": "A", "text": "empenho, que cria para o Estado obrigação de pagamento."},
+        {"key": "B", "text": "liquidação, que consiste na verificação do direito adquirido pelo credor com base nos títulos e documentos comprobatórios."},
+        {"key": "C", "text": "pagamento, que se materializa com a emissão da ordem bancária."},
+        {"key": "D", "text": "fixação, realizada no momento da aprovação da lei orçamentária."},
+        {"key": "E", "text": "suprimento de fundos, regime de adiantamento aplicável a despesas de pronto pagamento."}
+      ],
+      "correctAnswer": "B",
+      "explanation": "A LIQUIDAÇÃO é a verificação do direito adquirido pelo credor, tendo por base os títulos e documentos comprobatórios do crédito, apurando a origem e o objeto do pagamento, a importância exata e a quem se deve pagar (Lei 4.320/1964, art. 63) — exatamente o descrito (atesto + verificação). O EMPENHO (art. 58) é ato prévio que cria obrigação de pagamento pendente ou não de implemento de condição; o PAGAMENTO (arts. 64-65) é a entrega do numerário após a liquidação, mediante ordem de pagamento. 'Fixação' é estágio de planejamento da despesa, e suprimento de fundos é regime excepcional de execução, não estágio.",
+      "difficulty": 2
+    },
+    {
+      "subject": "AFO / Orçamento Público",
+      "topic": "Classificação da receita pública por categoria econômica e origem",
+      "statement": "Julgue o item a seguir, sobre a classificação das receitas orçamentárias. O produto da arrecadação de operações de crédito contratadas pelo ente e o resultado da alienação de bens imóveis classificam-se como receitas de capital, ao passo que as receitas de contribuições e a receita patrimonial decorrente de aluguéis classificam-se como receitas correntes.",
+      "options": [
+        {"key": "A", "text": "Certo"},
+        {"key": "B", "text": "Errado"}
+      ],
+      "correctAnswer": "A",
+      "explanation": "CERTO. Pelo art. 11 da Lei 4.320/1964 e pelo MCASP, são receitas de CAPITAL: operações de crédito, alienação de bens, amortização de empréstimos concedidos e transferências de capital. São receitas CORRENTES: tributária (impostos, taxas e contribuições de melhoria), de contribuições (sociais e econômicas), patrimonial (aluguéis, dividendos, aplicações financeiras), agropecuária, industrial, de serviços e transferências correntes. Pegadinha comum: aluguel é receita CORRENTE (patrimonial), embora derive de um bem; alienação do próprio bem é receita de CAPITAL.",
+      "difficulty": 2
+    },
+    {
+      "subject": "AFO / Orçamento Público",
+      "topic": "LDO — conteúdo (CF, art. 165, § 2º; LRF, art. 4º)",
+      "statement": "Julgue o item a seguir, sobre a lei de diretrizes orçamentárias. Além das funções previstas na Constituição — como estabelecer metas e prioridades e orientar a elaboração da LOA —, a LDO deve conter o Anexo de Metas Fiscais, com metas anuais de receitas, despesas, resultados nominal e primário e montante da dívida pública para o exercício a que se referir e para os dois seguintes, e o Anexo de Riscos Fiscais, com a avaliação dos passivos contingentes.",
+      "options": [
+        {"key": "A", "text": "Certo"},
+        {"key": "B", "text": "Errado"}
+      ],
+      "correctAnswer": "A",
+      "explanation": "CERTO. A CF (art. 165, § 2º) atribui à LDO: metas e prioridades da administração, orientação da elaboração da LOA, alterações na legislação tributária, política de aplicação das agências de fomento e, após a EC 109/2021, também a possibilidade de dispor sobre equilíbrio entre receitas e despesas e critérios de contingenciamento. A LRF (art. 4º, §§ 1º a 3º) acrescentou o Anexo de Metas Fiscais — metas anuais, em valores correntes e constantes, de receitas, despesas, resultados nominal e primário e montante da dívida, para o exercício e os dois seguintes — e o Anexo de Riscos Fiscais, com avaliação de passivos contingentes e outros riscos.",
+      "difficulty": 3
+    },
+    {
+      "subject": "AFO / Orçamento Público",
+      "topic": "RREO × RGF — abrangência e periodicidade",
+      "statement": "Sobre os instrumentos de transparência da gestão fiscal previstos na LRF, assinale a afirmativa correta.",
+      "options": [
+        {"key": "A", "text": "O Relatório Resumido da Execução Orçamentária (RREO) tem periodicidade quadrimestral e o Relatório de Gestão Fiscal (RGF), bimestral."},
+        {"key": "B", "text": "O RREO é publicado até trinta dias após o encerramento de cada bimestre, e o RGF, até trinta dias após o encerramento de cada quadrimestre, admitida a periodicidade semestral do RGF para municípios com menos de cinquenta mil habitantes que exerçam a opção legal."},
+        {"key": "C", "text": "O RGF é exigido apenas do Poder Executivo, ao passo que o RREO deve ser emitido por todos os Poderes e órgãos autônomos."},
+        {"key": "D", "text": "A não publicação do RREO no prazo legal sujeita o ente apenas a recomendação do Tribunal de Contas, sem impedir o recebimento de transferências voluntárias."},
+        {"key": "E", "text": "O demonstrativo da despesa com pessoal integra o RREO, e o demonstrativo do resultado primário integra o RGF."}
+      ],
+      "correctAnswer": "B",
+      "explanation": "O RREO (CF, art. 165, § 3º; LRF, arts. 52-53) abrange todos os Poderes, é consolidado pelo Executivo e publicado até 30 dias após o fim de cada BIMESTRE. O RGF (LRF, arts. 54-55) é emitido por cada Poder e órgão autônomo (Executivo, Legislativo, Judiciário, MP, Tribunais de Contas, Defensoria) ao fim de cada QUADRIMESTRE, publicado em até 30 dias; municípios com menos de 50 mil habitantes podem optar por divulgação SEMESTRAL (art. 63). A inversão das periodicidades (A) é o distrator clássico. O descumprimento dos prazos impede transferências voluntárias e contratação de operações de crédito (arts. 51, § 2º, e 55, § 3º) — D errada. Pessoal está no RGF; resultado primário, no RREO — E invertida. C errada: é o contrário.",
+      "difficulty": 3
+    },
+    {
+      "subject": "AFO / Orçamento Público",
+      "topic": "Emendas parlamentares impositivas (CF, art. 166, §§ 9º a 20)",
+      "statement": "Julgue o item a seguir, sobre o orçamento impositivo. As emendas individuais ao projeto de lei orçamentária são de execução obrigatória até o limite de 2% da receita corrente líquida do exercício anterior ao do encaminhamento do projeto, sendo que metade desse percentual deve ser destinada a ações e serviços públicos de saúde, admitido o não pagamento apenas nos casos de impedimento de ordem técnica devidamente justificado.",
+      "options": [
+        {"key": "A", "text": "Certo"},
+        {"key": "B", "text": "Errado"}
+      ],
+      "correctAnswer": "A",
+      "explanation": "CERTO. Desde a EC 86/2015, alterada pelas EC 100/2019 e 126/2022, as emendas individuais são impositivas: aprovação e execução obrigatórias no limite de 2% da RCL do exercício anterior ao do encaminhamento do PLOA (CF, art. 166, § 9º), com metade da programação destinada a ações e serviços públicos de saúde (§ 9º-A c/c § 10). A execução equitativa e obrigatória comporta exceção nos impedimentos de ordem técnica (§§ 12-13). As emendas de bancada estadual também são impositivas (§ 12, EC 100/2019), no limite de 1% da RCL. A EC 126/2022 remanejou percentuais entre individuais e de bancada a partir de 2023, mantendo o total de 2% para as individuais.",
+      "difficulty": 4
+    },
+    {
+      "subject": "AFO / Orçamento Público",
+      "topic": "Receita corrente líquida — cálculo (LRF, art. 2º, IV)",
+      "statement": "Um município apresentou, no período de referência de 12 meses, os seguintes valores, em R$ milhões: receitas tributárias, 900; receitas de contribuições (inclusive contribuição dos servidores ao RPPS de 60), 200; transferências correntes recebidas (FPM, ICMS-quota, FUNDEB), 1.400; receita patrimonial, 100; operações de crédito, 300; alienação de bens, 150; e compensação financeira entre regimes de previdência recebida, 20. Para fins da LRF, a receita corrente líquida do município é de, em R$ milhões,",
+      "options": [
+        {"key": "A", "text": "2.520."},
+        {"key": "B", "text": "2.540."},
+        {"key": "C", "text": "2.600."},
+        {"key": "D", "text": "2.990."},
+        {"key": "E", "text": "3.070."}
+      ],
+      "correctAnswer": "A",
+      "explanation": "RCL = somatório das receitas CORRENTES (tributárias 900 + contribuições 200 + transferências correntes 1.400 + patrimonial 100 = 2.600), deduzidas, no caso dos municípios, a contribuição dos servidores para o custeio do seu sistema de previdência (60) e as receitas de compensação financeira entre regimes (20): 2.600 − 60 − 20 = R$ 2.520 milhões (LRF, art. 2º, IV, 'c', e § 1º). Operações de crédito (300) e alienação de bens (150) são receitas de CAPITAL e não entram na RCL. Diferentemente da União e dos estados, o município não deduz transferências constitucionais concedidas (ele é recebedor). A apuração considera o mês de referência e os 11 anteriores (§ 3º).",
+      "difficulty": 4
+    },
+    {
+      "subject": "Controle Externo",
+      "topic": "Parecer prévio e julgamento das contas do prefeito (CF, art. 31)",
+      "statement": "Julgue o item a seguir, sobre o controle externo municipal. Segundo a jurisprudência do STF, tanto as contas de governo quanto as contas de gestão do prefeito são julgadas pela Câmara Municipal, cabendo ao Tribunal de Contas competente a emissão de parecer prévio, que somente deixará de prevalecer por decisão de dois terços dos membros da Câmara.",
+      "options": [
+        {"key": "A", "text": "Certo"},
+        {"key": "B", "text": "Errado"}
+      ],
+      "correctAnswer": "A",
+      "explanation": "CERTO. No RE 848.826/DF (repercussão geral, Tema 835, j. 2016), o STF firmou que, para fins do art. 1º, I, 'g', da LC 64/1990 e do art. 31 da CF, a competência para julgar as contas do prefeito — inclusive quando atua como ordenador de despesas (contas de gestão) — é da CÂMARA MUNICIPAL; o Tribunal de Contas emite parecer prévio, de caráter opinativo, que só deixa de prevalecer por decisão de 2/3 dos vereadores (CF, art. 31, § 2º). Cuidado: para os DEMAIS administradores municipais (secretários, dirigentes de autarquias), o Tribunal de Contas julga diretamente as contas de gestão (art. 71, II, por simetria).",
+      "difficulty": 3
+    },
+    {
+      "subject": "Controle Externo",
+      "topic": "Sustação de atos e contratos (CF, art. 71, §§ 1º e 2º)",
+      "statement": "No curso de fiscalização, um Tribunal de Contas verificou ilegalidade em um ato administrativo de dispensa indevida de licitação e, em outro processo, ilegalidade em contrato administrativo em plena execução. Sobre as competências constitucionais aplicáveis (CF, art. 71, IX e X e §§ 1º e 2º), assinale a afirmativa correta.",
+      "options": [
+        {"key": "A", "text": "O Tribunal pode sustar diretamente tanto o ato quanto o contrato, comunicando a decisão ao Poder Legislativo."},
+        {"key": "B", "text": "Verificada a ilegalidade do ato, o Tribunal assina prazo para correção e, não atendido, susta a execução do ato; quanto ao contrato, o ato de sustação compete ao Poder Legislativo, que solicitará ao Executivo as medidas cabíveis."},
+        {"key": "C", "text": "A sustação de atos e contratos é competência privativa do Poder Legislativo, limitando-se o Tribunal a representar."},
+        {"key": "D", "text": "O Tribunal somente pode sustar contratos após decisão judicial transitada em julgado."},
+        {"key": "E", "text": "Se o Legislativo não se pronunciar sobre a sustação do contrato em trinta dias, o contrato é automaticamente rescindido."}
+      ],
+      "correctAnswer": "B",
+      "explanation": "Regime do art. 71 da CF/88: quanto a ATOS ilegais, o Tribunal assina prazo para que o órgão adote as providências (inciso IX) e, não atendido, SUSTA a execução do ato, comunicando à Câmara e ao Senado (inciso X). Quanto a CONTRATOS, o ato de sustação é adotado diretamente pelo CONGRESSO NACIONAL (Poder Legislativo), que solicita de imediato ao Executivo as medidas cabíveis (§ 1º); se, em 90 dias, Congresso e Executivo não efetivarem as medidas, o Tribunal DECIDE a respeito (§ 2º) — segundo o TCU, inclusive podendo então sustar o contrato. Não há rescisão automática nem necessidade de decisão judicial.",
+      "difficulty": 3
+    },
+    {
+      "subject": "Controle Externo",
+      "topic": "Registro de aposentadorias e pensões — prazo de 5 anos (RE 636.553)",
+      "statement": "Julgue o item a seguir, conforme a jurisprudência do STF sobre atos sujeitos a registro. A apreciação da legalidade do ato de concessão inicial de aposentadoria, para fins de registro, deve ocorrer no prazo de cinco anos, contado da chegada do processo ao Tribunal de Contas; findo esse prazo sem decisão, o ato considera-se registrado tacitamente, dispensada, em qualquer caso, a garantia de contraditório e ampla defesa ao interessado durante a apreciação.",
+      "options": [
+        {"key": "A", "text": "Certo"},
+        {"key": "B", "text": "Errado"}
+      ],
+      "correctAnswer": "B",
+      "explanation": "ERRADO — a parte final invalida o item. No RE 636.553 (Tema 445, j. 2020), o STF fixou que o Tribunal de Contas deve apreciar a legalidade do ato de concessão inicial de aposentadoria, reforma ou pensão em 5 anos da chegada do processo, sob pena de registro tácito. A concessão inicial é ato COMPLEXO, que se aperfeiçoa com o registro, e DENTRO do quinquênio não se exige contraditório do interessado (Súmula Vinculante 3, parte final, ressalva a apreciação inicial). Porém a dispensa não vale 'em qualquer caso': ultrapassados os 5 anos (na sistemática anterior ao Tema 445) ou em revisões posteriores, o contraditório é exigível. A generalização 'em qualquer caso, dispensada a ampla defesa' torna o item errado.",
+      "difficulty": 4
+    },
+    {
+      "subject": "Controle Externo",
+      "topic": "Sanções da Lei Orgânica do TCU (Lei 8.443/1992)",
+      "statement": "Com base na Lei n.º 8.443/1992, assinale a alternativa correta a respeito das sanções e medidas à disposição do TCU.",
+      "options": [
+        {"key": "A", "text": "Julgadas irregulares as contas com débito, o responsável fica sujeito apenas à devolução do valor atualizado, vedada a cumulação com multa."},
+        {"key": "B", "text": "O TCU pode declarar a inidoneidade do licitante fraudador para participar de licitação na administração pública federal por até dez anos."},
+        {"key": "C", "text": "Verificada a ocorrência de fraude comprovada à licitação, o Tribunal declarará a inidoneidade do licitante fraudador para participar, por até cinco anos, de licitação na administração pública federal."},
+        {"key": "D", "text": "A inabilitação para o exercício de cargo em comissão ou função de confiança na administração federal pode ser aplicada por prazo de um a dez anos."},
+        {"key": "E", "text": "As multas aplicadas pelo TCU dependem de inscrição em dívida ativa e de ação judicial do Ministério Público para serem exigíveis."}
+      ],
+      "correctAnswer": "C",
+      "explanation": "O art. 46 da Lei 8.443/1992 prevê a declaração de inidoneidade do licitante fraudador para participar de licitação na administração pública federal por até CINCO anos (C correta; B errada). O art. 57 permite multa de até 100% do dano cumulativamente com o débito (A errada). A inabilitação para cargo em comissão ou função de confiança é de CINCO a OITO anos (art. 60 — D errada). As decisões do Tribunal de que resulte imputação de débito ou multa têm eficácia de TÍTULO EXECUTIVO extrajudicial (CF, art. 71, § 3º; art. 24 da Lei 8.443/1992), dispensando processo de conhecimento (E errada).",
+      "difficulty": 4
+    },
+    {
+      "subject": "Controle Externo",
+      "topic": "Declaração de Lima — independência das EFS",
+      "statement": "Julgue o item a seguir, sobre a Declaração de Lima (INTOSAI, 1977). Segundo a Declaração de Lima, as Entidades Fiscalizadoras Superiores devem ter independência funcional e organizacional, assegurada em nível constitucional, bem como autonomia financeira, cabendo-lhes o direito de solicitar diretamente ao órgão responsável pelo orçamento os recursos financeiros necessários ao desempenho de suas funções.",
+      "options": [
+        {"key": "A", "text": "Certo"},
+        {"key": "B", "text": "Errado"}
+      ],
+      "correctAnswer": "A",
+      "explanation": "CERTO. A Declaração de Lima (Seções 5 a 7) preconiza: independência das EFS e de seus membros garantida na CONSTITUIÇÃO (a lei detalha), inclusive proteção contra influências externas; e independência FINANCEIRA — as EFS devem dispor dos meios financeiros necessários, com direito de solicitar diretamente os recursos ao órgão competente pelo orçamento nacional e de utilizar autonomamente as dotações consignadas. Esses princípios foram desenvolvidos pela Declaração do México (ISSAI 10), que lista os oito princípios de independência das EFS.",
+      "difficulty": 3
+    },
+    {
+      "subject": "Controle Externo",
+      "topic": "Declaração do México (ISSAI 10) — oito princípios de independência",
+      "statement": "A Declaração do México sobre a Independência das Entidades Fiscalizadoras Superiores (ISSAI 10) consagra oito princípios básicos. Assinale a alternativa que NÃO corresponde a um desses princípios.",
+      "options": [
+        {"key": "A", "text": "Existência de marco constitucional/legal apropriado que assegure a independência da EFS."},
+        {"key": "B", "text": "Independência dos dirigentes e membros da EFS, incluindo segurança no cargo e imunidade no cumprimento de suas funções."},
+        {"key": "C", "text": "Mandato suficientemente amplo e plena discricionariedade no desempenho das funções da EFS."},
+        {"key": "D", "text": "Acesso irrestrito à informação necessária ao desempenho de suas atribuições."},
+        {"key": "E", "text": "Subordinação administrativa e orçamentária da EFS ao Poder Executivo, para garantir o alinhamento da fiscalização às prioridades do governo."}
+      ],
+      "correctAnswer": "E",
+      "explanation": "Os oito princípios da Declaração do México (ISSAI 10) são: (1) marco constitucional/legal apropriado; (2) independência dos dirigentes e membros, com segurança no cargo e imunidade funcional; (3) mandato amplo e plena discricionariedade; (4) acesso irrestrito à informação; (5) direito e obrigação de informar (relatar sobre seu trabalho); (6) liberdade para decidir conteúdo e momento de seus relatórios, publicá-los e divulgá-los; (7) mecanismos eficazes de acompanhamento (follow-up) das recomendações; e (8) autonomia financeira/gerencial e recursos apropriados. Subordinação ao Executivo (E) é a antítese da independência — as EFS fiscalizam justamente o governo.",
+      "difficulty": 3
+    },
+    {
+      "subject": "Controle Externo",
+      "topic": "Composição dos Tribunais de Contas estaduais (CF, art. 75)",
+      "statement": "Julgue o item a seguir, sobre a organização dos Tribunais de Contas. Por força do princípio da simetria, os Tribunais de Contas dos Estados são integrados por sete conselheiros, dos quais, conforme a jurisprudência do STF, quatro são escolhidos pela Assembleia Legislativa e três pelo Governador, cabendo a este indicar, dentre os seus, alternadamente, auditores e membros do Ministério Público junto ao Tribunal, e um de livre escolha.",
+      "options": [
+        {"key": "A", "text": "Certo"},
+        {"key": "B", "text": "Errado"}
+      ],
+      "correctAnswer": "A",
+      "explanation": "CERTO. O art. 75, parágrafo único, da CF fixa em SETE o número de conselheiros dos TCEs. A Súmula 653 do STF define a repartição simétrica ao modelo federal (art. 73, § 2º): quatro escolhidos pela Assembleia Legislativa e três pelo chefe do Executivo estadual, cabendo a este indicar um dentre auditores (ministros/conselheiros-substitutos), um dentre membros do Ministério Público junto ao Tribunal (indicados em lista tríplice) e um de livre escolha, atendidos os requisitos constitucionais (idoneidade moral, notórios conhecimentos, mais de dez anos de exercício etc.).",
+      "difficulty": 3
+    },
+    {
+      "subject": "Controle Externo",
+      "topic": "Eficácia de título executivo das decisões (CF, art. 71, § 3º)",
+      "statement": "Julgue o item a seguir, sobre a eficácia das decisões dos Tribunais de Contas. As decisões do Tribunal de Contas de que resulte imputação de débito ou multa têm eficácia de título executivo extrajudicial, podendo o próprio Tribunal, na omissão do órgão de representação judicial competente, promover diretamente a execução judicial do valor devido.",
+      "options": [
+        {"key": "A", "text": "Certo"},
+        {"key": "B", "text": "Errado"}
+      ],
+      "correctAnswer": "B",
+      "explanation": "ERRADO. A primeira parte é correta: as decisões de que resulte imputação de débito ou multa têm eficácia de título executivo (CF, art. 71, § 3º), dispensando inscrição prévia em processo judicial de conhecimento. Contudo, o Tribunal de Contas NÃO possui legitimidade para promover a execução judicial de suas próprias decisões: a cobrança compete ao ente público beneficiário, por sua procuradoria/advocacia pública (STF, RE 223.037; RE 1.003.433 — Tema 642 firmou que a legitimidade é do ente FEDERADO prejudicado, e o TCU executa por meio da AGU no caso federal). O TC condena, mas não executa.",
+      "difficulty": 4
+    },
+    {
+      "subject": "Controle Externo",
+      "topic": "Tomada de contas especial — pressupostos e natureza",
+      "statement": "Sobre a tomada de contas especial (TCE) no âmbito do controle externo federal (Lei 8.443/1992 e IN TCU 71/2012), assinale a afirmativa correta.",
+      "options": [
+        {"key": "A", "text": "A TCE é a primeira providência a ser adotada diante de qualquer irregularidade, independentemente da adoção de medidas administrativas internas."},
+        {"key": "B", "text": "A TCE é medida de exceção, instaurada pela autoridade administrativa competente, após esgotadas as medidas administrativas internas, para apuração dos fatos, identificação dos responsáveis e quantificação do dano ao erário."},
+        {"key": "C", "text": "A instauração da TCE compete exclusivamente ao Tribunal de Contas, vedada a instauração pela autoridade administrativa."},
+        {"key": "D", "text": "O julgamento da TCE pela irregularidade das contas impede a atuação sancionatória de outras instâncias, como a improbidade administrativa."},
+        {"key": "E", "text": "A omissão no dever de prestar contas não autoriza a instauração de TCE, por ausência de dano quantificável."}
+      ],
+      "correctAnswer": "B",
+      "explanation": "A TCE é processo de natureza excepcional (medida de exceção): só se instaura depois de esgotadas, sem êxito, as medidas administrativas para caracterização ou elisão do dano (IN TCU 71/2012, art. 2º; Lei 8.443/1992, art. 8º). Objetiva apurar os fatos, identificar os responsáveis e quantificar o dano, visando ao ressarcimento. É instaurada pela autoridade administrativa competente e, na sua omissão, o Tribunal determina a instauração (instauração 'ex officio' subsidiária) — C errada. A omissão no dever de prestar contas é hipótese legal expressa de instauração (art. 8º, caput) — E errada. As instâncias são independentes (D errada) e A contraria a excepcionalidade.",
+      "difficulty": 3
+    },
+    {
+      "subject": "Controle Externo",
+      "topic": "Controle interno e apoio ao controle externo (CF, art. 74)",
+      "statement": "Julgue o item a seguir, sobre o sistema de controle interno previsto na Constituição. Os responsáveis pelo controle interno, ao tomarem conhecimento de qualquer irregularidade ou ilegalidade, dela darão ciência ao Tribunal de Contas, sob pena de responsabilidade solidária, e qualquer cidadão, partido político, associação ou sindicato é parte legítima para, na forma da lei, denunciar irregularidades perante o Tribunal de Contas.",
+      "options": [
+        {"key": "A", "text": "Certo"},
+        {"key": "B", "text": "Errado"}
+      ],
+      "correctAnswer": "A",
+      "explanation": "CERTO. Reprodução fiel do art. 74 da CF/88: § 1º — os responsáveis pelo controle interno, ao tomarem conhecimento de qualquer irregularidade ou ilegalidade, dela darão ciência ao TCU (e, por simetria, aos demais TCs), sob pena de responsabilidade SOLIDÁRIA; § 2º — qualquer cidadão, partido político, associação ou sindicato é parte legítima para, na forma da lei, denunciar irregularidades ou ilegalidades perante o Tribunal. Os quatro incisos do caput trazem as finalidades do controle interno, entre elas apoiar o controle externo no exercício de sua missão institucional (IV).",
+      "difficulty": 2
+    },
+    {
+      "subject": "Controle Externo",
+      "topic": "Denúncia × representação (Lei 8.443/1992 e RITCU)",
+      "statement": "Acerca dos instrumentos de provocação da atuação dos Tribunais de Contas, assinale a afirmativa correta.",
+      "options": [
+        {"key": "A", "text": "A denúncia pode ser apresentada por qualquer pessoa jurídica de direito público, sendo vedada a denúncia por cidadão."},
+        {"key": "B", "text": "A representação é privativa do Ministério Público junto ao Tribunal de Contas."},
+        {"key": "C", "text": "A denúncia sobre matéria de competência do Tribunal pode ser formulada por qualquer cidadão, partido político, associação ou sindicato, observados os requisitos de admissibilidade, como referir-se a administrador sujeito à jurisdição do Tribunal e estar redigida em linguagem clara e objetiva, com indício de prova."},
+        {"key": "D", "text": "O sigilo do denunciante é absoluto e não pode ser afastado nem por decisão judicial."},
+        {"key": "E", "text": "Equipes de fiscalização do próprio Tribunal comunicam irregularidades detectadas por meio de denúncia."}
+      ],
+      "correctAnswer": "C",
+      "explanation": "A DENÚNCIA é o instrumento do cidadão, partido político, associação ou sindicato (CF, art. 74, § 2º; Lei 8.443/1992, art. 53), com requisitos de admissibilidade: matéria de competência do Tribunal, responsável sujeito à sua jurisdição, linguagem clara e objetiva, identificação do denunciante e indício de prova. A REPRESENTAÇÃO é o instrumento típico de agentes públicos (autoridades, órgãos de controle interno, licitantes nos termos das leis de licitações, unidades técnicas e MP de Contas — RITCU, art. 237): não é privativa do MP (B errada). Equipes de fiscalização representam, não denunciam (E errada). O sigilo do denunciante é a regra, mas não é absoluto (D errada); a A inverte a legitimidade.",
+      "difficulty": 3
+    },
+    {
+      "subject": "Contabilidade Pública (CASP)",
+      "topic": "DFC (NBC TSP 12) — cálculo do fluxo das atividades operacionais",
+      "statement": "Uma autarquia apresentou, no exercício, os seguintes fluxos de caixa, em R$ mil: recebimento de tributos e contribuições, 5.000; recebimento de transferências correntes, 1.200; pagamento a fornecedores de bens e serviços de consumo, 2.300; pagamento de pessoal e encargos, 2.800; aquisição de equipamentos à vista, 900; recebimento pela alienação de um imóvel, 400; captação de operação de crédito de longo prazo, 600; amortização do principal da dívida, 350; e pagamento de juros da dívida, 150. Conforme a NBC TSP 12 e o MCASP, o fluxo de caixa líquido das atividades operacionais foi de",
+      "options": [
+        {"key": "A", "text": "R$ 950 mil."},
+        {"key": "B", "text": "R$ 1.100 mil."},
+        {"key": "C", "text": "R$ 700 mil."},
+        {"key": "D", "text": "R$ 600 mil."},
+        {"key": "E", "text": "R$ 1.250 mil."}
+      ],
+      "correctAnswer": "A",
+      "explanation": "Atividades OPERACIONAIS: recebimentos de tributos/contribuições (5.000) e de transferências correntes (1.200), menos pagamentos a fornecedores (2.300), pessoal (2.800) e JUROS da dívida (150 — pelo MCASP, os juros e encargos da dívida integram o fluxo operacional): 5.000 + 1.200 − 2.300 − 2.800 − 150 = R$ 950 mil. A aquisição de equipamentos (−900) e a alienação de imóvel (+400) são atividades de INVESTIMENTO; a captação (+600) e a amortização do principal (−350) são atividades de FINANCIAMENTO ou de captação/amortização de empréstimos. O distrator B (1.100) resulta de excluir os juros do fluxo operacional.",
+      "difficulty": 4
+    },
+    {
+      "subject": "Contabilidade Pública (CASP)",
+      "topic": "NBC TSP Estrutura Conceitual — usuários primários e RCPGs",
+      "statement": "Julgue o item a seguir, com base na NBC TSP Estrutura Conceitual. Os relatórios contábeis de propósito geral das entidades do setor público (RCPGs) destinam-se primariamente aos usuários dos serviços e aos provedores de recursos — e seus representantes — que não possuem condições de exigir informações elaboradas sob medida para atender às suas necessidades específicas.",
+      "options": [
+        {"key": "A", "text": "Certo"},
+        {"key": "B", "text": "Errado"}
+      ],
+      "correctAnswer": "A",
+      "explanation": "CERTO. Pela NBC TSP Estrutura Conceitual (itens 2.4 a 2.7), os usuários primários dos RCPGs são os USUÁRIOS DOS SERVIÇOS (cidadãos e demais beneficiários) e os PROVEDORES DE RECURSOS (contribuintes, doadores, credores/emprestadores), bem como seus representantes (Poder Legislativo, membros do parlamento). A razão é justamente a incapacidade desses usuários de exigir da entidade informações customizadas — ao contrário, por exemplo, de órgãos reguladores ou de fiscalização que detêm poder para requisitar relatórios específicos. Governos e reguladores podem usar os RCPGs, mas não são seus destinatários primários.",
+      "difficulty": 2
+    },
+    {
+      "subject": "Contabilidade Pública (CASP)",
+      "topic": "Depreciação no setor público — cálculo (método linear com valor residual)",
+      "statement": "Um órgão público adquiriu, em 01/01/X1, um caminhão de coleta por R$ 500.000, com vida útil estimada de 10 anos e valor residual de R$ 60.000, adotando o método das quotas constantes. Em 01/01/X4, após reavaliação da capacidade de uso, a administração revisou a vida útil remanescente para 4 anos e o valor residual para R$ 40.000. Conforme o MCASP e a NBC TSP 07, a despesa (VPD) de depreciação do exercício de X4 é de",
+      "options": [
+        {"key": "A", "text": "R$ 44.000."},
+        {"key": "B", "text": "R$ 78.000."},
+        {"key": "C", "text": "R$ 82.000."},
+        {"key": "D", "text": "R$ 92.000."},
+        {"key": "E", "text": "R$ 115.000."}
+      ],
+      "correctAnswer": "C",
+      "explanation": "Depreciação anual original = (500.000 − 60.000) ÷ 10 = 44.000. Depreciação acumulada em três exercícios (X1 a X3) = 132.000; valor contábil em 01/01/X4 = 500.000 − 132.000 = 368.000. A revisão de vida útil e de valor residual é mudança de ESTIMATIVA contábil, aplicada de forma PROSPECTIVA, sem retificar exercícios anteriores (NBC TSP 07, itens 65-68; MCASP, Parte II — Procedimentos Contábeis Patrimoniais): nova base depreciável = 368.000 − 40.000 = 328.000, distribuída pela vida útil remanescente de 4 anos → VPD de depreciação de X4 = 328.000 ÷ 4 = R$ 82.000. Distratores: A mantém a quota original; B usa residual de 56.000; D ignora o novo valor residual (368.000 ÷ 4 = 92.000); E usa vida remanescente incorreta.",
+      "difficulty": 4
+    },
+    {
+      "subject": "Contabilidade Pública (CASP)",
+      "topic": "Reavaliação e redução ao valor recuperável no setor público",
+      "statement": "Julgue o item a seguir, com base no MCASP e na NBC TSP 07. No setor público, quando um item do imobilizado é reavaliado e o resultado da reavaliação é positivo, o acréscimo deve ser reconhecido diretamente no resultado patrimonial do exercício como variação patrimonial aumentativa, ainda que não exista desvalorização anterior do mesmo ativo reconhecida no resultado.",
+      "options": [
+        {"key": "A", "text": "Certo"},
+        {"key": "B", "text": "Errado"}
+      ],
+      "correctAnswer": "B",
+      "explanation": "ERRADO. Pela NBC TSP 07 (itens 49-52) e pelo MCASP, o AUMENTO decorrente de reavaliação é creditado diretamente à conta de RESERVA DE REAVALIAÇÃO/ajuste de avaliação patrimonial no patrimônio líquido; somente será reconhecido no resultado patrimonial (VPA) na medida em que reverter uma REDUÇÃO de reavaliação do MESMO ativo anteriormente reconhecida no resultado. Simetricamente, a diminuição é reconhecida no resultado (VPD), salvo se existir saldo de reserva de reavaliação daquele ativo, que é debitado primeiro.",
+      "difficulty": 3
+    },
+    {
+      "subject": "Contabilidade Pública (CASP)",
+      "topic": "Mensuração inicial do imobilizado — custos diretamente atribuíveis",
+      "statement": "Um município adquiriu um equipamento hospitalar nas seguintes condições: preço de aquisição a prazo, R$ 1.080.000 (preço equivalente à vista de R$ 1.000.000); frete e seguro de transporte, R$ 30.000; gastos de instalação e testes de funcionamento, R$ 45.000, deduzido o valor de R$ 5.000 obtido com a venda de itens produzidos nos testes; treinamento da equipe de operadores, R$ 25.000; e cerimônia de inauguração, R$ 15.000. Conforme a NBC TSP 07, o valor de mensuração inicial do equipamento no ativo imobilizado é de",
+      "options": [
+        {"key": "A", "text": "R$ 1.070.000."},
+        {"key": "B", "text": "R$ 1.075.000."},
+        {"key": "C", "text": "R$ 1.095.000."},
+        {"key": "D", "text": "R$ 1.150.000."},
+        {"key": "E", "text": "R$ 1.190.000."}
+      ],
+      "correctAnswer": "A",
+      "explanation": "Mensuração inicial = preço equivalente à VISTA (1.000.000 — a diferença de 80.000 na compra a prazo é encargo financeiro apropriado como VPD ao longo do período) + custos diretamente atribuíveis para colocar o ativo no local e em condição de funcionamento: frete e seguro (30.000) e instalação/testes líquidos das vendas de itens produzidos nos testes (45.000 − 5.000 = 40.000). Total = R$ 1.070.000. Treinamento de pessoal e custos de inauguração/abertura NÃO integram o custo do ativo (NBC TSP 07, itens 30-36) — são VPD do período. Distratores somam treinamento (B/C) ou usam o preço a prazo (D/E).",
+      "difficulty": 3
+    },
+    {
+      "subject": "Contabilidade Pública (CASP)",
+      "topic": "Restos a pagar processados × não processados",
+      "statement": "Julgue o item a seguir, sobre restos a pagar. Consideram-se restos a pagar processados as despesas empenhadas e liquidadas, mas não pagas até 31 de dezembro, e não processados as despesas empenhadas e não liquidadas até essa data; apenas os restos a pagar processados representam, do ponto de vista patrimonial, obrigação já reconhecida como passivo exigível pela ocorrência do fato gerador.",
+      "options": [
+        {"key": "A", "text": "Certo"},
+        {"key": "B", "text": "Errado"}
+      ],
+      "correctAnswer": "B",
+      "explanation": "ERRADO — a parte final generaliza indevidamente. As definições estão corretas (Lei 4.320/1964, arts. 36 e 67; MCASP): RP processados = empenhados e liquidados, não pagos; RP não processados = empenhados e não liquidados. O erro: sob o enfoque PATRIMONIAL, o passivo exigível decorre do FATO GERADOR da obrigação, independentemente da execução orçamentária — pode haver passivo reconhecido mesmo sem liquidação formal (ex.: despesas incorridas 'em liquidação', obrigações sem empenho — passivos 'sem execução orçamentária'). Ou seja, não é correto afirmar que APENAS os RP processados representam passivo patrimonial: a liquidação é conceito orçamentário, e o reconhecimento patrimonial segue o regime de competência.",
+      "difficulty": 4
+    },
+    {
+      "subject": "Contabilidade Pública (CASP)",
+      "topic": "Lançamentos típicos — arrecadação de tributos (naturezas de informação)",
+      "statement": "No momento da arrecadação de um imposto já lançado (crédito tributário previamente reconhecido como direito a receber pelo regime de competência), a contabilidade do ente registra, entre outros efeitos: no subsistema patrimonial, débito em caixa e equivalentes e crédito em créditos tributários a receber; e, no subsistema orçamentário, o registro da realização da receita orçamentária. Julgue: nesse momento, deve ser reconhecida também uma variação patrimonial aumentativa (VPA) de impostos.",
+      "options": [
+        {"key": "A", "text": "Certo"},
+        {"key": "B", "text": "Errado"}
+      ],
+      "correctAnswer": "B",
+      "explanation": "ERRADO. Se o crédito tributário já havia sido reconhecido pelo regime de competência no momento do LANÇAMENTO (débito em créditos a receber, crédito em VPA de impostos), a arrecadação é fato PERMUTATIVO no subsistema patrimonial: troca-se o direito a receber por caixa, sem nova VPA — reconhecê-la novamente duplicaria a receita patrimonial. A receita ORÇAMENTÁRIA, por sua vez, é registrada pelo regime de caixa no momento da arrecadação (Lei 4.320/1964, art. 35), o que evidencia a independência entre os subsistemas patrimonial e orçamentário (MCASP, Partes I e II; NBC TSP 23 sobre receitas sem contraprestação).",
+      "difficulty": 4
+    },
+    {
+      "subject": "Contabilidade Pública (CASP)",
+      "topic": "Balanço patrimonial (Lei 4.320/1964) — superávit financeiro × saldo patrimonial",
+      "statement": "Julgue o item a seguir. No balanço patrimonial elaborado na forma da Lei n.º 4.320/1964, o superávit financeiro — diferença positiva entre o ativo financeiro e o passivo financeiro — equivale ao resultado patrimonial do exercício apurado na demonstração das variações patrimoniais.",
+      "options": [
+        {"key": "A", "text": "Certo"},
+        {"key": "B", "text": "Errado"}
+      ],
+      "correctAnswer": "B",
+      "explanation": "ERRADO. São conceitos distintos. O SUPERÁVIT FINANCEIRO (Lei 4.320/1964, art. 43, § 2º) é apurado no balanço patrimonial pela diferença entre ativo financeiro e passivo financeiro, conjugados os saldos de créditos adicionais e operações a eles vinculadas — é medida de disponibilidade para abertura de créditos adicionais. O RESULTADO PATRIMONIAL é apurado na DVP (art. 104) pelo confronto entre variações patrimoniais aumentativas e diminutivas do exercício, sob regime de competência, e afeta o saldo patrimonial. Um ente pode ter superávit financeiro com déficit patrimonial (ex.: forte depreciação sem desembolso) e vice-versa.",
+      "difficulty": 3
+    },
+    {
+      "subject": "Contabilidade Pública (CASP)",
+      "topic": "Provisões, passivos contingentes e ativos contingentes (NBC TSP 03)",
+      "statement": "Julgue o item a seguir, com base na NBC TSP 03. Uma ação judicial movida contra o ente público, cuja perda foi avaliada pelos procuradores como possível — mas não provável —, deve ser objeto de reconhecimento de provisão no balanço patrimonial, mensurada pela melhor estimativa do desembolso, dispensada a divulgação em notas explicativas.",
+      "options": [
+        {"key": "A", "text": "Certo"},
+        {"key": "B", "text": "Errado"}
+      ],
+      "correctAnswer": "B",
+      "explanation": "ERRADO — o tratamento está invertido. Pela NBC TSP 03: perda PROVÁVEL com estimativa confiável de obrigação presente → reconhece PROVISÃO (passivo) pela melhor estimativa; perda POSSÍVEL → NÃO se reconhece provisão; trata-se de PASSIVO CONTINGENTE, que deve ser DIVULGADO em notas explicativas (natureza, estimativa do efeito financeiro, incertezas); perda REMOTA → nem provisão, nem divulgação. Ativos contingentes prováveis são divulgados; só se reconhece o ativo quando a realização for praticamente certa.",
+      "difficulty": 2
+    },
+    {
+      "subject": "Contabilidade Pública (CASP)",
+      "topic": "Bens de uso comum do povo — reconhecimento como ativo",
+      "statement": "Julgue o item a seguir, com base no MCASP e na NBC TSP 07. Os bens de uso comum do povo, como praças, ruas e estradas, que absorveram ou absorvem recursos públicos, devem ser reconhecidos como ativo imobilizado do ente público responsável por sua administração ou manutenção, desde que atendam à definição de ativo — recurso controlado, com potencial de serviços ou capacidade de gerar benefícios econômicos futuros.",
+      "options": [
+        {"key": "A", "text": "Certo"},
+        {"key": "B", "text": "Errado"}
+      ],
+      "correctAnswer": "A",
+      "explanation": "CERTO. Sob o enfoque patrimonial das NBC TSP, os bens de uso comum (infraestrutura viária, praças, pontes, monumentos) devem ser reconhecidos no ativo imobilizado quando o ente exerce CONTROLE sobre o recurso (geralmente quem o administra/mantém) e dele decorre POTENCIAL DE SERVIÇOS — conceito central para ativos do setor público que não geram fluxo de caixa (NBC TSP Estrutura Conceitual, cap. 5; NBC TSP 07; MCASP, Parte II, que trata dos bens de infraestrutura e de uso comum). A tradição anterior de não contabilizá-los foi superada pela convergência às IPSAS.",
+      "difficulty": 3
+    },
+    {
+      "subject": "Contabilidade Pública (CASP)",
+      "topic": "Consolidação das contas públicas (LRF, art. 51; MCASP)",
+      "statement": "Julgue o item a seguir. Para fins de consolidação nacional das contas, os municípios devem encaminhar suas contas ao Poder Executivo da União até 30 de abril, e os estados, até 31 de maio, cabendo à Secretaria do Tesouro Nacional, como órgão central de contabilidade da União, promover a consolidação, nacional e por esfera de governo, e divulgá-la, inclusive por meio eletrônico, até 30 de junho.",
+      "options": [
+        {"key": "A", "text": "Certo"},
+        {"key": "B", "text": "Errado"}
+      ],
+      "correctAnswer": "A",
+      "explanation": "CERTO. O art. 51 da LRF determina que o Poder Executivo da União promova, até 30 de junho, a consolidação nacional e por esfera de governo das contas dos entes da Federação do exercício anterior e sua divulgação, inclusive em meio eletrônico. Os prazos de encaminhamento são: municípios, até 30 de abril, com cópia ao poder executivo estadual; estados, até 31 de maio (§ 1º). O descumprimento impede transferências voluntárias e operações de crédito, exceto refinanciamento da dívida mobiliária (§ 2º). A consolidação é operacionalizada pela STN via Siconfi (Declaração de Contas Anuais e Matriz de Saldos Contábeis).",
+      "difficulty": 3
+    },
+    {
+      "subject": "Contabilidade Pública (CASP)",
+      "topic": "DFC — método direto e transações que não afetam caixa",
+      "statement": "Julgue o item a seguir, com base na NBC TSP 12. Na demonstração dos fluxos de caixa da entidade do setor público, a depreciação de bens do imobilizado e a inscrição de restos a pagar não processados no encerramento do exercício constituem, ambas, transações que não envolvem caixa e, por isso, não transitam pelos fluxos apresentados na DFC.",
+      "options": [
+        {"key": "A", "text": "Certo"},
+        {"key": "B", "text": "Errado"}
+      ],
+      "correctAnswer": "A",
+      "explanation": "CERTO. A depreciação é VPD sem desembolso — não afeta caixa e não figura nos fluxos da DFC pelo método direto (no método indireto do setor privado ela apenas ajusta o resultado). A inscrição de restos a pagar não processados também não movimenta caixa no exercício da inscrição: a despesa foi empenhada, mas não paga — o efeito no caixa só ocorrerá quando do efetivo pagamento, no exercício seguinte, quando então transitará pela DFC. Transações relevantes de investimento e financiamento sem efeito caixa devem ser divulgadas em notas (NBC TSP 12).",
+      "difficulty": 3
+    },
+    {
+      "subject": "Análise das Demonstrações Contábeis",
+      "topic": "Índices de liquidez — cálculo",
+      "statement": "Determinada companhia apresentou os seguintes saldos, em R$ mil: caixa e equivalentes, 200; contas a receber de clientes (curto prazo), 600; estoques, 400; despesas antecipadas, 50; passivo circulante, 1.000; ativo realizável a longo prazo, 300; passivo não circulante, 800. Os índices de liquidez corrente e de liquidez seca da companhia são, respectivamente,",
+      "options": [
+        {"key": "A", "text": "1,25 e 0,80."},
+        {"key": "B", "text": "1,25 e 0,85."},
+        {"key": "C", "text": "1,55 e 1,10."},
+        {"key": "D", "text": "0,86 e 0,58."},
+        {"key": "E", "text": "1,20 e 0,80."}
+      ],
+      "correctAnswer": "A",
+      "explanation": "Ativo circulante = 200 + 600 + 400 + 50 = 1.250. Liquidez corrente = AC ÷ PC = 1.250 ÷ 1.000 = 1,25. Liquidez seca = (AC − estoques − despesas antecipadas) ÷ PC = (1.250 − 400 − 50) ÷ 1.000 = 800 ÷ 1.000 = 0,80. A fórmula clássica da liquidez seca exclui os estoques (item de realização mais incerta) e as despesas antecipadas (que não se converterão em caixa). O distrator B (0,85) exclui apenas os estoques; o C soma indevidamente o realizável a longo prazo, que pertence à liquidez geral.",
+      "difficulty": 2
+    },
+    {
+      "subject": "Análise das Demonstrações Contábeis",
+      "topic": "Equivalência patrimonial — cálculo do resultado e do saldo do investimento",
+      "statement": "Em 01/01/X1, a Cia. Alfa adquiriu 40% do capital votante da Cia. Beta por R$ 800.000, com influência significativa, avaliando o investimento pelo método da equivalência patrimonial. Em X1, Beta apurou lucro líquido de R$ 300.000 e distribuiu dividendos de R$ 100.000. Não houve mais-valia de ativos nem goodwill na aquisição, tampouco resultados não realizados entre as companhias. Ao final de X1, o resultado de equivalência patrimonial reconhecido por Alfa e o saldo da conta de investimento são, respectivamente,",
+      "options": [
+        {"key": "A", "text": "R$ 120.000 e R$ 880.000."},
+        {"key": "B", "text": "R$ 120.000 e R$ 920.000."},
+        {"key": "C", "text": "R$ 80.000 e R$ 880.000."},
+        {"key": "D", "text": "R$ 120.000 e R$ 800.000."},
+        {"key": "E", "text": "R$ 80.000 e R$ 920.000."}
+      ],
+      "correctAnswer": "A",
+      "explanation": "Pelo MEP (CPC 18): resultado de equivalência = 40% × lucro de Beta (300.000) = R$ 120.000, reconhecido como receita de equivalência patrimonial com aumento do investimento. Os dividendos NÃO são receita — reduzem o investimento: 40% × 100.000 = 40.000. Saldo final = 800.000 + 120.000 − 40.000 = R$ 880.000. O distrator B ignora a baixa dos dividendos; o C confunde o percentual aplicando-o após dividendos (40% × 200.000); o D ignora o MEP mantendo o custo.",
+      "difficulty": 3
+    },
+    {
+      "subject": "Análise das Demonstrações Contábeis",
+      "topic": "ROA × ROE e efeito do endividamento",
+      "statement": "Julgue o item a seguir. Se o retorno sobre o ativo (ROA) de uma companhia é de 12% e o custo médio de captação de recursos de terceiros, líquido de impostos, é de 8%, o aumento da participação de capital de terceiros na estrutura de financiamento tende a elevar o retorno sobre o patrimônio líquido (ROE), embora também eleve o risco financeiro da companhia.",
+      "options": [
+        {"key": "A", "text": "Certo"},
+        {"key": "B", "text": "Errado"}
+      ],
+      "correctAnswer": "A",
+      "explanation": "CERTO. Quando ROA (12%) > custo da dívida (Ki = 8%), o spread positivo de 4 pontos percentuais sobre cada unidade de capital de terceiros é apropriado pelos acionistas, elevando o ROE — é a alavancagem financeira favorável (ROE = ROA + (ROA − Ki) × P/PL, na formulação didática de Assaf Neto). O efeito colateral é o aumento do risco financeiro: maior alavancagem amplia a volatilidade do ROE e o risco de o spread se inverter (se Ki passar a superar o ROA, a alavancagem destrói valor para o acionista).",
+      "difficulty": 3
+    },
+    {
+      "subject": "Análise das Demonstrações Contábeis",
+      "topic": "Análise DuPont — decomposição do retorno",
+      "statement": "Uma companhia apresentou: receita líquida de R$ 2.000.000; lucro líquido de R$ 160.000; ativo total médio de R$ 1.600.000; e patrimônio líquido médio de R$ 800.000. Com base na identidade DuPont, assinale a afirmativa correta.",
+      "options": [
+        {"key": "A", "text": "A margem líquida é de 8%, o giro do ativo é de 1,25 e o retorno sobre o ativo é de 10%."},
+        {"key": "B", "text": "A margem líquida é de 10%, o giro do ativo é de 1,25 e o retorno sobre o ativo é de 12,5%."},
+        {"key": "C", "text": "A margem líquida é de 8%, o giro do ativo é de 0,80 e o retorno sobre o ativo é de 6,4%."},
+        {"key": "D", "text": "O retorno sobre o patrimônio líquido é de 10%, dado o multiplicador de alavancagem de 2,0."},
+        {"key": "E", "text": "O giro do ativo é de 1,25, o que indica que a companhia gera R$ 1,25 de lucro para cada R$ 1,00 de ativo."}
+      ],
+      "correctAnswer": "A",
+      "explanation": "Margem líquida = 160.000 ÷ 2.000.000 = 8%. Giro do ativo = 2.000.000 ÷ 1.600.000 = 1,25 (cada R$ 1,00 de ativo gera R$ 1,25 de RECEITA, não de lucro — E errada). ROA = margem × giro = 8% × 1,25 = 10% (A correta). ROE = ROA × multiplicador de alavancagem (ativo/PL = 1.600.000 ÷ 800.000 = 2,0) = 10% × 2,0 = 20% — a alternativa D erra ao apontar ROE de 10%. A identidade DuPont evidencia se o retorno decorre de margem (lucratividade das vendas) ou de giro (eficiência no uso dos ativos).",
+      "difficulty": 3
+    },
+    {
+      "subject": "Análise das Demonstrações Contábeis",
+      "topic": "Capital circulante líquido e capital de giro próprio",
+      "statement": "Julgue o item a seguir. O capital circulante líquido, obtido pela diferença entre o ativo circulante e o passivo circulante, é necessariamente positivo quando a empresa apresenta capital de giro próprio positivo, mas a recíproca não é verdadeira: uma empresa pode ter capital circulante líquido positivo financiado integralmente por recursos de terceiros de longo prazo, com capital de giro próprio negativo.",
+      "options": [
+        {"key": "A", "text": "Certo"},
+        {"key": "B", "text": "Errado"}
+      ],
+      "correctAnswer": "A",
+      "explanation": "CERTO. CCL = AC − PC = (PL + PNC) − (ANC total além do circulante), na visão pelas fontes. Capital de giro próprio (CGP) = PL − ativo não circulante: se positivo, o PL sobra após financiar todo o ANC, e essa sobra reforça o circulante — logo CCL positivo. A recíproca falha: o CCL pode ser positivo com CGP negativo quando o exigível a longo prazo (PNC) financia tanto parte do ANC quanto o excedente do circulante — folga de curto prazo bancada por dívida de longo prazo, e não por capital próprio.",
+      "difficulty": 4
+    },
+    {
+      "subject": "Análise das Demonstrações Contábeis",
+      "topic": "Prazos médios e ciclo de caixa — cálculo",
+      "statement": "Uma distribuidora apresenta prazo médio de renovação de estoques de 45 dias, prazo médio de recebimento de vendas de 30 dias e prazo médio de pagamento a fornecedores de 60 dias. Sobre os ciclos da empresa, assinale a afirmativa correta.",
+      "options": [
+        {"key": "A", "text": "O ciclo operacional é de 75 dias e o ciclo financeiro (de caixa) é de 15 dias."},
+        {"key": "B", "text": "O ciclo operacional é de 135 dias e o ciclo financeiro é de 75 dias."},
+        {"key": "C", "text": "O ciclo operacional é de 75 dias e o ciclo financeiro é de 45 dias."},
+        {"key": "D", "text": "O ciclo operacional é de 15 dias e o ciclo financeiro é de 75 dias."},
+        {"key": "E", "text": "O ciclo financeiro negativo de 15 dias indica que a empresa financia os clientes antes de pagar fornecedores."}
+      ],
+      "correctAnswer": "A",
+      "explanation": "Ciclo operacional = PME + PMR = 45 + 30 = 75 dias (da compra ao recebimento das vendas). Ciclo financeiro (ou de caixa) = ciclo operacional − PMP = 75 − 60 = 15 dias — período em que a empresa precisa financiar a operação com recursos próprios ou onerosos, pois paga fornecedores antes de receber dos clientes. Quanto menor (ou negativo) o ciclo financeiro, melhor: ciclos negativos (comuns em varejo supermercadista) significam que o fornecedor financia toda a operação — não é o caso, pois aqui o ciclo é positivo.",
+      "difficulty": 2
+    },
+    {
+      "subject": "Análise das Demonstrações Contábeis",
+      "topic": "EBITDA — ajustes e limitações (Resolução CVM 156/2022)",
+      "statement": "Julgue o item a seguir. Por representar aproximação do potencial de geração operacional de caixa, o EBITDA é medida suficiente para avaliar a capacidade de pagamento de uma companhia altamente endividada, uma vez que os juros e os impostos por ela devidos não consomem caixa.",
+      "options": [
+        {"key": "A", "text": "Certo"},
+        {"key": "B", "text": "Errado"}
+      ],
+      "correctAnswer": "B",
+      "explanation": "ERRADO. Juros e tributos CONSOMEM caixa — eles apenas não integram o cálculo do EBITDA (lucro antes dos juros, impostos, depreciação e amortização). Essa é justamente a principal limitação da medida: uma companhia muito endividada pode exibir EBITDA robusto e, ainda assim, não gerar caixa suficiente para o serviço da dívida e para os tributos, além das necessidades de reposição de imobilizado (capex) que a exclusão da depreciação mascara. Por isso a análise de capacidade de pagamento exige indicadores complementares (dívida líquida/EBITDA, cobertura de juros, DFC). O cálculo padronizado no Brasil é disciplinado pela Resolução CVM 156/2022.",
+      "difficulty": 3
+    },
+    {
+      "subject": "Análise das Demonstrações Contábeis",
+      "topic": "Análises horizontal e vertical — cálculo e interpretação",
+      "statement": "A receita líquida de uma companhia evoluiu de R$ 500 milhões em X1 para R$ 650 milhões em X3, enquanto o custo dos produtos vendidos passou de R$ 300 milhões para R$ 422,5 milhões no mesmo período. Sobre as análises horizontal e vertical, assinale a afirmativa correta.",
+      "options": [
+        {"key": "A", "text": "A análise horizontal indica crescimento de 30% na receita e de 40,8% no CPV, e a análise vertical mostra que o CPV passou de 60% para 65% da receita, revelando perda de margem bruta."},
+        {"key": "B", "text": "A análise horizontal indica crescimento de 30% na receita e de 40,8% no CPV, e a análise vertical mostra que o CPV se manteve em 60% da receita."},
+        {"key": "C", "text": "A análise vertical indica crescimento de 30% na receita, e a análise horizontal mostra que o CPV representa 65% da receita em X3."},
+        {"key": "D", "text": "A análise horizontal do CPV é de 130%, o que significa que o CPV cresceu 130% no período."},
+        {"key": "E", "text": "Como receita e CPV cresceram, a margem bruta da companhia necessariamente aumentou no período."}
+      ],
+      "correctAnswer": "A",
+      "explanation": "Análise HORIZONTAL (evolução no tempo): receita 650/500 − 1 = 30%; CPV 422,5/300 − 1 = 40,83%. Análise VERTICAL (participação no mesmo demonstrativo): CPV/receita em X1 = 300/500 = 60%; em X3 = 422,5/650 = 65%. Como o custo cresceu mais que a receita, a margem bruta caiu de 40% para 35% — E errada. A alternativa C troca os conceitos das duas análises; a D confunde número-índice (130) com taxa de crescimento (30%).",
+      "difficulty": 2
+    },
+    {
+      "subject": "Direito Constitucional",
+      "topic": "Dever de prestar contas (CF, art. 70, parágrafo único)",
+      "statement": "Julgue o item a seguir, com base na Constituição Federal de 1988. Prestará contas qualquer pessoa física ou jurídica, pública ou privada, que utilize, arrecade, guarde, gerencie ou administre dinheiros, bens e valores públicos ou pelos quais a União responda, ou que, em nome desta, assuma obrigações de natureza pecuniária.",
+      "options": [
+        {"key": "A", "text": "Certo"},
+        {"key": "B", "text": "Errado"}
+      ],
+      "correctAnswer": "A",
+      "explanation": "CERTO. Trata-se da literalidade do parágrafo único do art. 70 da CF/88, com a redação da EC 19/1998, que ampliou o alcance subjetivo do dever de prestar contas ao incluir expressamente as pessoas JURÍDICAS privadas. O dispositivo fundamenta a jurisdição dos Tribunais de Contas sobre particulares que gerem recursos públicos (convênios, subvenções, contratos de gestão) e sobre aqueles que assumam obrigações pecuniárias em nome do ente. É a base, com o art. 71, II, do julgamento de contas de terceiros que derem causa a dano ao erário.",
+      "difficulty": 2
+    },
+    {
+      "subject": "Direito Constitucional",
+      "topic": "Apreciar × julgar contas (CF, art. 71, I e II)",
+      "statement": "Sobre as competências do Tribunal de Contas da União previstas no art. 71 da CF/88, assinale a afirmativa correta.",
+      "options": [
+        {"key": "A", "text": "O TCU julga as contas anuais do Presidente da República, mediante parecer prévio do Congresso Nacional."},
+        {"key": "B", "text": "O TCU aprecia as contas anuais do Presidente da República, mediante parecer prévio que deverá ser elaborado em sessenta dias a contar de seu recebimento, e julga as contas dos administradores e demais responsáveis por dinheiros, bens e valores públicos."},
+        {"key": "C", "text": "As contas dos administradores públicos federais são julgadas pelo Congresso Nacional, após parecer prévio do TCU."},
+        {"key": "D", "text": "O TCU aprecia, para fins de registro, a legalidade dos atos de admissão de pessoal a qualquer título, inclusive as nomeações para cargo de provimento em comissão."},
+        {"key": "E", "text": "A apreciação das contas presidenciais pelo TCU tem caráter vinculante para o julgamento político realizado pelo Congresso Nacional."}
+      ],
+      "correctAnswer": "B",
+      "explanation": "O art. 71, I, da CF atribui ao TCU APRECIAR as contas do Presidente da República mediante PARECER PRÉVIO elaborado em 60 dias do recebimento — quem JULGA essas contas é o Congresso Nacional (art. 49, IX), sem vinculação ao parecer (E errada; A e C invertem os papéis). O inciso II atribui ao TCU JULGAR as contas dos administradores e demais responsáveis, inclusive de quem der causa a prejuízo ao erário. No inciso III, a apreciação para registro dos atos de admissão EXCETUA as nomeações para cargo em comissão (D errada).",
+      "difficulty": 2
+    },
+    {
+      "subject": "Direito Constitucional",
+      "topic": "Poderes cautelares e devido processo nos Tribunais de Contas (SV 3)",
+      "statement": "Julgue o item a seguir, conforme a Súmula Vinculante 3 do STF. Nos processos perante o Tribunal de Contas da União asseguram-se o contraditório e a ampla defesa quando da decisão puder resultar anulação ou revogação de ato administrativo que beneficie o interessado, excetuada a apreciação da legalidade do ato de concessão inicial de aposentadoria, reforma e pensão.",
+      "options": [
+        {"key": "A", "text": "Certo"},
+        {"key": "B", "text": "Errado"}
+      ],
+      "correctAnswer": "A",
+      "explanation": "CERTO. É o enunciado literal da Súmula Vinculante 3 do STF. A regra: quando a decisão do TCU puder anular ou revogar ato que beneficie terceiro interessado, este tem direito a contraditório e ampla defesa no processo de contas. A exceção: a apreciação da legalidade da concessão INICIAL de aposentadoria, reforma e pensão — ato complexo que só se aperfeiçoa com o registro — dispensa a oitiva do interessado. O STF, no RE 636.553 (Tema 445), modulou o alcance prático da exceção: o TCU tem 5 anos, da chegada do processo, para apreciar o ato; após, considera-se tacitamente registrado.",
+      "difficulty": 3
+    },
+    {
+      "subject": "Direito Constitucional",
+      "topic": "Composição e garantias dos ministros do TCU (CF, art. 73)",
+      "statement": "Julgue o item a seguir, sobre o Tribunal de Contas da União. O TCU é integrado por nove ministros, nomeados dentre brasileiros que satisfaçam, entre outros requisitos, mais de trinta e cinco e menos de setenta anos de idade, sendo um terço escolhido pelo Presidente da República, com aprovação do Senado Federal, e dois terços pelo Congresso Nacional.",
+      "options": [
+        {"key": "A", "text": "Certo"},
+        {"key": "B", "text": "Errado"}
+      ],
+      "correctAnswer": "A",
+      "explanation": "CERTO. O art. 73 da CF/88 fixa a composição de NOVE ministros. Requisitos (§ 1º): mais de 35 e menos de 70 anos (EC 122/2022 elevou o teto de 65 para 70 anos), idoneidade moral e reputação ilibada, notórios conhecimentos jurídicos, contábeis, econômicos e financeiros ou de administração pública, e mais de dez anos de exercício de função ou atividade profissional que exija esses conhecimentos. Escolha (§ 2º): 1/3 (três) pelo Presidente da República com aprovação do Senado — sendo dois alternadamente dentre auditores e membros do MP junto ao TCU, em lista tríplice do Tribunal — e 2/3 (seis) pelo Congresso Nacional. Os ministros têm as garantias e impedimentos dos ministros do STJ (§ 3º).",
+      "difficulty": 3
+    },
+    {
+      "subject": "Direito Constitucional",
+      "topic": "Vedação à criação de novos Tribunais de Contas municipais (CF, art. 31, § 4º)",
+      "statement": "Julgue o item a seguir, sobre a fiscalização dos municípios. A Constituição de 1988 veda a criação de tribunais, conselhos ou órgãos de contas municipais, o que implicou a extinção automática dos Tribunais de Contas dos Municípios de São Paulo e do Rio de Janeiro existentes à época da promulgação.",
+      "options": [
+        {"key": "A", "text": "Certo"},
+        {"key": "B", "text": "Errado"}
+      ],
+      "correctAnswer": "B",
+      "explanation": "ERRADO. O art. 31, § 4º, da CF/88 veda apenas a CRIAÇÃO de novos tribunais, conselhos ou órgãos de contas MUNICIPAIS (mantidos pelo próprio município), mas não extinguiu os já existentes: os TCMs de São Paulo e do Rio de Janeiro foram recepcionados e permanecem em funcionamento. Situação distinta é a dos Tribunais de Contas DOS Municípios (órgãos estaduais que fiscalizam todos os municípios do estado, como nos casos de Bahia, Goiás e Pará), que podem ser criados — e também extintos — por decisão do próprio estado mediante emenda à constituição estadual (como ocorreu com o TCM do Ceará, extinto em 2017).",
+      "difficulty": 3
+    },
+    {
+      "subject": "Direito Constitucional",
+      "topic": "Fiscalização — princípios do art. 70 (legalidade, legitimidade, economicidade)",
+      "statement": "Sobre o alcance da fiscalização contábil, financeira, orçamentária, operacional e patrimonial prevista no art. 70 da CF/88, assinale a afirmativa correta.",
+      "options": [
+        {"key": "A", "text": "A fiscalização limita-se ao exame da legalidade dos atos de gestão, vedado o exame de mérito quanto à economicidade."},
+        {"key": "B", "text": "A fiscalização abrange os aspectos de legalidade, legitimidade e economicidade, bem como a aplicação das subvenções e a renúncia de receitas, alcançando as unidades administrativas dos três Poderes."},
+        {"key": "C", "text": "A fiscalização operacional restringe-se às empresas estatais exploradoras de atividade econômica."},
+        {"key": "D", "text": "A renúncia de receitas, por constituir opção legislativa, não se sujeita à fiscalização do controle externo."},
+        {"key": "E", "text": "O controle externo alcança a administração direta, mas não as entidades da administração indireta, que se sujeitam apenas ao controle interno."}
+      ],
+      "correctAnswer": "B",
+      "explanation": "O art. 70, caput, da CF/88 define a tríplice dimensão material do controle — LEGALIDADE, LEGITIMIDADE e ECONOMICIDADE (esta autoriza o exame da relação custo-benefício da gestão, superando o controle de mera legalidade — A errada) — e inclui expressamente a fiscalização da APLICAÇÃO DAS SUBVENÇÕES e da RENÚNCIA DE RECEITAS (D errada). O alcance subjetivo abrange União e entidades da administração direta e INDIRETA de qualquer dos Poderes (E errada). A fiscalização operacional aplica-se a toda a administração, não apenas às estatais (C errada).",
+      "difficulty": 2
+    },
+    {
+      "subject": "Direito Administrativo",
+      "topic": "Lei 14.133/2021 — diálogo competitivo",
+      "statement": "Uma administração estadual pretende contratar solução tecnológica de bilhetagem inteligente cuja definição técnica não consegue especificar com precisão, por envolver inovação e diferentes alternativas de mercado, e deseja discutir as possibilidades com licitantes previamente selecionados antes de formular a proposta final. Nos termos da Lei n.º 14.133/2021, a modalidade licitatória adequada é",
+      "options": [
+        {"key": "A", "text": "o pregão, obrigatório para aquisição de bens e serviços comuns de tecnologia."},
+        {"key": "B", "text": "a concorrência, sob o critério de julgamento de maior desconto."},
+        {"key": "C", "text": "o diálogo competitivo, restrito a contratações que envolvam inovação tecnológica ou técnica, ou nas quais a Administração não possa ter sua necessidade satisfeita sem a adaptação de soluções disponíveis, ou ainda quando as especificações técnicas não possam ser definidas com precisão suficiente."},
+        {"key": "D", "text": "o leilão, adequado à seleção da proposta mais vantajosa em contratações complexas."},
+        {"key": "E", "text": "o concurso, destinado à escolha de trabalho técnico, científico ou artístico."}
+      ],
+      "correctAnswer": "C",
+      "explanation": "O diálogo competitivo (Lei 14.133/2021, arts. 6º, XLII, e 32) é a modalidade em que a Administração realiza diálogos com licitantes previamente selecionados por critérios objetivos, para desenvolver alternativas capazes de atender às suas necessidades, seguindo-se fase competitiva com apresentação de propostas finais. Cabível quando a contratação envolve inovação tecnológica ou técnica, impossibilidade de satisfação da necessidade sem adaptação de soluções de mercado ou impossibilidade de definição precisa das especificações técnicas — exatamente o cenário descrito. Pregão exige objeto COMUM (A errada); leilão destina-se à alienação de bens (D); concurso, a trabalho técnico/artístico com prêmio (E).",
+      "difficulty": 2
+    },
+    {
+      "subject": "Direito Administrativo",
+      "topic": "Lei 14.133/2021 — critérios de julgamento",
+      "statement": "Julgue o item a seguir, com base na Lei n.º 14.133/2021. São critérios de julgamento admitidos nas licitações regidas pela lei: menor preço, maior desconto, melhor técnica ou conteúdo artístico, técnica e preço, maior lance (no leilão) e maior retorno econômico, este último utilizado exclusivamente para a celebração de contratos de eficiência.",
+      "options": [
+        {"key": "A", "text": "Certo"},
+        {"key": "B", "text": "Errado"}
+      ],
+      "correctAnswer": "A",
+      "explanation": "CERTO. O art. 33 da Lei 14.133/2021 lista os seis critérios de julgamento: menor preço; maior desconto; melhor técnica ou conteúdo artístico; técnica e preço; maior lance, no caso de leilão; e maior retorno econômico. O art. 39 confirma que o critério de maior retorno econômico é utilizado EXCLUSIVAMENTE para a celebração de CONTRATO DE EFICIÊNCIA — no qual a remuneração do contratado corresponde a percentual da economia gerada para a Administração —, considerando-se a maior economia e não o menor dispêndio.",
+      "difficulty": 3
+    },
+    {
+      "subject": "Direito Administrativo",
+      "topic": "Improbidade administrativa após a Lei 14.230/2021 — exigência de dolo",
+      "statement": "Julgue o item a seguir, sobre a Lei de Improbidade Administrativa (Lei n.º 8.429/1992, com as alterações da Lei n.º 14.230/2021). Após a reforma de 2021, o ato de improbidade administrativa, em qualquer de suas espécies — enriquecimento ilícito, dano ao erário ou atentado contra os princípios da administração —, exige a comprovação de conduta dolosa do agente, não bastando a voluntariedade ou a culpa, ainda que grave.",
+      "options": [
+        {"key": "A", "text": "Certo"},
+        {"key": "B", "text": "Errado"}
+      ],
+      "correctAnswer": "A",
+      "explanation": "CERTO. A Lei 14.230/2021 aboliu a modalidade CULPOSA de improbidade (antes admitida no art. 10 — dano ao erário): o art. 1º, §§ 1º a 3º, da Lei 8.429/1992 passou a exigir DOLO — vontade livre e consciente de alcançar o resultado ilícito — para as três espécies (arts. 9º, 10 e 11), esclarecendo que a mera voluntariedade não basta e que não configura improbidade a ação ou omissão decorrente de divergência interpretativa razoável. O STF (ARE 843.989, Tema 1.199) definiu que a revogação da modalidade culposa é irretroativa para condenações transitadas em julgado, aplicando-se aos processos em curso conforme os critérios lá fixados. Atenção: a atuação dos Tribunais de Contas (débito e multa) independe da configuração de improbidade — as esferas são autônomas.",
+      "difficulty": 3
+    },
+    {
+      "subject": "Direito Administrativo",
+      "topic": "Autotutela administrativa — Súmula 473/STF e limites",
+      "statement": "Julgue o item a seguir. Pelo princípio da autotutela, a administração pode anular seus próprios atos, quando eivados de vícios que os tornam ilegais, ou revogá-los, por motivo de conveniência ou oportunidade, respeitados os direitos adquiridos; na esfera federal, o direito de anular atos de que decorram efeitos favoráveis a destinatários de boa-fé decai em cinco anos.",
+      "options": [
+        {"key": "A", "text": "Certo"},
+        {"key": "B", "text": "Errado"}
+      ],
+      "correctAnswer": "A",
+      "explanation": "CERTO. A primeira parte reproduz a Súmula 473 do STF: anulação de atos ILEGAIS (efeitos ex tunc) e revogação por CONVENIÊNCIA E OPORTUNIDADE (efeitos ex nunc), ressalvados os direitos adquiridos e a apreciação judicial. A segunda parte reflete o art. 54 da Lei 9.784/1999: o direito da Administração federal de anular atos administrativos de que decorram efeitos FAVORÁVEIS aos destinatários decai em CINCO anos, contados da data em que foram praticados, salvo comprovada MÁ-FÉ. A jurisprudência aplica o mesmo prazo, por analogia, aos demais entes que não possuam lei própria de processo administrativo.",
+      "difficulty": 2
+    },
+    {
+      "subject": "Direito Administrativo",
+      "topic": "Lei 14.133/2021 — inexigibilidade × dispensa de licitação",
+      "statement": "Nos termos da Lei n.º 14.133/2021, assinale a situação que configura hipótese de INEXIGIBILIDADE de licitação.",
+      "options": [
+        {"key": "A", "text": "Contratação de obra de engenharia com valor estimado inferior ao limite legal de dispensa."},
+        {"key": "B", "text": "Contratação emergencial destinada a evitar paralisação de serviço público essencial, limitada ao prazo de um ano."},
+        {"key": "C", "text": "Contratação de profissional do setor artístico, diretamente ou por empresário exclusivo, desde que consagrado pela crítica especializada ou pela opinião pública."},
+        {"key": "D", "text": "Licitação anterior deserta, mantidas as condições do edital."},
+        {"key": "E", "text": "Contratação de remanescente de obra em consequência de rescisão contratual, observada a ordem de classificação da licitação anterior."}
+      ],
+      "correctAnswer": "C",
+      "explanation": "A INEXIGIBILIDADE pressupõe inviabilidade de competição (Lei 14.133/2021, art. 74): aquisição de materiais/equipamentos de fornecedor exclusivo, contratação de profissional do setor ARTÍSTICO, diretamente ou por empresário exclusivo, consagrado pela crítica ou pela opinião pública (inciso II — alternativa C), serviços técnicos especializados de natureza predominantemente intelectual com profissionais de notória especialização, credenciamento e aquisição/locação de imóvel com características singulares. As demais são hipóteses de DISPENSA (art. 75): valor (I e II), emergência (VIII), licitação deserta ou fracassada (III) e contratação de remanescente (não confundir com o art. 90, § 7º).",
+      "difficulty": 3
+    }
+  ]
+}

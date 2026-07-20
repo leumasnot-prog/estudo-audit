@@ -1,0 +1,267 @@
+// =====================================================================
+// Auditor-AI — Schema do Banco de Dados
+// Hierarquia: Exam (Edital) -> Subject (Disciplina) -> Topic (Assunto/Tópico)
+// SRS: SpacedRepetitionCard (estado SM-2 por usuário+questão) + AnswerLog
+// =====================================================================
+
+generator client {
+  provider      = "prisma-client-js"
+  // "native" para dev local; rhel-openssl-3.0.x é o runtime das Lambdas
+  // da Vercel — sem isso o engine não é copiado para o bundle serverless.
+  binaryTargets = ["native", "rhel-openssl-3.0.x"]
+}
+
+datasource db {
+  provider = "postgresql"
+  // Neon/Vercel Postgres: DATABASE_URL = string COM pooling (pgbouncer),
+  // DIRECT_URL = conexão direta (obrigatória para prisma migrate)
+  url       = env("DATABASE_URL")
+  directUrl = env("DIRECT_URL")
+}
+
+// ---------------------------------------------------------------------
+// Enums
+// ---------------------------------------------------------------------
+
+/// Bancas examinadoras — usadas em questões e estatísticas de incidência
+enum Board {
+  FGV
+  CEBRASPE
+  FCC
+  CESGRANRIO
+  VUNESP
+  OTHER
+}
+
+enum AnswerOption {
+  A
+  B
+  C
+  D
+  E
+}
+
+/// Canal por onde a resposta chegou
+enum Channel {
+  WHATSAPP
+  WEB
+}
+
+/// Estado do card no algoritmo SM-2
+enum CardStatus {
+  NEW
+  LEARNING
+  REVIEW
+  LAPSED
+}
+
+// ---------------------------------------------------------------------
+// Usuário
+// ---------------------------------------------------------------------
+
+model User {
+  id        String   @id @default(cuid())
+  name      String
+  email     String   @unique
+  /// Número WhatsApp em formato E.164 (ex: +5516999998888) — chave de
+  /// correlação dos webhooks da Evolution API
+  phone     String   @unique
+  timezone  String   @default("America/Sao_Paulo")
+  /// Hora local preferida para o Hermes disparar a rodada diária (0-23)
+  sendHour  Int      @default(8)
+  /// Meta diária de questões enviadas pelo Hermes
+  dailyGoal Int      @default(10)
+  active    Boolean  @default(true)
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  enrollments Enrollment[]
+  cards       SpacedRepetitionCard[]
+  answers     AnswerLog[]
+}
+
+/// Inscrição do usuário em um edital (N:N User <-> Exam)
+model Enrollment {
+  id        String   @id @default(cuid())
+  userId    String
+  examId    String
+  /// Data da prova-alvo do usuário — usada para comprimir intervalos SM-2
+  targetDate DateTime?
+  createdAt DateTime @default(now())
+
+  user User @relation(fields: [userId], references: [id], onDelete: Cascade)
+  exam Exam @relation(fields: [examId], references: [id], onDelete: Cascade)
+
+  @@unique([userId, examId])
+}
+
+// ---------------------------------------------------------------------
+// Hierarquia do Edital
+// ---------------------------------------------------------------------
+
+/// Edital (ex: RFB 2023, TCU 2024)
+model Exam {
+  id          String   @id @default(cuid())
+  name        String
+  /// Slug único p/ URLs e importadores (ex: "rfb-2023")
+  slug        String   @unique
+  institution String
+  board       Board
+  year        Int
+  /// Link para o PDF do edital original — rastreabilidade da importação
+  editalUrl   String?
+  active      Boolean  @default(true)
+  createdAt   DateTime @default(now())
+
+  subjects    Subject[]
+  enrollments Enrollment[]
+}
+
+/// Disciplina (ex: Contabilidade Geral, Auditoria)
+model Subject {
+  id     String @id @default(cuid())
+  examId String
+  name   String
+  /// Peso da disciplina no edital (nº de questões ou pontos ponderados).
+  /// null = edital não detalha o peso por disciplina (comum quando só o
+  /// agregado Gerais/Específicos é informado) — nunca forçar um chute aqui.
+  examWeight Decimal? @db.Decimal(6, 2)
+  position   Int      @default(0)
+
+  exam       Exam             @relation(fields: [examId], references: [id], onDelete: Cascade)
+  topics     Topic[]
+  incidences BoardIncidence[]
+
+  @@unique([examId, name])
+}
+
+/// Assunto/Tópico — auto-relação cobre os níveis Assunto (parentId null)
+/// e Tópico (filho). Profundidade arbitrária sem tabela extra.
+/// Ex: "DFC" (assunto) -> "Método Indireto" (tópico)
+model Topic {
+  id        String  @id @default(cuid())
+  subjectId String
+  parentId  String?
+  name      String
+  /// Peso relativo do assunto dentro da disciplina. null = desconhecido
+  /// (edital não distingue peso por tópico) — não forçar chute aqui.
+  weight    Decimal? @db.Decimal(6, 2)
+  position  Int      @default(0)
+
+  subject    Subject          @relation(fields: [subjectId], references: [id], onDelete: Cascade)
+  parent     Topic?           @relation("TopicTree", fields: [parentId], references: [id], onDelete: Cascade)
+  children   Topic[]          @relation("TopicTree")
+  questions  Question[]
+  incidences BoardIncidence[]
+
+  @@unique([subjectId, parentId, name])
+  @@index([parentId])
+}
+
+/// Estatística de cobrança por banca (incidencia_banca).
+/// Anexável a Subject OU Topic (exatamente um dos dois preenchido —
+/// validado na camada de serviço).
+model BoardIncidence {
+  id        String  @id @default(cuid())
+  subjectId String?
+  topicId   String?
+  board     Board
+  /// % de provas da banca que cobraram o item (0-100)
+  incidencePct Decimal @db.Decimal(5, 2)
+  /// Nº de questões da amostra que embasa a estatística
+  sampleSize   Int     @default(0)
+  updatedAt    DateTime @updatedAt
+
+  subject Subject? @relation(fields: [subjectId], references: [id], onDelete: Cascade)
+  topic   Topic?   @relation(fields: [topicId], references: [id], onDelete: Cascade)
+
+  @@unique([subjectId, board])
+  @@unique([topicId, board])
+}
+
+// ---------------------------------------------------------------------
+// Questões
+// ---------------------------------------------------------------------
+
+model Question {
+  id            String       @id @default(cuid())
+  topicId       String
+  statement     String
+  /// Alternativas A-E: [{ key: "A", text: "..." }, ...]
+  /// Cebraspe (Certo/Errado) usa apenas A (Certo) e B (Errado)
+  options       Json
+  correctAnswer AnswerOption
+  /// Gabarito comentado enviado pelo Hermes após a resposta
+  explanation   String
+  board         Board
+  year          Int?
+  /// Concurso de origem (ex: "RFB 2023 — Auditor")
+  sourceExam    String?
+  /// Dificuldade estimada 1-5 (retroalimentada pela taxa de erro global)
+  difficulty    Int          @default(3)
+  active        Boolean      @default(true)
+  createdAt     DateTime     @default(now())
+  updatedAt     DateTime     @updatedAt
+
+  topic   Topic                  @relation(fields: [topicId], references: [id], onDelete: Restrict)
+  cards   SpacedRepetitionCard[]
+  answers AnswerLog[]
+
+  @@index([topicId])
+  @@index([board, year])
+}
+
+// ---------------------------------------------------------------------
+// Repetição Espaçada (SM-2) e Logs
+// ---------------------------------------------------------------------
+
+/// Estado SM-2 de uma questão para um usuário. Criado na primeira vez
+/// que o Hermes envia a questão; atualizado a cada resposta.
+model SpacedRepetitionCard {
+  id         String     @id @default(cuid())
+  userId     String
+  questionId String
+  status     CardStatus @default(NEW)
+  /// Fator de facilidade SM-2 (mínimo 1.3, inicial 2.5)
+  easeFactor Decimal    @default(2.5) @db.Decimal(4, 2)
+  /// Intervalo atual em dias
+  intervalDays Int      @default(0)
+  /// Repetições corretas consecutivas
+  repetitions  Int      @default(0)
+  /// Total de lapsos (erros após estar em REVIEW)
+  lapses       Int      @default(0)
+  /// Próxima revisão — índice principal do scheduler do BullMQ
+  dueAt          DateTime
+  lastReviewedAt DateTime?
+  createdAt      DateTime  @default(now())
+  updatedAt      DateTime  @updatedAt
+
+  user     User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+  question Question @relation(fields: [questionId], references: [id], onDelete: Cascade)
+  answers  AnswerLog[]
+
+  @@unique([userId, questionId])
+  @@index([userId, dueAt])
+}
+
+/// Log imutável de cada resposta — base do módulo de Analytics.
+/// Liga a resposta à hierarquia via Question -> Topic -> Subject -> Exam.
+model AnswerLog {
+  id         String       @id @default(cuid())
+  userId     String
+  questionId String
+  cardId     String?
+  answer     AnswerOption
+  isCorrect  Boolean
+  channel    Channel      @default(WHATSAPP)
+  /// Tempo entre envio e resposta (ms) — proxy de confiança do aluno
+  responseTimeMs Int?
+  answeredAt     DateTime  @default(now())
+
+  user     User                  @relation(fields: [userId], references: [id], onDelete: Cascade)
+  question Question              @relation(fields: [questionId], references: [id], onDelete: Restrict)
+  card     SpacedRepetitionCard? @relation(fields: [cardId], references: [id], onDelete: SetNull)
+
+  @@index([userId, answeredAt])
+  @@index([questionId])
+}

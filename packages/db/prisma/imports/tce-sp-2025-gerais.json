@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Língua Portuguesa",
+    "topics": [
+      "Leitura e interpretação de diversos tipos de textos (literários e não literários)",
+      "Sinônimos e antônimos",
+      "Sentido próprio e figurado das palavras",
+      "Pontuação",
+      "Classes de palavras: substantivo, adjetivo, numeral, artigo, pronome, verbo, advérbio, preposição e conjunção – emprego e sentido que imprimem às relações que estabelecem",
+      "Concordância verbal e nominal",
+      "Regência verbal e nominal",
+      "Colocação pronominal",
+      "Crase"
+    ]
+  },
+  {
+    "name": "Raciocínio Lógico e Analítico",
+    "topics": [
+      "Relações reais ou fictícias entre pessoas, lugares ou objetos, abordando: Estruturas Lógicas – conceito de proposição, operações e seus valores lógicos (negação, conjunção, disjunção inclusiva, condicional e bicondicional), quantificadores universais, existenciais e negação de proposições com quantificadores",
+      "Lógica de Argumentação – conceito de argumento, argumentos válidos fundamentais e regras de inferência, dedução de informações a partir de afirmações fornecidas e utilizando–se as regras de inferência",
+      "Raciocínio Sequencial – resolução de situações envolvendo sequências numéricas ou figurais"
+    ]
+  },
+  {
+    "name": "Ética Pública e Integridade",
+    "topics": [
+      "Ética no serviço público",
+      "Código de Ética da Administração Pública direta e autárquica do Estado de São Paulo (Decreto Estadual nº 69.328/2025)",
+      "Código de Ética do TCE-SP",
+      "Lei de Conflito de Interesses (Lei Federal nº 12.813/2013)",
+      "Prevenção à corrupção",
+      "Convenção da ONU contra a Corrupção (UNCAC)",
+      "Princípios de integridade em contratações públicas (OCDE)",
+      "Compliance público",
+      "Programa de integridade na Administração Pública",
+      "Plano Estadual de Promoção de Integridade (Decreto Estadual nº 67.683/2023)"
+    ]
+  },
+  {
+    "name": "Legislação",
+    "topics": [
+      "Lei Complementar Estadual nº 709/93",
+      "Regimento Interno do Tribunal de Contas do Estado de São Paulo",
+      "Instruções nº 1/2024 do Tribunal de Contas do Estado de São Paulo",
+      "Sistemas de Controle na Administração Pública Brasileira: artigos 70 a 75 da Constituição da República Federativa do Brasil de 1988",
+      "Dos deveres, das proibições e das responsabilidades - Lei nº 10.261/1968",
+      "CONHECIMENTOS ESPECÍFICOS"
+    ]
+  }
+]

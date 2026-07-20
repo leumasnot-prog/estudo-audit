@@ -1,0 +1,517 @@
+{
+  "sourceExam": "TCE-SP 2025 — Auditor de Controle Externo (opções 002 a 010, inclui Ciências Contábeis) — Prova Objetiva 002, Versão 1, aplicada em 15/06/2025",
+  "board": "VUNESP",
+  "year": 2025,
+  "questions": [
+    {
+      "subject": "Controle Externo",
+      "topic": "Declaração de Lima — poderes da EFS",
+      "statement": "O auditor de controle externo Luís, do Tribunal de Contas de um estado brasileiro, está conduzindo auditoria operacional em uma empresa pública estadual responsável pela gestão de um grande terminal portuário. Durante a auditoria, verifica-se que a empresa, embora regida pelo direito privado, é majoritariamente controlada pelo Estado, que detém 85% de suas ações. Luís constata que a empresa não realizou licitação pública para a contratação de obras de ampliação do terminal e que o contrato foi firmado com uma empreiteira pertencente a ex-dirigentes da estatal, com indícios de superfaturamento. A auditoria interna da empresa havia alertado para os riscos dessa contratação, mas seus relatórios foram ignorados pela alta direção. Diante disso, o auditor Luís pretende: (I) aprofundar a auditoria sobre a legalidade e a eficiência da contratação; (II) requisitar diretamente os documentos e justificativas à diretoria da empresa; (III) propor medidas de ressarcimento e responsabilização; (IV) publicar relatório parcial com os achados relevantes. Com base na situação descrita e na Declaração de Lima, assinale a alternativa correta.",
+      "options": [
+        {"key": "A", "text": "O auditor pode aprofundar a auditoria operacional na empresa, requisitar diretamente documentos, propor medidas de responsabilização e publicar relatórios parciais sobre achados relevantes."},
+        {"key": "B", "text": "O auditor poderá requisitar documentos adicionais, desde que por meio da secretaria estadual à qual a empresa estiver subordinada, não possuindo competência para requisitar diretamente à empresa tais documentos."},
+        {"key": "C", "text": "O auditor deve se restringir à análise da legalidade da contratação, pois empresas públicas regidas pelo direito privado não estão sujeitas a auditoria operacional pelas entidades de fiscalização superiores."},
+        {"key": "D", "text": "O auditor não poderá propor medidas de responsabilização, já que os achados devem ser apenas relatados, não tendo efeito em relação à esfera de responsabilização dos agentes envolvidos."},
+        {"key": "E", "text": "O auditor não pode emitir relatório parcial antes da conclusão da auditoria completa, mesmo que haja fatos graves e urgentes, pois a utilização de tal expediente compromete a tempestividade das auditorias, bem como o seu sigilo."}
+      ],
+      "correctAnswer": "A",
+      "explanation": "A Declaração de Lima (INTOSAI) assegura às EFS acesso direto a todos os registros e documentos relacionados à gestão auditada (Seção 10), alcance da fiscalização sobre empresas estatais e entidades de direito privado com participação pública (Seções 23-24), competência para promover a responsabilização e o ressarcimento, e liberdade para publicar relatórios, inclusive sobre achados relevantes antes do encerramento do trabalho. Todas as quatro pretensões do auditor são compatíveis com a Declaração.",
+      "difficulty": 2
+    },
+    {
+      "subject": "Controle Externo",
+      "topic": "Natureza das decisões dos Tribunais de Contas e controle judicial",
+      "statement": "Em relação ao controle exercido pelos tribunais de contas e a sua relação com o controle da Administração Pública realizado por outros Poderes, é correto afirmar que:",
+      "options": [
+        {"key": "A", "text": "os tribunais de contas, por serem órgãos integrantes do Poder Legislativo, estão sujeitos à revisão de suas decisões pelo plenário da casa legislativa respectiva, tanto em âmbito federal como em estadual ou municipal."},
+        {"key": "B", "text": "embora os tribunais de contas exerçam funções de controle e julgamento, suas decisões não são imutáveis e podem ser revistas pelo Poder Judiciário, quanto a aspectos de regularidade formal e legalidade."},
+        {"key": "C", "text": "os tribunais de contas são parte integrante do chamado controle interno, na medida em que representam controle da Administração Pública por órgão da própria Administração Pública."},
+        {"key": "D", "text": "cabe ao Poder Legislativo do ente da Federação respectivo a iniciativa para a propositura de lei que verse sobre a criação e a extinção de cargos no âmbito dos tribunais de contas."},
+        {"key": "E", "text": "a independência entre o controle externo e o controle interno no exercício da atividade de fiscalização implica a não obrigação de o responsável pelo controle interno comunicar a órgão do controle externo a identificação de irregularidades."}
+      ],
+      "correctAnswer": "B",
+      "explanation": "As decisões dos Tribunais de Contas não fazem coisa julgada judicial: pelo princípio da inafastabilidade da jurisdição (CF, art. 5º, XXXV), podem ser revistas pelo Judiciário quanto à legalidade e à regularidade formal (devido processo), embora o mérito técnico não seja em regra substituído. Os TCs não integram o Legislativo nem o controle interno; têm iniciativa própria para leis sobre seus cargos (autogoverno — CF, arts. 73 e 96); e o controle interno tem o dever de comunicar irregularidades ao TC, sob pena de responsabilidade solidária (CF, art. 74, §1º).",
+      "difficulty": 2
+    },
+    {
+      "subject": "Controle Externo",
+      "topic": "Lei Orgânica do TCE-SP (LC estadual 709/1993) — tomada de contas",
+      "statement": "O processo de tomada de contas abrange os ordenadores de despesa, gestores e demais responsáveis por bens e valores públicos da administração direta e autarquias, empresas públicas, sociedades de economia mista e fundações instituídas ou mantidas pelo Poder Público estadual ou municipal, sendo instruído no setor competente daqueles órgãos, que o encaminhará ao Tribunal de Contas para julgamento. A respeito desse processo, com base na Lei Complementar nº 709/1993, do Estado de São Paulo, é correto afirmar que",
+      "options": [
+        {"key": "A", "text": "o recolhimento de importância impugnada, desde que até o término do julgamento, dispensa atualização monetária e juros de mora."},
+        {"key": "B", "text": "os juros de mora a que forem condenados os responsáveis, bem como a atualização monetária, contar-se-ão da data do trânsito em julgado do processo."},
+        {"key": "C", "text": "o relator presidirá a instrução do processo, determinando, de ofício, a notificação dos interessados, fixando prazo máximo de 5 (cinco) dias para o atendimento."},
+        {"key": "D", "text": "a decisão em processo de tomada ou prestação de contas pode ser preliminar, final ou terminativa."},
+        {"key": "E", "text": "a notificação do interessado não poderá ser dispensada, ainda que dos autos conste que o responsável já se pronunciou sobre o assunto ou dele tem conhecimento."}
+      ],
+      "correctAnswer": "D",
+      "explanation": "Nos termos da LC estadual 709/1993 (na linha da Lei 8.443/1992 federal), a decisão em processo de tomada ou prestação de contas pode ser preliminar (necessidade de diligências/citação), final (julga regulares, regulares com ressalva ou irregulares as contas) ou terminativa (arquivamento ou trancamento por iliquidez). O recolhimento não dispensa atualização e juros; juros e correção contam da ocorrência do fato gerador do débito, não do trânsito em julgado; e a notificação pode ser dispensada quando o responsável já se pronunciou nos autos.",
+      "difficulty": 3
+    },
+    {
+      "subject": "Controle Externo",
+      "topic": "Regimento Interno do TCE-SP — notificação e contraditório",
+      "statement": "O auditor do Tribunal de Contas do Estado de São Paulo, ao analisar o processo de tomada de contas de um convênio estadual, identifica a necessidade de ouvir o responsável pela aplicação dos recursos, tendo em vista indícios de irregularidades. O relator do processo, então, determina a notificação do responsável para que, no prazo legal, apresente suas justificativas. Considerando o Regimento Interno do TCE-SP, assinale a alternativa correta quanto ao procedimento a ser adotado.",
+      "options": [
+        {"key": "A", "text": "Caso o responsável, regularmente notificado, não apresente justificativas no prazo estabelecido, o processo deverá ser arquivado por ausência de contraditório."},
+        {"key": "B", "text": "O responsável deverá ser notificado por edital publicado no Diário Oficial do Estado, sendo desnecessária qualquer tentativa de notificação pessoal."},
+        {"key": "C", "text": "A ausência de defesa do responsável no prazo estabelecido, após notificação válida, não impede o prosseguimento do julgamento."},
+        {"key": "D", "text": "Na contagem dos prazos, salvo disposição em contrário, incluir-se-á o dia do início e do término."},
+        {"key": "E", "text": "A ausência de defesa do responsável torna obrigatória a remessa do processo ao Ministério Público para que este promova a responsabilização judicial."}
+      ],
+      "correctAnswer": "C",
+      "explanation": "Garantida a oportunidade de defesa mediante notificação válida, a inércia do responsável configura revelia e não impede o prosseguimento e o julgamento do processo — o contraditório se satisfaz com a oportunidade de manifestação, não com o seu exercício efetivo. A notificação por edital é subsidiária (após frustrada a via pessoal); na contagem dos prazos exclui-se o dia do início e inclui-se o do vencimento; e não há remessa obrigatória ao MP por mera ausência de defesa.",
+      "difficulty": 2
+    },
+    {
+      "subject": "Controle Externo",
+      "topic": "Código de Ética dos Servidores do TCE-SP",
+      "statement": "Celso é auditor de controle do Tribunal de Contas do Estado de São Paulo (TCE) e se envolve rotineiramente em discussões acaloradas nas redes sociais, a respeito da situação política do país e do estado. Para conferir maior autoridade aos seus argumentos, ele costuma assinar todas as mensagens nas redes sociais informando o seu cargo e usando o logo oficial do Tribunal. Nesse contexto, é correto afirmar, com base no Código de Ética dos Servidores do Tribunal de Contas do Estado de São Paulo, que",
+      "options": [
+        {"key": "A", "text": "não há qualquer irregularidade ética na conduta de Celso, pois ele está unicamente exercendo o seu direito constitucional à liberdade de expressão na internet."},
+        {"key": "B", "text": "a criação de perfis em redes sociais é vedada aos auditores de controle do TCE, ao contrário dos demais servidores do Tribunal."},
+        {"key": "C", "text": "a conduta de Celso está em conformidade com o Código de Ética, pois é dever dos servidores do Tribunal colaborarem para a formação da população em geral."},
+        {"key": "D", "text": "não haveria infração com base no Código de Ética dos Servidores do Tribunal de Contas do Estado de São Paulo caso Celso não utilizasse o logo do Tribunal nas suas postagens, mas apenas a menção ao cargo."},
+        {"key": "E", "text": "Celso deveria agir com reserva, cautela e discrição ao publicar seus pontos de vista nos perfis pessoais das redes sociais, evitando a exposição negativa do Tribunal."}
+      ],
+      "correctAnswer": "E",
+      "explanation": "Os códigos de ética das instituições de controle impõem aos servidores dever de reserva, cautela e discrição em manifestações públicas, vedando o uso do cargo e de símbolos oficiais para fins pessoais ou político-partidários, de modo a preservar a imagem e a imparcialidade do Tribunal. A conduta de Celso (uso do cargo e do logo em debates políticos) expõe negativamente a instituição; mesmo sem o logo, a invocação do cargo em polêmicas políticas seguiria inadequada.",
+      "difficulty": 1
+    },
+    {
+      "subject": "Direito Constitucional",
+      "topic": "Municípios — parecer prévio e julgamento das contas do prefeito",
+      "statement": "Uma das peculiaridades dos municípios brasileiros em comparação às regras constitucionais aplicáveis à União e aos estados consiste no fato de que",
+      "options": [
+        {"key": "A", "text": "o julgamento das contas de governo dos prefeitos é realizado diretamente pelo Tribunal de Contas competente, estadual ou dos municípios, e não pelo Poder Legislativo municipal."},
+        {"key": "B", "text": "os municípios detêm competência legislativa residual, ao passo que a União, os estados e o Distrito Federal têm a sua competência legislativa expressamente elencada no texto constitucional."},
+        {"key": "C", "text": "os municípios não têm competência para a constituição de empresas estatais, prestadoras de serviços públicos ou não, seja na forma de empresas públicas, seja na forma de sociedades de economia mista."},
+        {"key": "D", "text": "os municípios não são citados expressamente como entes da Federação, embora a Constituição regule amplamente as suas competências e as regras para a sua criação, fusão, cisão e extinção."},
+        {"key": "E", "text": "o parecer prévio, emitido pelo órgão competente sobre as contas que o prefeito deve anualmente prestar, só deixará de prevalecer por decisão de dois terços dos membros da Câmara Municipal."}
+      ],
+      "correctAnswer": "E",
+      "explanation": "É a regra do art. 31, §2º, da CF/88: o parecer prévio do Tribunal de Contas sobre as contas anuais do prefeito só deixa de prevalecer por decisão de 2/3 dos membros da Câmara Municipal — quórum qualificado que não existe para o julgamento das contas do Presidente ou dos Governadores pelos respectivos Legislativos. O julgamento das contas de governo do prefeito cabe à Câmara (STF, RE 729.744, Tema 157), não ao TC; municípios são entes federativos expressos (art. 1º e 18); e a competência residual é dos Estados.",
+      "difficulty": 2
+    },
+    {
+      "subject": "Direito Constitucional",
+      "topic": "Fiscalização contábil, financeira e orçamentária — Comissão Mista (art. 166, §1º)",
+      "statement": "Além dos Tribunais de Contas, um importante órgão do Poder Legislativo é previsto pela Constituição Federal de 1988 para a tarefa de, de modo permanente, exercer a fiscalização contábil, financeira e orçamentária, respeitando o princípio democrático de representação. Esse órgão é",
+      "options": [
+        {"key": "A", "text": "o Conselho da República."},
+        {"key": "B", "text": "a Instituição Fiscal Independente."},
+        {"key": "C", "text": "a Comissão mista permanente de Senadores e Deputados."},
+        {"key": "D", "text": "a Comissão Parlamentar de Inquérito."},
+        {"key": "E", "text": "o Conselho Econômico e Social."}
+      ],
+      "correctAnswer": "C",
+      "explanation": "A CF/88 prevê a Comissão Mista permanente de Senadores e Deputados (CMO — art. 166, §1º) para examinar e emitir parecer sobre os projetos orçamentários e sobre as contas do Presidente, e exercer o acompanhamento e a fiscalização orçamentária (art. 72). CPIs são temporárias e de objeto determinado; o Conselho da República é órgão de consulta do Presidente; a IFI é criação regimental do Senado, sem assento constitucional.",
+      "difficulty": 1
+    },
+    {
+      "subject": "Direito Constitucional",
+      "topic": "Tribunais de Contas estaduais (art. 75, CF/88)",
+      "statement": "Conforme estabelece a Constituição Federal de 1988, os Tribunais de Contas Estaduais",
+      "options": [
+        {"key": "A", "text": "têm competência para a fiscalização e o julgamento das contas de governo dos prefeitos, ainda que exista Tribunal de Contas dos Municípios específico."},
+        {"key": "B", "text": "devem, até o final do ano subsequente, encaminhar à Assembleia Legislativa do Estado parecer prévio sobre as contas de cada um dos municípios sob sua fiscalização."},
+        {"key": "C", "text": "não exercem atividade de caráter administrativo-jurisdicional, ao contrário do Tribunal de Contas da União."},
+        {"key": "D", "text": "serão instituídos em conformidade com o disposto na Constituição Federal, no que couber, e na Constituição Estadual, sendo integrados por sete membros."},
+        {"key": "E", "text": "não detêm autonomia constitucional em relação ao Poder Legislativo do respectivo estado da Federação."}
+      ],
+      "correctAnswer": "D",
+      "explanation": "O art. 75 da CF/88 determina que as normas do controle externo federal aplicam-se, no que couber, à organização dos Tribunais de Contas dos Estados, que serão integrados por sete conselheiros (parágrafo único), conforme disciplina das Constituições estaduais. As contas de governo dos prefeitos são julgadas pelas Câmaras Municipais (o TC emite parecer prévio dirigido à Câmara, não à Assembleia); e os TCEs gozam das mesmas garantias de autonomia do modelo federal.",
+      "difficulty": 2
+    },
+    {
+      "subject": "Direito Administrativo",
+      "topic": "Princípio da legitimidade — elementos do ato administrativo",
+      "statement": "Um dos princípios da atividade de fiscalização contábil, financeira e orçamentária é o princípio da legitimidade, que exige que a despesa pública seja realizada em conformidade com o interesse público, buscando atingir os fins constitucionais do Estado. Sobre este tema, é correto afirmar que a análise dos seguintes elementos do ato administrativo determina os critérios para o controle de legitimidade:",
+      "options": [
+        {"key": "A", "text": "motivo e finalidade."},
+        {"key": "B", "text": "objeto e forma."},
+        {"key": "C", "text": "publicidade e motivo."},
+        {"key": "D", "text": "vinculação e objeto."},
+        {"key": "E", "text": "finalidade e forma."}
+      ],
+      "correctAnswer": "A",
+      "explanation": "O controle de legitimidade (art. 70, CF/88) vai além da legalidade formal e alcança a conformidade material do gasto com o interesse público: examina-se o motivo (pressupostos de fato e de direito que justificam o ato/despesa) e a finalidade (o fim público visado). Competência, forma e objeto são o núcleo do exame de mera legalidade.",
+      "difficulty": 2
+    },
+    {
+      "subject": "Direito Administrativo",
+      "topic": "Autotutela administrativa (Súmula 473/STF)",
+      "statement": "Uma das formas de controle da Administração Pública é o chamado \"controle administrativo\", baseado na ideia de autotutela. Neste sentido, é correto afirmar que",
+      "options": [
+        {"key": "A", "text": "a Administração pode revogar seus próprios atos, quando eivados de vícios que os tornam ilegais, porque deles não se originam direitos; ou anulá-los, por motivo de conveniência ou oportunidade, respeitados os direitos adquiridos, e ressalvada a apreciação judicial."},
+        {"key": "B", "text": "a Administração pode anular seus próprios atos, quando eivados de vícios que os tornam ilegais, porque deles não se originam direitos; ou revogá-los, por motivo de conveniência ou oportunidade, respeitados os direitos adquiridos, afastada a possibilidade de apreciação judicial."},
+        {"key": "C", "text": "a Administração pode sustar seus próprios atos, quando eivados de vícios que os tornam ilegais, embora deles se originem direitos; ou revogá-los, por motivo de conveniência ou oportunidade, respeitados os direitos adquiridos, e ressalvada a apreciação judicial."},
+        {"key": "D", "text": "a Administração pode revogar seus próprios atos, quando eivados de vícios que os tornam ilegais, porque deles não se originam direitos; ou anulá-los, por motivo de conveniência ou oportunidade, respeitados os direitos adquiridos, afastada a possibilidade de apreciação judicial."},
+        {"key": "E", "text": "a Administração pode anular seus próprios atos, quando eivados de vícios que os tornam ilegais, porque deles não se originam direitos; ou revogá-los, por motivo de conveniência ou oportunidade, respeitados os direitos adquiridos, e ressalvada, em todos os casos, a apreciação judicial."}
+      ],
+      "correctAnswer": "E",
+      "explanation": "É a literalidade da Súmula 473 do STF: a Administração ANULA atos ilegais (dos quais não se originam direitos) e REVOGA atos válidos por conveniência ou oportunidade, respeitados os direitos adquiridos — em ambos os casos ressalvada a apreciação judicial. As demais alternativas invertem anulação/revogação ou excluem indevidamente o controle judicial.",
+      "difficulty": 1
+    },
+    {
+      "subject": "Direito Administrativo",
+      "topic": "Lei 13.303/2016 — contratação de subsidiária por estatal",
+      "statement": "Uma sociedade de economia mista controlada pelo Estado de São Paulo contratou, sem licitação, serviços de sua subsidiária integral. Considerando essa situação, é correto afirmar que",
+      "options": [
+        {"key": "A", "text": "desde que os preços sejam compatíveis com os praticados no mercado e que o objeto do contrato tenha relação com a atividade da contratada prevista em seu estatuto social, a contratação é legal."},
+        {"key": "B", "text": "a contratação da prestação de serviços por subsidiária integral é caso de inexigibilidade de licitação, por não ser viável a competição, considerando-se tratar-se de entidade que atende ao conceito de \"parte relacionada\"."},
+        {"key": "C", "text": "a contratação é legal por se tratar de uma sociedade de economia mista; por outro lado, se se tratasse de uma empresa pública, a contratação de serviços teria de ser precedida de licitação, independentemente da existência ou não de subsidiária integral."},
+        {"key": "D", "text": "desde que o objeto do contrato tenha relação com a atividade da contratada prevista em seu estatuto social, a contratação é legal, independentemente do preço praticado, por se tratar de entidade integrante do mesmo grupo econômico."},
+        {"key": "E", "text": "desde que os preços sejam compatíveis com os praticados, a contratação é legal, independentemente do objeto social da subsidiária integral, por se tratar do mesmo grupo econômico."}
+      ],
+      "correctAnswer": "A",
+      "explanation": "A Lei 13.303/2016 (art. 28, §3º, II) afasta a exigência de licitação nos casos de contratação entre empresas estatais e suas subsidiárias, desde que o preço seja compatível com o de mercado e o objeto do contrato guarde relação com a atividade prevista no estatuto social da contratada. Trata-se de hipótese de não incidência/dispensa específica, não de inexigibilidade por inviabilidade de competição.",
+      "difficulty": 3
+    },
+    {
+      "subject": "AFO / Orçamento Público",
+      "topic": "LRF — Instrumentos de transparência da gestão fiscal (art. 48)",
+      "statement": "A Lei de Responsabilidade Fiscal (Lei Complementar nº 101/2000, LRF) prevê uma série de instrumentos de transparência com o objetivo de fomentar o controle social das contas públicas. Neste sentido, é correto afirmar que são instrumentos de transparência individualmente previstos na LRF:",
+      "options": [
+        {"key": "A", "text": "os Relatórios de Gestão Fiscal; os Relatórios Resumidos de Execução Orçamentária; e o Balanço de Variações Patrimoniais, por meio do qual se verificam as transações patrimoniais ativas e passivas realizadas no exercício financeiro."},
+        {"key": "B", "text": "o Demonstrativo de Dívida Consolidada; o Balanço Patrimonial; o Balanço Financeiro; e o Demonstrativo de Variações Patrimoniais, por meio do qual se verificam as transações patrimoniais ativas e passivas realizadas no exercício financeiro."},
+        {"key": "C", "text": "o Demonstrativo de Dívida Consolidada; o Balanço Patrimonial; o Balanço Financeiro; e os Relatórios de Gestão Fiscal, por meio do qual se obtém resumo detalhado das receitas e despesas orçamentárias do exercício."},
+        {"key": "D", "text": "os Relatórios de Gestão Fiscal; o Relatório Geral do Balanço Financeiro; e as audiências públicas obrigatórias para a elaboração e a discussão da Lei de Diretrizes Orçamentárias e da Lei Orçamentária Anual."},
+        {"key": "E", "text": "os Relatórios de Gestão Fiscal; os Relatórios Resumidos de Execução Orçamentária; e as audiências públicas obrigatórias para a apresentação dos resultados quadrimestrais."}
+      ],
+      "correctAnswer": "E",
+      "explanation": "O art. 48 da LRF lista como instrumentos de transparência os planos, orçamentos e LDO, as prestações de contas e parecer prévio, o Relatório Resumido da Execução Orçamentária (RREO), o Relatório de Gestão Fiscal (RGF) e suas versões simplificadas; e o art. 9º, §4º, impõe audiência pública quadrimestral para demonstração e avaliação do cumprimento das metas fiscais. Balanços patrimonial/financeiro e demonstrativos de variações patrimoniais são peças da Lei 4.320/1964, não instrumentos de transparência da LRF.",
+      "difficulty": 3
+    },
+    {
+      "subject": "Auditoria Governamental",
+      "topic": "ISSAI 100 — Princípios gerais (ceticismo profissional)",
+      "statement": "Conforme a norma internacional ISSAI nº 100, é correto afirmar sobre os princípios gerais de auditoria do setor público que",
+      "options": [
+        {"key": "A", "text": "os auditores devem manter comportamento apropriado, adotando posição de presunção de confiança na honestidade e correção dos administradores."},
+        {"key": "B", "text": "o auditor deve evitar o uso do trabalho de auditores internos, de outros auditores ou de especialistas, de modo a não comprometer a sua independência."},
+        {"key": "C", "text": "os auditores devem manter-se independentes, de modo que seus relatórios sejam imparciais, sem atenção ao modo como sejam vistos pelos usuários previstos."},
+        {"key": "D", "text": "a materialidade não é relevante nas auditorias do setor público, pois todas as questões neste tipo de auditoria podem influenciar as decisões dos usuários previstos."},
+        {"key": "E", "text": "ceticismo profissional significa manter a mente aberta e receptiva a todos os pontos de vista e argumentos."}
+      ],
+      "correctAnswer": "E",
+      "explanation": "A ISSAI 100 define que julgamento e ceticismo profissional implicam manter distância profissional, postura alerta e questionadora, avaliando a suficiência e adequação das evidências, com mente aberta e receptiva a todos os pontos de vista e argumentos. O auditor não presume confiança (A), pode e deve usar trabalho de outros auditores e especialistas com o devido cuidado (B), deve considerar como é visto pelos usuários — independência em aparência (C) — e a materialidade é central em todos os tipos de auditoria (D).",
+      "difficulty": 2
+    },
+    {
+      "subject": "Auditoria Governamental",
+      "topic": "Risco de auditoria e níveis de asseguração",
+      "statement": "Considerando o previsto nas normas técnicas e profissionais que regem o trabalho de auditoria do setor público, é correto afirmar sobre o risco de auditoria que",
+      "options": [
+        {"key": "A", "text": "uma auditoria tem por objetivo fornecer absoluta certeza da condição objeto em relação à sua conformidade com as normas."},
+        {"key": "B", "text": "o risco de controle envolve a análise da probabilidade e magnitude da distorção devido às características particulares da classe de transações."},
+        {"key": "C", "text": "em uma auditoria de asseguração limitada, o risco aceitável de não conformidade com critérios é maior do que em uma auditoria de asseguração razoável."},
+        {"key": "D", "text": "risco inerente envolve a análise da efetividade operacional dos controles internos para determinar a natureza e extensão dos procedimentos de auditoria."},
+        {"key": "E", "text": "quanto menor a percepção de risco de auditoria pelo auditor, maior deve ser a extensão dos procedimentos de auditoria adotados."}
+      ],
+      "correctAnswer": "C",
+      "explanation": "Na asseguração limitada, o auditor executa procedimentos menos extensos e aceita um risco maior do que na asseguração razoável, expressando conclusão de forma negativa ('nada chegou ao nosso conhecimento...'). Nenhuma auditoria fornece certeza absoluta (A); as alternativas B e D trocam os conceitos de risco inerente (suscetibilidade da transação a distorção) e risco de controle (falha dos controles em prevenir/detectar); e menor risco percebido permite menor extensão de procedimentos (E).",
+      "difficulty": 3
+    },
+    {
+      "subject": "Auditoria Governamental",
+      "topic": "Matriz de achados",
+      "statement": "Observe atentamente as informações de uma tabela de auditoria com as colunas: SITUAÇÃO ENCONTRADA; CRITÉRIO; EVIDÊNCIA; CAUSA; EFEITOS; ENCAMINHAMENTO. Exemplo de linha: 'Movimentação de recursos fora da conta específica do convênio, prejudicando a verificação do nexo entre os recursos repassados e os gastos realizados' (situação encontrada); 'Decreto nº 6.170/2007, art. 10; Portaria nº 507/2011 MPOG/MF/CGU, art. 64 e art. 82, §1º, II, c' (critério); 'Conversão em tomada de contas e citação dos responsáveis — fundamento: Lei nº 8.443/92, arts. 12, II, e 47; RITCU, arts. 202, II, e 252' (encaminhamento). É correto afirmar que a tabela corresponde ao que, em auditoria governamental, se convencionou chamar de",
+      "options": [
+        {"key": "A", "text": "matriz de conformidade."},
+        {"key": "B", "text": "documentação da auditoria."},
+        {"key": "C", "text": "inventário de inspeção."},
+        {"key": "D", "text": "matriz de achados."},
+        {"key": "E", "text": "matriz de responsabilidade."}
+      ],
+      "correctAnswer": "D",
+      "explanation": "A matriz de achados é a ferramenta que consolida, para cada achado de auditoria, a situação encontrada (condição), o critério, as evidências, as causas, os efeitos e o encaminhamento (propostas), estruturando a fase de execução/relatório. É distinta da matriz de planejamento (questões, procedimentos e fontes de informação) e da matriz de responsabilização (conduta, nexo e responsáveis).",
+      "difficulty": 2
+    },
+    {
+      "subject": "Auditoria Governamental",
+      "topic": "Procedimentos de auditoria — observação direta",
+      "statement": "Durante auditoria realizada no contrato de fornecimento de merenda escolar firmado pela Prefeitura X, os auditores públicos realizaram diversos procedimentos, incluindo visitas a escolas para observar, em tempo real, a entrega dos alimentos por parte da empresa contratada, verificando horário, quantidade e forma de armazenamento. Com base nessa informação, assinale a alternativa que apresenta corretamente o procedimento de auditoria descrito.",
+      "options": [
+        {"key": "A", "text": "Inspeção documental — envolve a reexecução de processos ou tarefas previamente realizados pela entidade, com o objetivo de verificar sua fidedignidade."},
+        {"key": "B", "text": "Conciliação — corresponde à conferência matemática de cálculos realizados pela entidade, visando verificar a correção dos valores apresentados nos registros contábeis."},
+        {"key": "C", "text": "Observação direta — consiste no acompanhamento in loco de atividades ou processos executados pela entidade, com o objetivo de coletar evidências por meio da percepção direta dos auditores."},
+        {"key": "D", "text": "Circularização — consiste no envio de solicitações formais para que terceiros confirmem, por escrito, as informações registradas pela entidade auditada."},
+        {"key": "E", "text": "Revisão analítica — consiste no acompanhamento in loco de atividades ou processos executados pela entidade, com o objetivo de coletar evidências por meio da percepção direta dos auditores."}
+      ],
+      "correctAnswer": "C",
+      "explanation": "Acompanhar in loco, em tempo real, a execução de um processo (entrega da merenda) é o procedimento de observação direta, que gera evidência física/testemunhal pela percepção do próprio auditor. A alternativa E dá a definição correta, mas com o rótulo errado (revisão analítica é o estudo de relações plausíveis entre dados); as demais descrevem incorretamente os respectivos procedimentos.",
+      "difficulty": 1
+    },
+    {
+      "subject": "Auditoria Governamental",
+      "topic": "Documentação da auditoria (papéis de trabalho)",
+      "statement": "\"O(A) _______ deve ser suficientemente detalhado(a) para permitir a um auditor experiente, sem nenhum conhecimento prévio da auditoria, entender a natureza, a época, o escopo e os resultados dos procedimentos executados, a evidência de auditoria obtida para fundamentar as conclusões e recomendações da auditoria, o raciocínio por trás de todas as questões relevantes que exigiram o exercício de julgamento profissional e as respectivas conclusões.\" Assinale a alternativa em que a expressão preenche corretamente a lacuna do trecho.",
+      "options": [
+        {"key": "A", "text": "procedimento de inspeção"},
+        {"key": "B", "text": "documentação da auditoria"},
+        {"key": "C", "text": "teste de hipóteses"},
+        {"key": "D", "text": "objeto da auditoria"},
+        {"key": "E", "text": "revisão analítica"}
+      ],
+      "correctAnswer": "B",
+      "explanation": "É a definição clássica do requisito de documentação de auditoria (papéis de trabalho) das normas ISSAI/NBC TA 230 e das NBASP: registros suficientes para que um auditor experiente, sem envolvimento prévio, compreenda os procedimentos, as evidências e o julgamento profissional exercido ('teste do auditor experiente').",
+      "difficulty": 1
+    },
+    {
+      "subject": "Contabilidade Pública (CASP)",
+      "topic": "Ajustes de exercícios anteriores (MCASP)",
+      "statement": "Os ajustes de exercícios anteriores no setor público são",
+      "options": [
+        {"key": "A", "text": "uma conta contábil de variação patrimonial."},
+        {"key": "B", "text": "ou não relacionados a eventos que geram registros patrimoniais."},
+        {"key": "C", "text": "representados por um elemento de despesa próprio usado no orçamento do exercício corrente para atender a despesas que pertencem ao exercício anterior."},
+        {"key": "D", "text": "decorrentes de efeitos da mudança de critério contábil ou retificação de erro em exercício anterior que não possa ser atribuído a fatos subsequentes."},
+        {"key": "E", "text": "uma classificação da despesa orçamentária quanto à natureza."}
+      ],
+      "correctAnswer": "D",
+      "explanation": "Conforme o MCASP e a NBC TSP 23, ajustes de exercícios anteriores decorrem de mudança de política (critério) contábil ou da retificação de erros de exercícios anteriores não atribuíveis a fatos subsequentes, e são registrados diretamente contra o patrimônio líquido (resultados acumulados), sem transitar pelo resultado do período. Não se confundem com 'despesas de exercícios anteriores' (DEA), que é rubrica orçamentária (essa é a ideia da alternativa C, incorreta para o conceito patrimonial pedido).",
+      "difficulty": 3
+    },
+    {
+      "subject": "Contabilidade Pública (CASP)",
+      "topic": "Demonstração dos Fluxos de Caixa — variação de caixa",
+      "statement": "Considere os dados da demonstração do fluxo de caixa de um ente público hipotético (em R$): Alienação de bens 5.000.000,00; Amortização de empréstimos concedidos (recebimento) 15.000.000,00; Aquisição de ativo imobilizado 800.000,00; Caixa e equivalentes de caixa inicial 12.000.000,00; Concessão de empréstimos e financiamentos 0,00; Despesas com pessoal 745.000,00; Juros e encargos da dívida (operacional) 25.000,00; Operações de crédito contratadas 16.000.000,00; Outros desembolsos operacionais 625.000,00; Recebimento de impostos, taxas e contribuições 23.654.320,00; Receita de contribuições 880.000,00; Receita patrimonial 963.000,00; Refinanciamento de dívida 5.400.000,00; Transferências concedidas 5.280.000,00; Transferências recebidas 150.000,00. No período, quanto totalizou a variação de caixa e equivalentes de caixa, em reais?",
+      "options": [
+        {"key": "A", "text": "48.772.320,00"},
+        {"key": "B", "text": "–10.800.000,00"},
+        {"key": "C", "text": "10.600.000,00"},
+        {"key": "D", "text": "19.200.000,00"},
+        {"key": "E", "text": "60.772.320,00"}
+      ],
+      "correctAnswer": "A",
+      "explanation": "Fluxo operacional: entradas (23.654.320 + 880.000 + 963.000 + 150.000 = 25.647.320) menos saídas (745.000 + 25.000 + 625.000 + 5.280.000 = 6.675.000) = +18.972.320. Fluxo de investimento: +5.000.000 (alienação) + 15.000.000 (retorno de empréstimos concedidos) − 800.000 (imobilizado) = +19.200.000. Fluxo de financiamento: +16.000.000 (operações de crédito) − 5.400.000 (amortização/refinanciamento da dívida) = +10.600.000. Variação total = 18.972.320 + 19.200.000 + 10.600.000 = R$ 48.772.320,00.",
+      "difficulty": 3
+    },
+    {
+      "subject": "Contabilidade Pública (CASP)",
+      "topic": "Demonstração dos Fluxos de Caixa — fluxo operacional",
+      "statement": "Com base nos mesmos dados da demonstração do fluxo de caixa do ente público hipotético (Alienação de bens 5.000.000; Amortização de empréstimos concedidos 15.000.000; Aquisição de ativo imobilizado 800.000; Caixa inicial 12.000.000; Despesas com pessoal 745.000; Juros e encargos da dívida — operacional 25.000; Operações de crédito contratadas 16.000.000; Outros desembolsos operacionais 625.000; Recebimento de impostos, taxas e contribuições 23.654.320; Receita de contribuições 880.000; Receita patrimonial 963.000; Refinanciamento de dívida 5.400.000; Transferências concedidas 5.280.000; Transferências recebidas 150.000), no período, quanto totalizou o fluxo de caixa gerado ou consumido em atividades operacionais, em reais?",
+      "options": [
+        {"key": "A", "text": "10.600.000,00"},
+        {"key": "B", "text": "12.000.000,00"},
+        {"key": "C", "text": "30.772.320,00"},
+        {"key": "D", "text": "18.772.320,00"},
+        {"key": "E", "text": "18.972.320,00"}
+      ],
+      "correctAnswer": "E",
+      "explanation": "No fluxo das atividades operacionais entram os recebimentos de impostos, taxas e contribuições (23.654.320), receita de contribuições (880.000), receita patrimonial (963.000) e transferências recebidas (150.000) = 25.647.320; e saem despesas com pessoal (745.000), juros e encargos da dívida classificados como operacionais (25.000), outros desembolsos operacionais (625.000) e transferências concedidas (5.280.000) = 6.675.000. Resultado: 25.647.320 − 6.675.000 = R$ 18.972.320,00 gerados.",
+      "difficulty": 2
+    },
+    {
+      "subject": "Contabilidade Pública (CASP)",
+      "topic": "Demonstração dos Fluxos de Caixa — saldo final",
+      "statement": "Ainda com base nos dados da demonstração do fluxo de caixa do ente público hipotético (caixa e equivalentes de caixa inicial de R$ 12.000.000,00 e variação de caixa apurada no período), quanto totalizou o saldo final de caixa e equivalentes de caixa, em reais?",
+      "options": [
+        {"key": "A", "text": "18.972.320,00"},
+        {"key": "B", "text": "18.772.320,00"},
+        {"key": "C", "text": "60.772.320,00"},
+        {"key": "D", "text": "0,00"},
+        {"key": "E", "text": "10.600.000,00"}
+      ],
+      "correctAnswer": "C",
+      "explanation": "Saldo final = caixa inicial + variação do período = 12.000.000 + 48.772.320 = R$ 60.772.320,00 (a variação soma os fluxos operacional de +18.972.320, de investimento de +19.200.000 e de financiamento de +10.600.000).",
+      "difficulty": 2
+    },
+    {
+      "subject": "Auditoria Governamental",
+      "topic": "Estrutura conceitual dos trabalhos de asseguração — características dos critérios",
+      "statement": "Conforme a estrutura conceitual dos trabalhos de asseguração, assinale a alternativa que apresenta corretamente as características dos critérios para mensurar ou avaliar um objeto.",
+      "options": [
+        {"key": "A", "text": "Neutralidade, consistência e verificabilidade."},
+        {"key": "B", "text": "Neutralidade, confiabilidade e representação fidedigna."},
+        {"key": "C", "text": "Relevância, representação fidedigna e tempestividade."},
+        {"key": "D", "text": "Relevância, compreensibilidade e tempestividade."},
+        {"key": "E", "text": "Integralidade, confiabilidade e compreensibilidade."}
+      ],
+      "correctAnswer": "E",
+      "explanation": "A Estrutura Conceitual para Trabalhos de Asseguração (CFC/IAASB) elenca cinco características dos critérios adequados: relevância, integralidade (completude), confiabilidade, neutralidade e compreensibilidade. A única alternativa composta exclusivamente por itens desse rol é a E; tempestividade, verificabilidade e representação fidedigna são atributos da informação contábil, não dos critérios de asseguração.",
+      "difficulty": 3
+    },
+    {
+      "subject": "Contabilidade Pública (CASP)",
+      "topic": "Ativo intangível — amortização de licenças de software",
+      "statement": "Um órgão público assinou um contrato que previa a aquisição de até 1.200 licenças de sistema operacional, ao custo unitário de R$ 450,00. Em 01/12/2023, 630 licenças foram colocadas em uso e classificadas como licenças operacionais de prazo definido, com prazo de utilização de 24 meses após sua ativação. Em 01/02/2024, foram ativadas mais 120 novas licenças, com o mesmo prazo de expiração (24 meses da ativação). Em 31/12/2024, o contador verificou que o valor em uso dessas licenças era de R$ 500.000,00 e o valor de mercado totalizava R$ 262.500,00. Em 01/06/2024, quanto totalizava o valor contábil líquido, em reais?",
+      "options": [
+        {"key": "A", "text": "248.625,00"},
+        {"key": "B", "text": "36.000,00"},
+        {"key": "C", "text": "212.625,00"},
+        {"key": "D", "text": "257.625,00"},
+        {"key": "E", "text": "337.500,00"}
+      ],
+      "correctAnswer": "D",
+      "explanation": "1º lote: 630 × R$ 450 = R$ 283.500, amortização mensal de 283.500 ÷ 24 = R$ 11.812,50; de dez/2023 a mai/2024 são 6 meses = R$ 70.875, restando R$ 212.625. 2º lote: 120 × R$ 450 = R$ 54.000, amortização mensal de R$ 2.250; de fev a mai/2024 são 4 meses = R$ 9.000, restando R$ 45.000. Valor contábil líquido em 01/06/2024 = 212.625 + 45.000 = R$ 257.625,00.",
+      "difficulty": 3
+    },
+    {
+      "subject": "Contabilidade Pública (CASP)",
+      "topic": "Redução ao valor recuperável (impairment) de intangível",
+      "statement": "Considerando o mesmo caso das licenças de sistema operacional (630 licenças ativadas em 01/12/2023 e 120 licenças ativadas em 01/02/2024, custo unitário de R$ 450,00, vida útil de 24 meses; em 31/12/2024, valor em uso de R$ 500.000,00 e valor de mercado de R$ 262.500,00), em 31/12/2024, quanto será o ajuste a valor recuperável das licenças a ser reconhecido nas demonstrações contábeis, em reais?",
+      "options": [
+        {"key": "A", "text": "13.875,00"},
+        {"key": "B", "text": "0,00"},
+        {"key": "C", "text": "4.875,00"},
+        {"key": "D", "text": "49.875,00"},
+        {"key": "E", "text": "237.500,00"}
+      ],
+      "correctAnswer": "B",
+      "explanation": "O valor recuperável é o maior entre o valor justo líquido de venda (R$ 262.500) e o valor em uso (R$ 500.000) — portanto R$ 500.000. Em 31/12/2024, o valor contábil líquido das licenças (283.500 − 153.562,50 de amortização acumulada de 13 meses do 1º lote, mais 54.000 − 24.750 de 11 meses do 2º lote ≈ R$ 159.187,50) é inferior ao valor recuperável; não há perda por irrecuperabilidade a reconhecer: ajuste = R$ 0,00 (NBC TSP 09/10).",
+      "difficulty": 3
+    },
+    {
+      "subject": "Análise das Demonstrações Contábeis",
+      "topic": "Análise horizontal",
+      "statement": "Considere o balanço patrimonial hipotético do TCSP em 31/12/2024 (em R$; valores de 2024 e 2023): Caixa 10.000 / 12.000; Bancos 135.000 / 232.000; Aplicações financeiras 698.300 / 123.000; Contas a receber líquidas 400.000 / 200.000; Estoques 100.000 / 35.000; Investimentos em títulos públicos (não circulante) 120.000 / 0; Propriedades para investimento 300.000 / 300.000; Imobilizado líquido 450.000 / 425.000; Intangível líquido 1.200.000 / 1.185.000; Fornecedores 250.000 / 300.000; Salários a pagar 125.000 / 56.000; Impostos a pagar 12.000 / 36.000; Provisões para contingências 450.000 / 0; Patrimônio líquido 2.000.000 / 2.000.000; Reservas de capital 120.000 / 120.000; Reservas de lucros 456.300 / 0. Por meio da análise horizontal, é possível afirmar que, entre 2023 e 2024,",
+      "options": [
+        {"key": "A", "text": "os salários a pagar aumentaram em 123,21%."},
+        {"key": "B", "text": "os estoques diminuíram em 185,71%."},
+        {"key": "C", "text": "os investimentos em títulos públicos diminuíram em 100%."},
+        {"key": "D", "text": "a variação da conta bancos foi negativa em 16,67% aproximadamente."},
+        {"key": "E", "text": "as contas a receber líquidas foram positivas em 185,71% aproximadamente."}
+      ],
+      "correctAnswer": "A",
+      "explanation": "Salários a pagar: (125.000 − 56.000) ÷ 56.000 = 69.000 ÷ 56.000 = 1,2321 → aumento de 123,21%. Estoques cresceram (35.000 → 100.000, +185,71%, não diminuíram); títulos públicos aumentaram de 0 para 120.000; bancos caíram 41,81% (não 16,67%); contas a receber cresceram 100% (200.000 → 400.000).",
+      "difficulty": 2
+    },
+    {
+      "subject": "Análise das Demonstrações Contábeis",
+      "topic": "Liquidez seca",
+      "statement": "Com base no mesmo balanço patrimonial hipotético do TCSP em 31/12/2024 (Ativo circulante: Caixa 10.000, Bancos 135.000, Aplicações financeiras 698.300, Contas a receber líquidas 400.000, Estoques 100.000; Passivo circulante: Fornecedores 250.000, Salários a pagar 125.000, Impostos a pagar 12.000, Provisões para contingências 450.000), qual foi o índice de liquidez seca em 2024, aproximadamente?",
+      "options": [
+        {"key": "A", "text": "1,45"},
+        {"key": "B", "text": "1,60"},
+        {"key": "C", "text": "1,49"},
+        {"key": "D", "text": "2,00"},
+        {"key": "E", "text": "2,27"}
+      ],
+      "correctAnswer": "C",
+      "explanation": "Liquidez seca = (Ativo Circulante − Estoques) ÷ Passivo Circulante = (10.000 + 135.000 + 698.300 + 400.000) ÷ (250.000 + 125.000 + 12.000 + 450.000) = 1.243.300 ÷ 837.000 ≈ 1,49.",
+      "difficulty": 2
+    },
+    {
+      "subject": "AFO / Orçamento Público",
+      "topic": "Funções do orçamento — função alocativa",
+      "statement": "Devido a alguns fatores, o setor público pode intervir na economia. Uma das intervenções possíveis diz respeito ao exercício da função alocativa, a exemplo de",
+      "options": [
+        {"key": "A", "text": "adoção de subsídio habitacional."},
+        {"key": "B", "text": "aumento do gasto público."},
+        {"key": "C", "text": "pagamento de seguro-desemprego."},
+        {"key": "D", "text": "fornecimento de bem meritório."},
+        {"key": "E", "text": "redução da taxa de juros."}
+      ],
+      "correctAnswer": "D",
+      "explanation": "Na tipologia de Musgrave, a função alocativa consiste no fornecimento de bens e serviços não adequadamente ofertados pelo mercado — bens públicos e bens meritórios (educação, saúde, vacinação). Subsídio habitacional e seguro-desemprego expressam a função distributiva; aumento do gasto e redução de juros são instrumentos da função estabilizadora.",
+      "difficulty": 2
+    },
+    {
+      "subject": "AFO / Orçamento Público",
+      "topic": "Plano Plurianual (PPA)",
+      "statement": "Um dos instrumentos de planejamento e orçamento do Sistema Brasileiro de Planejamento e Orçamento denomina-se plano plurianual (PPA), que",
+      "options": [
+        {"key": "A", "text": "dispõe sobre as alterações na legislação tributária, que devem estar presentes também na Lei de Diretrizes Orçamentárias (LDO)."},
+        {"key": "B", "text": "estabelece a política de aplicação das agências financeiras oficiais de fomento, juntamente à mensagem encaminhada do Poder Executivo ao Poder Legislativo."},
+        {"key": "C", "text": "estabelece as diretrizes de política fiscal e respectivas diretrizes e metas para os próximos quatro anos."},
+        {"key": "D", "text": "contém a reserva de contingência, cuja dotação orçamentária encontra-se na Lei Orçamentária Anual (LOA)."},
+        {"key": "E", "text": "tem a sua seção vetada na Lei de Responsabilidade Fiscal (LRF)."}
+      ],
+      "correctAnswer": "E",
+      "explanation": "O art. 3º da LRF, que disciplinaria o PPA (inclusive o Anexo de Política Fiscal), foi integralmente vetado quando da sanção da LC 101/2000 — por isso a LRF não contém seção vigente sobre o PPA, que segue regido pelo art. 165, §1º, da CF/88. As alterações na legislação tributária e a política das agências de fomento são conteúdo da LDO; a reserva de contingência é fixada com base na RCL e integra a LOA conforme a LDO.",
+      "difficulty": 3
+    },
+    {
+      "subject": "AFO / Orçamento Público",
+      "topic": "Renúncia de receita — isenção em caráter não geral (CTN, art. 179)",
+      "statement": "A renúncia de receitas diz respeito a quanto o Estado deixa de arrecadar para beneficiar pessoas físicas ou jurídicas. Quando efetivada, em cada caso, por despacho da autoridade administrativa em requerimento no qual o particular faz prova do preenchimento das condições e do cumprimento dos requisitos previstos em lei ou contrato para sua concessão, está-se diante da espécie de renúncia de receita denominada",
+      "options": [
+        {"key": "A", "text": "isenção em caráter não geral."},
+        {"key": "B", "text": "remissão."},
+        {"key": "C", "text": "subsídio."},
+        {"key": "D", "text": "anistia."},
+        {"key": "E", "text": "crédito presumido."}
+      ],
+      "correctAnswer": "A",
+      "explanation": "O enunciado reproduz o art. 179 do CTN: a isenção não concedida em caráter geral é efetivada, em cada caso, por despacho da autoridade administrativa, em requerimento no qual o interessado comprove o preenchimento das condições legais. A remissão perdoa o crédito tributário já constituído; a anistia perdoa infrações/penalidades; subsídio e crédito presumido são outros benefícios listados no art. 14, §1º, da LRF.",
+      "difficulty": 2
+    },
+    {
+      "subject": "AFO / Orçamento Público",
+      "topic": "Créditos adicionais (Lei 4.320/1964)",
+      "statement": "As autorizações de despesas não computadas ou insuficientemente dotadas na Lei Orçamentária Anual (LOA) são denominadas créditos adicionais, que",
+      "options": [
+        {"key": "A", "text": "devem ser previamente autorizados por lei e abertos por decreto executivo."},
+        {"key": "B", "text": "têm vigência somente durante o exercício financeiro em que foram abertos."},
+        {"key": "C", "text": "podem ser abertos por meio da utilização dos recursos disponíveis resultantes de anulação parcial ou total de dotações orçamentárias, no caso de créditos especiais e extraordinários, e não de suplementares."},
+        {"key": "D", "text": "podem ter como fontes de recursos a reserva de contingência destinada ao atendimento de passivos contingentes."},
+        {"key": "E", "text": "dependem da existência de recursos disponíveis para ocorrer a despesa e precedem de justificativa."}
+      ],
+      "correctAnswer": "D",
+      "explanation": "A reserva de contingência, prevista na LDO (art. 5º, III, da LRF), destina-se ao atendimento de passivos contingentes e outros riscos e eventos fiscais imprevistos, servindo de fonte para a abertura de créditos adicionais. A regra de prévia autorização legislativa e abertura por decreto não vale para os extraordinários (abertos por MP/decreto com comunicação imediata); especiais e extraordinários autorizados nos últimos quatro meses podem ser reabertos no exercício seguinte (CF, art. 167, §2º); a anulação de dotações é fonte típica de suplementares e especiais.",
+      "difficulty": 3
+    },
+    {
+      "subject": "AFO / Orçamento Público",
+      "topic": "LRF atualizada — Anexo de Metas Fiscais (LC 200/2023)",
+      "statement": "Atento às recentes atualizações da Lei de Responsabilidade Fiscal (LRF), um ente subnacional brasileiro analisa incluir em seu Anexo de Metas Fiscais",
+      "options": [
+        {"key": "A", "text": "a evolução do patrimônio líquido dos últimos três exercícios financeiros."},
+        {"key": "B", "text": "o marco fiscal de médio prazo."},
+        {"key": "C", "text": "a avaliação da situação financeira e atuarial dos regimes geral de previdência social e próprio dos servidores públicos."},
+        {"key": "D", "text": "os passivos contingentes, passando a informar as providências a serem tomadas, caso se concretizem."},
+        {"key": "E", "text": "a avaliação do cumprimento das metas relativas ao exercício anterior."}
+      ],
+      "correctAnswer": "B",
+      "explanation": "A LC 200/2023 (novo regime fiscal sustentável) alterou o art. 4º da LRF para incluir no Anexo de Metas Fiscais o marco fiscal de médio prazo, com projeções para os principais agregados fiscais. A evolução do patrimônio líquido, a avaliação atuarial dos regimes de previdência e a avaliação do cumprimento das metas do exercício anterior já constavam da redação original; passivos contingentes integram o Anexo de Riscos Fiscais, não o de Metas.",
+      "difficulty": 4
+    },
+    {
+      "subject": "AFO / Orçamento Público",
+      "topic": "Suprimento de fundos (regime de adiantamento)",
+      "statement": "O suprimento de fundos diz respeito a um adiantamento de valores, que constitui despesa orçamentária, a um servidor público que prestará contas. Como exemplo de uma situação na qual se permite a utilização de suprimento de fundos, pode ser citada a seguinte condição:",
+      "options": [
+        {"key": "A", "text": "atendimento a despesas eventuais que exijam pronto pagamento, exceto em viagens e com serviços especiais."},
+        {"key": "B", "text": "atendimento a despesas de pequeno e médio vulto, não devendo ultrapassar limite estabelecido em ato normativo próprio."},
+        {"key": "C", "text": "despesa que deve ser realizada em caráter sigiloso, de acordo com classificação constante em regramento próprio."},
+        {"key": "D", "text": "servidor público declarado em alcance, com publicação no Diário Oficial."},
+        {"key": "E", "text": "servidor público que recebeu numerário e ficou responsável por até três suprimentos, como regra."}
+      ],
+      "correctAnswer": "C",
+      "explanation": "O regime de adiantamento (arts. 68-69 da Lei 4.320/1964 e Decreto-Lei 200/1967, art. 45) aplica-se a despesas eventuais, inclusive em viagem e com serviços especiais, que exijam pronto pagamento (o que torna a alternativa A errada pela exceção indevida); a despesas de pequeno vulto (não médio); e a despesas que devam ser feitas em caráter sigiloso, conforme classificação em regulamento. Não se concede suprimento a servidor em alcance nem a responsável por dois suprimentos pendentes de prestação de contas.",
+      "difficulty": 3
+    },
+    {
+      "subject": "Auditoria Governamental",
+      "topic": "Auditoria operacional — indicadores de desempenho",
+      "statement": "Em uma auditoria foram analisados programas governamentais contidos no Plano Plurianual (PPA). Sobre um desses programas, o auditor relatou que os insumos foram utilizados ao menor custo possível, em conformidade com os padrões de qualidade e cujos planos de ação foram realizados de acordo com o estabelecido. Para chegar a essas conclusões, foram analisados indicadores, respectivamente, de",
+      "options": [
+        {"key": "A", "text": "economicidade, eficácia e efetividade."},
+        {"key": "B", "text": "eficiência, excelência e efetividade."},
+        {"key": "C", "text": "eficiência, excelência e execução."},
+        {"key": "D", "text": "eficiência, eficácia e efetividade."},
+        {"key": "E", "text": "economicidade, excelência e execução."}
+      ],
+      "correctAnswer": "E",
+      "explanation": "Na cadeia de indicadores dos '6 Es do desempenho' (modelo adotado em avaliação de programas): obtenção/uso de insumos ao menor custo = economicidade; conformidade com padrões de qualidade = excelência; realização dos planos de ação conforme o estabelecido = execução. Eficiência relaciona produtos a insumos; eficácia mede alcance de metas de produto; efetividade mede impactos/resultados finais.",
+      "difficulty": 3
+    },
+    {
+      "subject": "Controle Externo",
+      "topic": "Jurisdição dos órgãos de controle — consórcios públicos",
+      "statement": "Conforme o normativo brasileiro, qualquer pessoa física ou jurídica, pública ou privada, que utilize, arrecade, guarde, gerencie ou administre dinheiros, bens e valores públicos deve prestar contas. Entre essas pessoas passíveis de fiscalização pelos órgãos de controle, encontram-se as associações públicas, que são uma espécie de",
+      "options": [
+        {"key": "A", "text": "organização social."},
+        {"key": "B", "text": "organização da sociedade civil de interesse público."},
+        {"key": "C", "text": "agência reguladora."},
+        {"key": "D", "text": "consórcio público."},
+        {"key": "E", "text": "agência executiva."}
+      ],
+      "correctAnswer": "D",
+      "explanation": "Pela Lei 11.107/2005 (art. 6º), o consórcio público pode constituir-se como associação pública — pessoa jurídica de direito público que integra a administração indireta de todos os entes consorciados — ou como pessoa jurídica de direito privado. A associação pública é, portanto, espécie de consórcio público, sujeita à fiscalização dos Tribunais de Contas (art. 70, parágrafo único, CF/88).",
+      "difficulty": 2
+    }
+  ]
+}

@@ -1,0 +1,472 @@
+{
+  "sourceExam": "TCU 2022 — Auditor Federal de Controle Externo (Área Controle Externo) — Prova Tipo 1 Branca, aplicada em 13/03/2022",
+  "board": "FGV",
+  "year": 2022,
+  "questions": [
+    {
+      "subject": "Controle Externo",
+      "topic": "Declaração de Lima / Independência das EFS",
+      "statement": "A Declaração de Lima, aprovada pela Organização Internacional de Entidades Fiscalizadoras Superiores (Intosai), estabelece diretrizes para preceitos de auditoria e afirma que as Entidades Fiscalizadoras Superiores (EFS) só podem desempenhar suas tarefas objetiva e eficazmente quando são independentes da entidade auditada e protegidas contra influências externas. No sistema constitucional brasileiro de 1988, a independência das EFSs é assegurada por meio do(a):",
+      "options": [
+        {"key": "A", "text": "reconhecimento de autonomia reforçada que lhes garante poder normativo técnico, ainda que tais entidades integrem a estrutura do Poder Legislativo;"},
+        {"key": "B", "text": "reconhecimento dos atributos institucionais relativos à autoadministração e ao autogoverno, ainda que tais entidades estejam destituídas de autonomia orçamentária;"},
+        {"key": "C", "text": "reconhecimento de que suas competências derivam diretamente da Constituição da República de 1988 e são exercidas de maneira autônoma, ainda que haja subordinação meramente administrativa ao Poder Legislativo;"},
+        {"key": "D", "text": "extensão dos mesmos mecanismos de proteção que resguardam a independência do Poder Judiciário, reconhecendo-lhes capacidade de autogoverno e autonomia administrativa, financeira e orçamentária;"},
+        {"key": "E", "text": "extensão dos mesmos mecanismos de proteção que resguardam a independência do Poder Legislativo, reconhecendo-lhes capacidade de autoadministração e de autogoverno."}
+      ],
+      "correctAnswer": "D",
+      "explanation": "O art. 73 da CF/88 atribui ao TCU as mesmas garantias de independência do Poder Judiciário: o art. 96 aplica-se ao Tribunal no que couber (autogoverno, iniciativa de lei sobre sua organização, autonomia administrativa, financeira e orçamentária), e seus ministros têm as garantias, prerrogativas e impedimentos dos ministros do STJ. O TCU não integra nem é subordinado ao Poder Legislativo — apenas o auxilia no controle externo.",
+      "difficulty": 3
+    },
+    {
+      "subject": "Controle Externo",
+      "topic": "Competências constitucionais do TCU (art. 71, CF/88)",
+      "statement": "Dentre as expressivas competências constitucionalmente outorgadas ao Tribunal de Contas da União (TCU), destaca-se a fiscalização da gestão e a aplicação de recursos públicos federais sob a perspectiva de sua legalidade, legitimidade e economicidade. Considerando-se tais parâmetros de controle, é correto afirmar que:",
+      "options": [
+        {"key": "A", "text": "cabe ao TCU atuar como instância revisora de decisões administrativas adotadas por órgãos e entidades que lhes sejam jurisdicionados, ainda que tais litígios não atinjam o patrimônio público ou causem prejuízo ao erário;"},
+        {"key": "B", "text": "o TCU exerce pleno controle do poder discricionário da Administração Pública, cabendo-lhe definir a melhor alternativa a ser adotada pelo gestor público nas hipóteses em que estejam presentes duas ou mais alternativas legalmente válidas;"},
+        {"key": "C", "text": "a prerrogativa do TCU para julgamento das contas daqueles que derem causa a perda, extravio ou outra irregularidade de que resulte prejuízo ao erário não se limita aos administradores ou agentes públicos, podendo abranger particulares;"},
+        {"key": "D", "text": "compete ao TCU, na apreciação de denúncias e representações contra irregularidades praticadas pela Administração Pública Federal, proferir provimentos jurisdicionais reclamados por particulares para salvaguarda de seus direitos e interesses subjetivos;"},
+        {"key": "E", "text": "a competência do TCU para processar e julgar tomadas de contas não se restringe aos casos de irregularidades que impliquem dano ao erário, estendendo-se também para a quantificação de prejuízos imateriais decorrentes de danos morais, bem como à retirada de atos normativos e enunciados do mundo jurídico."}
+      ],
+      "correctAnswer": "C",
+      "explanation": "O art. 71, II, da CF/88 sujeita ao julgamento do TCU as contas 'daqueles que derem causa a perda, extravio ou outra irregularidade de que resulte prejuízo ao erário', o que alcança qualquer pessoa física ou jurídica, pública ou privada, que utilize, arrecade, guarde, gerencie ou administre dinheiros, bens e valores públicos (art. 70, parágrafo único) — inclusive particulares. O TCU não substitui o mérito administrativo (B), não é instância revisora geral (A) nem exerce jurisdição para tutela de direitos subjetivos (D).",
+      "difficulty": 3
+    },
+    {
+      "subject": "Controle Externo",
+      "topic": "Instrumentos de fiscalização (Regimento Interno do TCU)",
+      "statement": "O Tribunal de Contas da União (TCU), ao apreciar narrativa de irregularidades supostamente ocorridas no âmbito de entidade sujeita à sua jurisdição e às quais teve ciência a partir de denúncia devidamente conhecida por preencher todos os requisitos de admissibilidade, constata a necessidade de instauração de instrumento de fiscalização específico vocacionado à apuração dos fatos denunciados. Em tal situação, considerando o tratamento dispensado pelo Regimento Interno do TCU à matéria, o instrumento de fiscalização a ser utilizado é o(a):",
+      "options": [
+        {"key": "A", "text": "monitoramento;"},
+        {"key": "B", "text": "auditoria;"},
+        {"key": "C", "text": "levantamento;"},
+        {"key": "D", "text": "inspeção;"},
+        {"key": "E", "text": "acompanhamento."}
+      ],
+      "correctAnswer": "D",
+      "explanation": "Nos termos do art. 240 do RITCU, a inspeção é o instrumento utilizado para suprir omissões e lacunas de informações, esclarecer dúvidas ou apurar denúncias e representações quanto à legalidade, à legitimidade e à economicidade de fatos da administração e de atos administrativos. Levantamento serve para conhecer a organização e o funcionamento de órgãos; auditoria examina a legalidade e a legitimidade de atos com escopo previamente planejado; acompanhamento e monitoramento examinam, respectivamente, a gestão ao longo do tempo e o cumprimento de deliberações.",
+      "difficulty": 2
+    },
+    {
+      "subject": "Controle Externo",
+      "topic": "Achados de auditoria e competências corretivas/sancionatórias do TCU",
+      "statement": "No decorrer de auditoria realizada pelo Tribunal de Contas da União (TCU), tendo por escopo a verificação da legalidade, legitimidade e economicidade de contrato de concessão pública em vigor há dois anos, são detectados achados relacionados não só à fase pré-contratual, pertinentes a vícios no procedimento licitatório, mas igualmente à etapa de execução contratual, relacionados à irregular suspensão do pagamento de outorga em decorrência de suposto desequilíbrio econômico e financeiro do contrato em desfavor do concessionário. Diante de tais achados de auditoria, compete ao TCU:",
+      "options": [
+        {"key": "A", "text": "converter a auditoria em tomada de contas para fins de quantificação do dano ao erário e exercício da competência ressarcitória, não cabendo mais exercer competência corretiva ou sancionatória quanto ao vício na licitação, por se tratar de matéria preclusa;"},
+        {"key": "B", "text": "determinar cautelarmente a sustação da execução contratual até que seja recomposto o pagamento da outorga por parte do concessionário, de forma a minimizar os efeitos financeiros decorrentes da caracterização do dano ao erário;"},
+        {"key": "C", "text": "exercer a competência corretiva no que tange ao vício detectado no procedimento licitatório, promovendo a revogação do certame, seguida da instauração de tomada de contas especial para aplicação de sanção aos responsáveis;"},
+        {"key": "D", "text": "representar simultaneamente ao Congresso Nacional e ao Ministério Público, para fins de compartilhamento das informações e elementos coligidos durante a execução da auditoria, a fim de que tais órgãos possam adotar as medidas sancionatórias e ressarcitórias cabíveis na espécie;"},
+        {"key": "E", "text": "promover a responsabilização, após contraditório e ampla defesa, mediante possível aplicação de multa àqueles que incorreram em ilegalidade no procedimento licitatório, sem prejuízo da conversão da auditoria em tomada de contas para fins de apuração e quantificação do dano ao erário."}
+      ],
+      "correctAnswer": "E",
+      "explanation": "O TCU pode aplicar multa aos responsáveis por ilegalidade (art. 71, VIII, CF/88; art. 58 da Lei 8.443/1992), assegurados contraditório e ampla defesa, e converter o processo de fiscalização em tomada de contas especial quando configurado dano ao erário (art. 47 da Lei 8.443/1992). Não há preclusão da competência sancionatória (A); a sustação de contrato cabe primariamente ao Congresso Nacional (art. 71, §1º); e o TCU não revoga certames (C), podendo apenas determinar correções ou sustar atos.",
+      "difficulty": 4
+    },
+    {
+      "subject": "Controle Externo",
+      "topic": "Consulta ao TCU (Lei Orgânica — Lei 8.443/1992)",
+      "statement": "A Lei Orgânica do Tribunal de Contas da União (Lei Federal nº 8.443/1992) prevê a competência da Corte para decidir sobre consulta que lhe seja formulada por autoridade competente, a respeito de dúvida suscitada na aplicação de dispositivos legais e regulamentares concernentes à matéria de sua competência, tratando-se de importante instrumento processual vocacionado ao exercício da função orientadora e pedagógica por parte do TCU. A respeito da apreciação e formulação de respostas a consultas que sejam dirigidas ao TCU, deve-se considerar que:",
+      "options": [
+        {"key": "A", "text": "por ser a resposta à consulta prejulgamento de matéria fática, dotada de efeito vinculante e eficácia erga omnes, o consulente é obrigado a mencionar o caso concreto que o levou a formulá-la, ainda que também submeta ao TCU, em tese, a dúvida suscitada;"},
+        {"key": "B", "text": "o TCU pode conhecer de consulta para reanálise de matéria que já tenha sido objeto de consulta anterior, quando considerar que os fundamentos fáticos e jurídicos trazidos são suficientemente densos e relevantes e desde que não haja abuso de direito por parte do consulente;"},
+        {"key": "C", "text": "as autoridades às quais se reconhece legitimidade para a formulação de consulta ao TCU devem demonstrar, como questão preliminar, a pertinência temática da consulta às respectivas áreas de atribuição das instituições que representam, sob pena de seu indeferimento de plano, com o respectivo arquivamento do processo;"},
+        {"key": "D", "text": "para que possam ultrapassar o exame de admissibilidade, as consultas devem conter a indicação precisa do seu objeto, ser formuladas de maneira articulada e obrigatoriamente instruídas com parecer do órgão de assistência técnica ou jurídica da autoridade consulente;"},
+        {"key": "E", "text": "mesmo diante do não conhecimento de consulta, pode o TCU, por impulso oficial, analisar o caso que lhe foi apresentado, situação em que as conclusões assumidas no processo terão caráter normativo e constituirão prejulgamento da tese e da matéria fática, com efeito vinculante em relação ao processo decisório do órgão demandante."}
+      ],
+      "correctAnswer": "B",
+      "explanation": "A resposta à consulta tem caráter normativo e constitui prejulgamento da tese, mas não do fato ou caso concreto (art. 1º, §2º, da Lei 8.443/1992) — o que elimina A e E. O parecer do órgão de assistência técnica ou jurídica só é exigido quando existente na estrutura do consulente, não sendo requisito absoluto (D). A jurisprudência do TCU admite o conhecimento de nova consulta sobre matéria já apreciada quando trazidos fundamentos relevantes e não configurado abuso de direito.",
+      "difficulty": 4
+    },
+    {
+      "subject": "Controle Externo",
+      "topic": "Declaração do México / Princípios de independência das EFS",
+      "statement": "A Declaração do México sobre a independência das Entidades Fiscalizadoras Superiores (EFS), aprovada pela Intosai, consagra oito princípios fundamentais, reconhecidos como requisitos essenciais para a realização de auditoria adequada do setor público. O cotejo do mencionado rol de princípios com o arcabouço constitucional de 1988 aplicável aos Tribunais de Contas no Brasil revela:",
+      "options": [
+        {"key": "A", "text": "o atendimento parcial ao princípio que preconiza a existência de uma estrutura jurídica adequada e efetiva e de dispositivos de aplicação dessa estrutura na prática, porquanto apenas o Tribunal de Contas da União encontra-se previsto na Constituição da República de 1988, estando os Tribunais subnacionais totalmente sujeitos ao experimentalismo federativo;"},
+        {"key": "B", "text": "o atendimento parcial ao princípio que preconiza a total discricionariedade no exercício das funções da EFS, especificamente em matéria de execução de suas decisões, porquanto não se reconhece aos Tribunais de Contas no Brasil competência para promover a execução de suas decisões condenatórias de aplicação de multa ou imputação de débito;"},
+        {"key": "C", "text": "o atendimento pleno ao princípio que preconiza mandato suficientemente amplo e total discricionariedade no exercício das funções da EFS, porquanto o Tribunal de Contas da União detém expressa competência para a declaração de inconstitucionalidade de leis e atos normativos do poder público no exercício de suas atribuições;"},
+        {"key": "D", "text": "o não atendimento ao princípio que preconiza o acesso irrestrito a informações, porquanto a Constituição da República de 1988 não reconhece aos Tribunais de Contas os poderes próprios de investigação das autoridades judiciais, sendo a legislação infraconstitucional silente quanto aos mecanismos inibidores à obstrução de auditorias;"},
+        {"key": "E", "text": "o não atendimento ao princípio que preconiza a liberdade de decidir o conteúdo e a tempestividade dos relatórios de auditoria e de publicá-los e divulgá-los, uma vez que a Lei Orgânica do TCU os subordina à autorização e à requisição do Congresso Nacional."}
+      ],
+      "correctAnswer": "B",
+      "explanation": "As decisões dos Tribunais de Contas de que resulte imputação de débito ou multa têm eficácia de título executivo (art. 71, §3º, CF/88), mas a execução judicial cabe à Advocacia Pública do ente beneficiário (AGU/procuradorias), e não ao próprio Tribunal — daí o atendimento apenas parcial ao princípio da Declaração do México quanto à execução das próprias decisões. Os TCs subnacionais têm matriz constitucional (art. 75), o TCU não declara inconstitucionalidade em abstrato (Súmula 347/STF trata de apreciação incidental) e há amplos poderes de requisição de informações.",
+      "difficulty": 4
+    },
+    {
+      "subject": "Direito Constitucional",
+      "topic": "Processo legislativo / Iniciativa privativa e aumento de despesa",
+      "statement": "Um grupo de deputados estaduais apresentou projeto de lei à Assembleia Legislativa do Estado Alfa, criando o programa orientador de evolução do conhecimento, a ser desenvolvido no âmbito das escolas públicas estaduais, consistente na distribuição de material didático. O projeto veio a ser aprovado pela Casa Legislativa e, ao final, sancionado pelo governador do Estado, daí resultando a promulgação da Lei nº XX. À luz da sistemática constitucional, a Lei nº XX é formalmente:",
+      "options": [
+        {"key": "A", "text": "inconstitucional, pois compete privativamente à União legislar sobre a matéria;"},
+        {"key": "B", "text": "inconstitucional, pois o programa gera aumento de despesa, o que atrai a iniciativa privativa do governador do Estado;"},
+        {"key": "C", "text": "constitucional, pois, apesar de a matéria ser de iniciativa privativa do governador do Estado, a sanção supriu o vício;"},
+        {"key": "D", "text": "constitucional, pois, apesar de o programa gerar aumento de despesa, não incursiona na estrutura de órgãos do Poder Executivo;"},
+        {"key": "E", "text": "constitucional, se houve delegação expressa da União, o que decorre da competência desse ente para legislar sobre a matéria."}
+      ],
+      "correctAnswer": "D",
+      "explanation": "Segundo a jurisprudência do STF, as hipóteses de iniciativa reservada ao Chefe do Executivo (art. 61, §1º, CF/88, de observância obrigatória pelos estados) são taxativas e não se estendem a leis de iniciativa parlamentar que criam programas ou geram despesa, desde que não disponham sobre organização administrativa, criação de órgãos ou regime jurídico de servidores. A sanção não convalida vício de iniciativa (Súmula 5/STF superada — ADI 2.867), o que tornaria a alternativa C incorreta se houvesse o vício.",
+      "difficulty": 3
+    },
+    {
+      "subject": "Direito Constitucional",
+      "topic": "Teto remuneratório nas estatais (art. 37, §9º, CF/88)",
+      "statement": "O Tribunal de Contas da União instaurou processos administrativos para apurar a licitude da percepção de valores superiores àquele correspondente ao teto remuneratório constitucional pelos dirigentes: (I) da sociedade de economia mista A, que não recebia quaisquer recursos da União; (II) da sociedade de economia mista B, que recebia recursos da União para fazer face às despesas de capital; (III) da empresa pública C, que recebia recursos da União para pagamento das despesas de pessoal; e (IV) da subsidiária integral da empresa pública C, que recebia recursos da União para as despesas de custeio em geral, exceto de pessoal. À luz da sistemática constitucional, estão sujeitos ao teto remuneratório constitucional os dirigentes do(s) ente(s) referido(s) em:",
+      "options": [
+        {"key": "A", "text": "I, II, III e IV;"},
+        {"key": "B", "text": "somente II, III e IV;"},
+        {"key": "C", "text": "somente III e IV;"},
+        {"key": "D", "text": "somente I e II;"},
+        {"key": "E", "text": "somente I."}
+      ],
+      "correctAnswer": "C",
+      "explanation": "Nos termos do art. 37, §9º, da CF/88, o teto remuneratório aplica-se às empresas públicas, sociedades de economia mista e suas subsidiárias apenas quando receberem recursos da União, dos Estados, do DF ou dos Municípios para pagamento de despesas de pessoal ou de custeio em geral. Recursos para despesas de capital (II) não atraem o teto; a estatal autossuficiente (I) também está fora. Somente III (pessoal) e IV (custeio em geral) se enquadram.",
+      "difficulty": 3
+    },
+    {
+      "subject": "Direito Constitucional",
+      "topic": "Calamidade pública e regime fiscal extraordinário (art. 167-B a 167-G, CF/88)",
+      "statement": "Em razão de um acontecimento de grande potencial lesivo para o ambiente coletivo, de origem natural, que comprometeu gravemente a capacidade de resposta dos serviços públicos essenciais, o presidente da República debateu com os seus interlocutores mais próximos a possibilidade de ser decretado estado de calamidade pública de âmbito nacional. Na ocasião, foi afirmado por alguns interlocutores que a decretação (1) é de competência do Congresso Nacional e, especificamente em relação ao atendimento das necessidades decorrentes dos acontecimentos, permitiria (2) a adoção de processo simplificado de contratação de pessoal, em caráter temporário e emergencial; (3) o aumento de despesa obrigatória de caráter continuado; e (4) a realização de operações de crédito em montante superior às despesas de capital. À luz da sistemática constitucional, estão corretas:",
+      "options": [
+        {"key": "A", "text": "apenas a informação 1;"},
+        {"key": "B", "text": "apenas as informações 2 e 3;"},
+        {"key": "C", "text": "apenas as informações 3 e 4;"},
+        {"key": "D", "text": "apenas as informações 1, 2 e 4;"},
+        {"key": "E", "text": "as informações 1, 2, 3 e 4."}
+      ],
+      "correctAnswer": "D",
+      "explanation": "Pela EC 109/2021, o estado de calamidade pública de âmbito nacional é reconhecido pelo Congresso Nacional (art. 167-B, CF/88). Durante sua vigência, admitem-se processos simplificados de contratação temporária de pessoal (art. 167-C, parágrafo único... aplicação do regime extraordinário) e a dispensa da 'regra de ouro' — operações de crédito acima das despesas de capital (art. 167-D c/c art. 167, III). Permanece vedada, contudo, a criação de despesa obrigatória de caráter continuado (art. 167-F, §1º), o que torna a afirmativa 3 incorreta.",
+      "difficulty": 4
+    },
+    {
+      "subject": "Direito Administrativo",
+      "topic": "Sistema de Registro de Preços / adesão à ata (carona)",
+      "statement": "Em novembro de 2021, o Ministério do Meio Ambiente realizou licitação para registro de preço para aquisição de quarenta carros. Após a seleção da proposta vencedora e registrada a ata no órgão licitante, o mencionado Ministério foi consultado pela autarquia federal Alfa, que manifestou interesse em contratar o licitante vencedor para a aquisição de dez carros, mediante sua adesão à ata de registro de preços. O caso em tela trata da chamada:",
+      "options": [
+        {"key": "A", "text": "licitação carona, em que é prescindível a anuência do Ministério do Meio Ambiente, e o licitante vencedor da ata de registro de preços está obrigado a celebrar o contrato com a autarquia federal Alfa;"},
+        {"key": "B", "text": "licitação carona, em que é imprescindível a anuência do Ministério do Meio Ambiente, e o licitante vencedor da ata de registro de preços não está obrigado a celebrar o contrato com a autarquia federal Alfa;"},
+        {"key": "C", "text": "fragmentação de licitação, em que é imprescindível a anuência do Ministério do Meio Ambiente, e o licitante vencedor da ata de registro de preços está obrigado a celebrar o contrato com a autarquia federal Alfa;"},
+        {"key": "D", "text": "fragmentação de licitação, em que é prescindível a anuência do Ministério do Meio Ambiente, e a autarquia federal Alfa deve realizar nova licitação, não podendo contratar licitante para fornecimento do mesmo objeto com valor acima do registrado na ata a que aderiu;"},
+        {"key": "E", "text": "licitação carona, em que é prescindível a anuência do Ministério do Meio Ambiente, e a autarquia federal Alfa deve realizar nova licitação, não podendo contratar licitante para fornecimento do mesmo objeto com valor acima do registrado na ata a que aderiu."}
+      ],
+      "correctAnswer": "B",
+      "explanation": "A adesão de órgão não participante à ata de registro de preços ('carona') exige a anuência do órgão gerenciador da ata (art. 86 da Lei 14.133/2021; Decreto 7.892/2013 no regime anterior), e o fornecedor beneficiário não é obrigado a aceitar o fornecimento decorrente da adesão, desde que isso não prejudique as obrigações já assumidas. Não se trata de fragmentação (fracionamento indevido de despesa para fugir de modalidade licitatória).",
+      "difficulty": 2
+    },
+    {
+      "subject": "Direito Administrativo",
+      "topic": "Agências reguladoras / autarquias em regime especial",
+      "statement": "As agências reguladoras foram criadas a partir do Programa Nacional de Desestatização, para fiscalizar, regular e normatizar a prestação de serviços públicos transferidos à iniciativa privada, na forma da lei, com intenção de reduzir gastos e buscar maior eficiência na execução de tais atividades. Nesse contexto, no plano federal, imagine-se a hipotética Agência Nacional Alfa, que, por ser uma agência reguladora, de acordo com a legislação de regência, em matéria de organização administrativa, se classifica como:",
+      "options": [
+        {"key": "A", "text": "autarquia em regime especial, caracterizada pela ausência de tutela ou de subordinação hierárquica, pela autonomia funcional, decisória, administrativa e financeira e pela investidura a termo de seus dirigentes e estabilidade durante os mandatos, sendo certo que seu controle externo é exercido pelo Congresso Nacional, com auxílio do Tribunal de Contas da União;"},
+        {"key": "B", "text": "autarquia em regime especial, caracterizada pela existência de tutela ou de subordinação hierárquica, pela autonomia funcional, decisória e administrativa, bem como pela vinculação orçamentária e financeira junto à Administração direta, sendo certo que seu controle externo é exercido por meio de supervisão ministerial, com auxílio do Tribunal de Contas da União;"},
+        {"key": "C", "text": "autarquia territorial nacional, caracterizada pela existência de tutela ou de subordinação hierárquica, pela autonomia funcional, decisória e administrativa, pela vinculação orçamentária e financeira junto à Administração direta, sendo certo que seu controle externo é exercido por meio de supervisão ministerial, com auxílio da Controladoria-Geral da União;"},
+        {"key": "D", "text": "fundação pública de direito privado, que ostenta personalidade jurídica de direito privado e executa atividades regulatórias de interesse social, com tutela e subordinação hierárquica, autonomia funcional, decisória e administrativa, sendo certo que seu controle externo é exercido por meio do Ministério Público Federal, mediante o velamento de fundações;"},
+        {"key": "E", "text": "empresa estatal, que ostenta personalidade jurídica de direito privado e executa atividades regulatórias de interesse social, com ausência de tutela ou de subordinação hierárquica, possuindo autonomia funcional, decisória e administrativa, sendo certo que seu controle externo é feito diretamente pelos usuários do serviço e pela sociedade civil, mediante o controle social."}
+      ],
+      "correctAnswer": "A",
+      "explanation": "A Lei 13.848/2019 (Lei das Agências Reguladoras) define a natureza especial da agência pela ausência de tutela ou de subordinação hierárquica, autonomia funcional, decisória, administrativa e financeira, e investidura a termo de seus dirigentes com estabilidade durante os mandatos (art. 3º). Como toda entidade da Administração indireta federal, sujeita-se ao controle externo do Congresso Nacional com auxílio do TCU (arts. 70 e 71, CF/88).",
+      "difficulty": 2
+    },
+    {
+      "subject": "Auditoria Governamental",
+      "topic": "ISSAI 100 — Critérios de auditoria",
+      "statement": "Nos trabalhos de auditoria, é necessária a definição de critérios, que consistem em referências para avaliar o objeto auditado. Tais referências são previamente determinadas pelo auditor. No contexto das entidades públicas, conforme a ISSAI 100, a definição desses critérios:",
+      "options": [
+        {"key": "A", "text": "adota leis e regulamentos como fontes primárias;"},
+        {"key": "B", "text": "deve considerar a relevância para a parte responsável;"},
+        {"key": "C", "text": "deve ser baseada nos objetivos e no tipo de auditoria;"},
+        {"key": "D", "text": "deve ser estável quando se tratar de um mesmo objeto;"},
+        {"key": "E", "text": "é invariável quando se trata de auditoria de conformidade."}
+      ],
+      "correctAnswer": "C",
+      "explanation": "Segundo a ISSAI 100 (Princípios Fundamentais de Auditoria do Setor Público), os critérios são os parâmetros usados para avaliar o objeto e devem ser adequados às circunstâncias, variando conforme os objetivos e o tipo de auditoria (financeira, de conformidade ou operacional). Devem ser relevantes, completos, confiáveis, objetivos e compreensíveis, e disponibilizados aos usuários previstos — não são fixos nem restritos a leis e regulamentos (podem incluir normas técnicas, boas práticas, metas etc.).",
+      "difficulty": 2
+    },
+    {
+      "subject": "Auditoria Governamental",
+      "topic": "Matriz de planejamento",
+      "statement": "O Tribunal de Contas da União adotou de forma adaptada algumas ferramentas de auditoria utilizadas pelo U.S. Government Accountability Office (U.S. GAO), a exemplo da matriz de planejamento, que é uma ferramenta importante na definição do escopo do trabalho de auditoria. Na situação hipotética de um trabalho de auditoria que tem por objeto a concessão de auxílio financeiro emergencial a pessoas que perderam renda em decorrência de uma epidemia que atingiu o país e afetou a economia, a matriz de planejamento:",
+      "options": [
+        {"key": "A", "text": "por prudência, não deve se apoiar no julgamento profissional da equipe de auditoria;"},
+        {"key": "B", "text": "por se tratar de um cenário emergencial, deve ser elaborada após a realização de um painel de referência;"},
+        {"key": "C", "text": "deve ajudar a identificar os principais riscos envolvidos no programa de concessão do auxílio;"},
+        {"key": "D", "text": "deve reduzir as questões de auditoria em decorrência do volume de beneficiários do auxílio emergencial;"},
+        {"key": "E", "text": "deve considerar elementos de conhecimento prévio sobre o objeto auditado."}
+      ],
+      "correctAnswer": "E",
+      "explanation": "A matriz de planejamento organiza as questões de auditoria, informações requeridas, fontes, procedimentos e limitações, e é construída a partir do conhecimento prévio do objeto (visão geral do programa), apoiando-se no julgamento profissional da equipe. O painel de referência ocorre para validar a matriz depois de elaborada, e o volume de beneficiários não determina redução de questões de auditoria. A banca considerou a alternativa E correta por traduzir a essência da ferramenta segundo os manuais do TCU/GAO.",
+      "difficulty": 3
+    },
+    {
+      "subject": "Auditoria Governamental",
+      "topic": "Amostragem em testes de controle",
+      "statement": "Durante um trabalho de auditoria, um dos procedimentos previstos na matriz de planejamento era um teste de conformidade (para controle de qualidade) em uma população finita superior a 500 elementos. Para que a população testada fosse aprovada, foi definido como critério que a proporção máxima de erros admitidos seria de 3%. Foi considerado ainda um nível de confiança de 95% e que a amostra conteria no máximo um único erro. Considere ainda a tabela de índices de confiabilidade: para nível de confiança 0,99 — 4,60 (0 erros) e 6,61 (1 erro); para 0,95 — 3,00 (0 erros), 4,75 (1 erro) e 6,30 (2 erros); para 0,90 — 2,30 (0 erros), 3,89 (1 erro) e 5,33 (2 erros). A partir dos dados apresentados e para cumprir os critérios previamente definidos, o tamanho da amostra para o teste na população indicada deve ser de:",
+      "options": [
+        {"key": "A", "text": "150;"},
+        {"key": "B", "text": "158;"},
+        {"key": "C", "text": "167;"},
+        {"key": "D", "text": "220;"},
+        {"key": "E", "text": "475."}
+      ],
+      "correctAnswer": "B",
+      "explanation": "Na amostragem por atributos com base na distribuição de Poisson, o tamanho da amostra é dado por n = fator de confiabilidade ÷ taxa tolerável de desvio. Para 95% de confiança e 1 erro previsto, o fator é 4,75; logo n = 4,75 ÷ 0,03 = 158,33 ≈ 158 elementos.",
+      "difficulty": 3
+    },
+    {
+      "subject": "Auditoria Governamental",
+      "topic": "Materialidade — IN TCU 84/2020 (tomada de contas)",
+      "statement": "A materialidade está entre os princípios norteadores da elaboração e divulgação da prestação de contas no âmbito da Administração Pública Federal, utilizada para determinar a importância relativa de uma distorção ou irregularidade. Nos termos da Instrução Normativa TCU nº 84/2020, para fins de autuação de processo de tomada de contas, é necessário avaliar o nível de materialidade. Considere os dados relativos à execução orçamentária hipotética de uma autarquia federal no exercício de 2021: Despesa fixada R$ 300,00 milhões; Despesa empenhada R$ 286,00 milhões; Despesa liquidada R$ 261,00 milhões. O limite mínimo para que um conjunto de irregularidades detectadas na autarquia no referido exercício seja considerado materialmente relevante, para fins de autuação de processo de tomada de contas, é, em milhões de reais, de:",
+      "options": [
+        {"key": "A", "text": "R$ 2,30;"},
+        {"key": "B", "text": "R$ 2,70;"},
+        {"key": "C", "text": "R$ 2,77;"},
+        {"key": "D", "text": "R$ 2,80;"},
+        {"key": "E", "text": "R$ 5,72;"}
+      ],
+      "correctAnswer": "C",
+      "explanation": "Pelos parâmetros da IN TCU 84/2020 e atos complementares (DN TCU), a materialidade para fins de instauração de tomada de contas é calculada aplicando-se o percentual de referência de 1% sobre a base de execução orçamentária da unidade — considerada a média das despesas executadas (empenhada e liquidada) do exercício —, o que resulta em aproximadamente R$ 2,77 milhões no caso apresentado (gabarito oficial: C).",
+      "difficulty": 4
+    },
+    {
+      "subject": "Auditoria Governamental",
+      "topic": "Materialidade em auditoria financeira",
+      "statement": "Uma equipe de auditoria foi estabelecida para realizar um trabalho de asseguração sobre as demonstrações contábeis de uma instituição pública referentes a 31/12/2021. Em relação às características e aos procedimentos para a determinação da materialidade, é correto afirmar que:",
+      "options": [
+        {"key": "A", "text": "a determinação da materialidade pela equipe de auditoria deve seguir parâmetros objetivos estabelecidos de acordo com os requisitos do relatório financeiro aplicável;"},
+        {"key": "B", "text": "caso a equipe identifique que, no contexto da auditoria, existem fatores de risco significativos e a estrutura de controle correspondente é ineficaz, deve diminuir o nível da materialidade;"},
+        {"key": "C", "text": "a materialidade de execução é definida para que seja diminuída a probabilidade de que as distorções detectadas e não corrigidas, em conjunto, excedam a materialidade para as demonstrações financeiras como um todo;"},
+        {"key": "D", "text": "a determinação do Limite para Acumulação de Distorções (LAD) pela equipe de auditoria indica o valor a partir do qual as distorções identificadas não serão acumuladas, porque, individualmente ou em conjunto, não são relevantes para as demonstrações financeiras;"},
+        {"key": "E", "text": "a equipe de auditoria deve definir, no plano de auditoria, a materialidade de planejamento para as demonstrações financeiras como um todo, a fim de reduzir a um nível adequadamente baixo a probabilidade de que distorções não corrigidas ou não detectadas, em conjunto, excedam esse valor."}
+      ],
+      "correctAnswer": "B",
+      "explanation": "A materialidade envolve julgamento profissional e relação inversa com o risco: quanto maiores os riscos de distorção relevante e mais frágeis os controles, menor deve ser o nível de materialidade fixado (maior rigor). A materialidade de execução (performance materiality) — e não a materialidade global — é que visa reduzir a probabilidade de que distorções não corrigidas/não detectadas excedam a materialidade das demonstrações como um todo (conceito trocado nas alternativas C e E); o LAD é o valor abaixo do qual distorções são claramente triviais e não precisam ser acumuladas, mas a redação em D inverte a lógica ao referi-lo a distorções relevantes.",
+      "difficulty": 4
+    },
+    {
+      "subject": "Auditoria Governamental",
+      "topic": "Risco de auditoria (risco inerente, de controle e de detecção)",
+      "statement": "No desenvolvimento de um trabalho de asseguração sobre as demonstrações contábeis de uma instituição pública, a equipe realizou o processo de identificação e avaliação dos riscos de distorção relevante do contexto auditado. Em relação ao processo de avaliação e resposta aos riscos de distorção relevante, é correto afirmar que:",
+      "options": [
+        {"key": "A", "text": "o risco de auditoria é estabelecido em função do risco inerente, do risco de controle e do risco de detecção;"},
+        {"key": "B", "text": "o risco de auditoria, por guardar relação com os riscos do objeto que está sendo auditado, não está sob o controle da equipe de auditoria;"},
+        {"key": "C", "text": "caso a equipe de auditoria, na avaliação de um risco, conclua que o controle interno é muito forte, o risco de controle poderá ser estabelecido como 100%;"},
+        {"key": "D", "text": "caso a equipe julgue que no contexto avaliado os controles são fortes, os procedimentos de auditoria a serem realizados devem focar na aplicação de testes de controle, em detrimento dos testes substantivos;"},
+        {"key": "E", "text": "caso a avaliação da equipe de auditoria sobre um risco específico indique baixa magnitude do risco, deve ser aumentada a extensão dos testes substantivos a serem aplicados, de forma a garantir a asseguração pretendida."}
+      ],
+      "correctAnswer": "A",
+      "explanation": "O modelo clássico de risco de auditoria é RA = RI × RC × RD: risco inerente e risco de controle são atributos da entidade, enquanto o risco de detecção é administrado pelo auditor (natureza, época e extensão dos procedimentos) para levar o risco de auditoria a um nível aceitavelmente baixo. Controle forte implica risco de controle baixo (não 100%); riscos baixos permitem reduzir (não aumentar) a extensão dos testes substantivos.",
+      "difficulty": 2
+    },
+    {
+      "subject": "Auditoria Governamental",
+      "topic": "IN TCU 84/2020 — Prestação de contas e auditoria do BGU",
+      "statement": "A Instrução Normativa nº 84/2020 do Tribunal de Contas da União (TCU) estabelece papéis e responsabilidades aos diversos atores envolvidos no processo de tomada e prestação de contas dos administradores e responsáveis da administração pública federal, para fins de julgamento pelo TCU. Esses papéis e responsabilidades estão corretamente descritos na seguinte opção:",
+      "options": [
+        {"key": "A", "text": "a Unidade Prestadora de Contas deve organizar e apresentar ao TCU a prestação de contas de uma ou mais Unidades Apresentadoras de Contas (UAC), conforme diretrizes a serem apresentadas pelo próprio Tribunal;"},
+        {"key": "B", "text": "anualmente, de forma ordinária, o TCU abrirá processo de tomada de contas das Unidades Prestadoras de Contas significativas do BGU, contemplando a prestação de contas referente ao exercício financeiro, os documentos e os resultados dos trabalhos realizados para a emissão de opinião em processo de certificação para as UPC;"},
+        {"key": "C", "text": "na auditoria do Grupo BGU, o TCU pode utilizar trabalhos de outros auditores em componentes do BGU para obter evidências apropriadas e suficientes para expressar uma opinião sobre se as demonstrações financeiras de todo o governo foram elaboradas, em todos os aspectos relevantes, em conformidade com a estrutura de relatório financeiro e marco regulatório aplicável;"},
+        {"key": "D", "text": "os órgãos integrantes do controle interno dos poderes, por atuarem como auditorias internas das Unidades Prestadoras de Contas (UPC) em que exercem suas funções, não têm a isenção necessária para a emissão dos certificados de auditoria sobre as prestações de contas para fins de julgamento pelo TCU;"},
+        {"key": "E", "text": "a Mesa Diretora do Congresso Nacional, representando a instituição responsável pelo julgamento das contas consolidadas de governo, prestadas anualmente pelo presidente da República, estabelece a materialidade global dos trabalhos direcionados à certificação das Unidades Prestadoras de Contas significativas do Balanço Geral da União (BGU), de forma a indicar a extensão dos esforços de auditoria."}
+      ],
+      "correctAnswer": "C",
+      "explanation": "Na sistemática da IN TCU 84/2020, a certificação das contas segue a lógica de auditoria de grupo (ISSAI/NBC TA 600): o TCU, como auditor do Grupo BGU, pode usar o trabalho de outros auditores (inclusive dos órgãos de controle interno, que emitem certificados de auditoria — o que refuta a alternativa D) sobre componentes, para formar sua opinião sobre as demonstrações consolidadas. É a UAC que se vincula à UPC (invertido em A), e o julgamento das contas do Presidente cabe ao Congresso Nacional após parecer prévio do TCU, sem que a Mesa Diretora defina materialidade de auditoria (E).",
+      "difficulty": 4
+    },
+    {
+      "subject": "Contabilidade Pública (CASP)",
+      "topic": "NBC TSP Estrutura Conceitual — usuários da informação",
+      "statement": "De acordo com a NBC TSP Estrutura Conceitual — Estrutura Conceitual para Elaboração e Divulgação de Informação Contábil de Propósito Geral pelas Entidades do Setor Público, governos e outras entidades do setor público devem prestar contas àqueles que proveem os seus recursos. De acordo com a norma, os doadores exigem informação principalmente para:",
+      "options": [
+        {"key": "A", "text": "analisar a liquidez da entidade, o montante e o prazo para pagamento de suas obrigações e a sua solvência, assim como a capacidade de satisfazer as obrigações em longo prazo;"},
+        {"key": "B", "text": "identificar o endividamento geral da entidade e os seus índices de lucratividade, assim como de que modo ela pretende financiar as suas operações nos períodos futuros;"},
+        {"key": "C", "text": "avaliar se a entidade está utilizando os recursos com eficácia, eficiência e economicidade e da maneira pretendida, e sobre as atividades previstas de prestação de serviços, assim como as necessidades de recursos;"},
+        {"key": "D", "text": "avaliar a capacidade da entidade de se adaptar a novas situações, devido a mudanças demográficas ou nas condições econômicas nacionais que deverão impactar a natureza ou a composição das atividades que realiza;"},
+        {"key": "E", "text": "analisar se a carga tributária e os outros recursos angariados são suficientes para manter o volume e a qualidade dos serviços prestados, e se o alcance, o volume e o custo dos serviços prestados durante o exercício são apropriados."}
+      ],
+      "correctAnswer": "C",
+      "explanation": "A NBC TSP Estrutura Conceitual distingue as necessidades informacionais dos usuários: os doadores querem saber se a entidade usou os recursos com eficácia, eficiência, economicidade e conforme a destinação pretendida, além de informações sobre as atividades futuras de prestação de serviços e necessidades de recursos. A análise de liquidez/solvência interessa primariamente a credores e mutuantes; a suficiência da carga tributária interessa aos contribuintes.",
+      "difficulty": 2
+    },
+    {
+      "subject": "Contabilidade Pública (CASP)",
+      "topic": "NBC TSP 11 — Classificação de despesas por função",
+      "statement": "De acordo com a NBC TSP 11 — Apresentação das Demonstrações Contábeis, a entidade deve apresentar, na Demonstração do Resultado ou nas Notas Explicativas, a análise das despesas utilizando o detalhamento baseado na sua natureza ou na sua função dentro da entidade, devendo selecionar o critério que proporcione informação fidedigna e mais relevante. São as seguintes as despesas classificadas de acordo com o método da função:",
+      "options": [
+        {"key": "A", "text": "despesa com depreciação e despesa com amortização;"},
+        {"key": "B", "text": "despesa com segurança e despesa com teste de recuperabilidade;"},
+        {"key": "C", "text": "despesa com benefícios a empregados e despesa com venda de ativo imobilizado;"},
+        {"key": "D", "text": "despesa com salários e despesa com juros;"},
+        {"key": "E", "text": "despesa com saúde e despesa com educação."}
+      ],
+      "correctAnswer": "E",
+      "explanation": "No método da função (ou do 'custo dos serviços'), as despesas são agregadas de acordo com o programa ou a finalidade a que se destinam — saúde, educação, segurança etc. Depreciação, amortização, salários, benefícios a empregados e juros são classificações pela natureza da despesa.",
+      "difficulty": 1
+    },
+    {
+      "subject": "Contabilidade Pública (CASP)",
+      "topic": "Restos a Pagar e disponibilidade de caixa (último ano de mandato)",
+      "statement": "Um estado cujo governador estava no último ano de seu mandato apresentava os seguintes saldos no final do exercício financeiro: Receita Corrente: R$ 2.600.000; Receita de Capital: R$ 400.000; Disponibilidade de caixa: R$ 2.000.000; Despesas empenhadas a liquidar: R$ 1.700.000; Despesas empenhadas e liquidadas a pagar: R$ 1.500.000. Na data, o valor inscrito como Restos a Pagar era de:",
+      "options": [
+        {"key": "A", "text": "R$ 1.500.000;"},
+        {"key": "B", "text": "R$ 1.700.000;"},
+        {"key": "C", "text": "R$ 2.000.000;"},
+        {"key": "D", "text": "R$ 3.000.000;"},
+        {"key": "E", "text": "R$ 3.200.000."}
+      ],
+      "correctAnswer": "C",
+      "explanation": "Em regra, inscrevem-se em Restos a Pagar as despesas empenhadas e não pagas até 31/12 (processados: 1.500.000; não processados: 1.700.000 — total 3.200.000). Porém, no último ano de mandato incide o art. 42 da LRF, que veda contrair obrigação de despesa sem disponibilidade de caixa suficiente: a inscrição fica limitada à disponibilidade de R$ 2.000.000 (os 1.500.000 processados mais 500.000 de não processados com lastro financeiro).",
+      "difficulty": 4
+    },
+    {
+      "subject": "Contabilidade Pública (CASP)",
+      "topic": "Mensuração inicial do ativo imobilizado (MCASP/NBC TSP 07)",
+      "statement": "Uma entidade da administração pública fundacional da área de saúde hospitalar adquiriu um equipamento para procedimentos de alta complexidade. Custos apurados: valor de aquisição R$ 1.350.000,00 (negociado em quatro parcelas; se o pagamento fosse à vista, o valor seria R$ 1.200.000,00); custos de frete e manuseio R$ 14.000,00; custos de preparação do local para instalação R$ 36.000,00. O processo de aquisição e instalação foi concluído em 01/07/20X5, quando o equipamento estava no local e nas condições operacionais planejadas. Por um problema de infiltração no imóvel, o equipamento precisou ser retirado e transferido para outra unidade, incorrendo em custos adicionais de R$ 42.000,00, e só entrou em operação em 01/10/20X5. A partir dos procedimentos contábeis patrimoniais vigentes para entidades da administração pública, no reconhecimento inicial o equipamento deve ser mensurado por:",
+      "options": [
+        {"key": "A", "text": "R$ 1.214.000,00;"},
+        {"key": "B", "text": "R$ 1.250.000,00;"},
+        {"key": "C", "text": "R$ 1.364.000,00;"},
+        {"key": "D", "text": "R$ 1.400.000,00;"},
+        {"key": "E", "text": "R$ 1.442.000,00."}
+      ],
+      "correctAnswer": "B",
+      "explanation": "O custo do imobilizado equivale ao preço à vista (R$ 1.200.000 — a diferença para o preço a prazo é despesa financeira) mais os custos diretamente atribuíveis para colocar o ativo no local e em condição de funcionamento: frete/manuseio (14.000) e preparação do local (36.000) = R$ 1.250.000. Os R$ 42.000 de realocação posterior não são capitalizáveis: custos incorridos após o ativo estar em condições de operar (01/07/20X5) são despesa do período (NBC TSP 07/MCASP).",
+      "difficulty": 3
+    },
+    {
+      "subject": "Contabilidade Pública (CASP)",
+      "topic": "Receita Corrente Líquida (RREO/LRF)",
+      "statement": "Um dos demonstrativos constantes do Relatório Resumido da Execução Orçamentária refere-se à apuração da Receita Corrente Líquida (RCL), parâmetro usado como referência para definição da reserva de contingência e para acompanhamento dos limites fiscais, tais como despesa total com pessoal e endividamento. Ao analisar o Demonstrativo da Receita Corrente Líquida de um Estado da federação, um servidor da área de controle externo deve considerar que:",
+      "options": [
+        {"key": "A", "text": "as receitas de transferências correntes são computadas de forma dedutiva;"},
+        {"key": "B", "text": "as receitas provenientes da compensação financeira entre regimes previdenciários são computadas de forma aditiva;"},
+        {"key": "C", "text": "as transferências da União relativas a emendas impositivas de bancada afetam a RCL para fins dos limites de endividamento;"},
+        {"key": "D", "text": "as transferências da União relativas a emendas impositivas individuais afetam a RCL para fins do limite da despesa com pessoal;"},
+        {"key": "E", "text": "os rendimentos de aplicação financeira referentes aos recursos do regime próprio de previdência social não afetam a RCL."}
+      ],
+      "correctAnswer": "B",
+      "explanation": "No Demonstrativo da RCL (Manual de Demonstrativos Fiscais/STN), as receitas correntes são somadas de forma aditiva — incluindo a compensação financeira entre regimes previdenciários recebida pelo ente —, deduzindo-se em seguida as parcelas previstas no art. 2º, IV, da LRF. As transferências correntes recebidas somam (não deduzem); e as transferências da União decorrentes de emendas individuais e de bancada de execução obrigatória não integram a base de cálculo da RCL para fins dos limites de despesa com pessoal e de endividamento (CF, art. 166, §16, e art. 166-A).",
+      "difficulty": 4
+    },
+    {
+      "subject": "Análise das Demonstrações Contábeis",
+      "topic": "Análise horizontal e efeitos da inflação",
+      "statement": "Um analista deseja elaborar um documento com a situação contábil de diferentes entidades do mesmo setor. Para isso, ele analisou suas demonstrações contábeis referentes aos anos de 2019, 2020 e 2021. Para facilitar o seu trabalho, o analista não levou em consideração a atualização dos componentes das demonstrações contábeis pela inflação. Os resultados mais impactados pela não correção pela inflação diziam respeito, principalmente, à análise:",
+      "options": [
+        {"key": "A", "text": "horizontal;"},
+        {"key": "B", "text": "vertical;"},
+        {"key": "C", "text": "dos indicadores de liquidez geral;"},
+        {"key": "D", "text": "dos indicadores de liquidez imediata;"},
+        {"key": "E", "text": "dos indicadores de estrutura de capital."}
+      ],
+      "correctAnswer": "A",
+      "explanation": "A análise horizontal compara valores de uma mesma conta ao longo de vários exercícios; sem atualização monetária, a variação nominal mistura crescimento real e inflação, distorcendo as conclusões. A análise vertical e os índices de liquidez/estrutura comparam contas dentro de um mesmo exercício (mesma moeda do momento), sendo muito menos sensíveis à inflação.",
+      "difficulty": 2
+    },
+    {
+      "subject": "Análise das Demonstrações Contábeis",
+      "topic": "Indicadores de liquidez",
+      "statement": "Uma entidade apresentava o seguinte balanço patrimonial em 31/12/X1: Ativo Circulante 62.000 (Caixa 50.000; Despesa Antecipada 12.000); Ativo não Circulante 180.000 (Terreno 180.000); Passivo Circulante 40.000 (Fornecedores 40.000); Passivo não Circulante 100.000 (Contas a Pagar 100.000); Patrimônio Líquido 102.000. Em X2 aconteceram os seguintes fatos: pagamento da dívida com fornecedores; realização integral das despesas antecipadas; contração de empréstimo de longo prazo no valor de R$ 27.000; compra de R$ 30.000 em estoque para pagamento em março de X3. Além disso, a entidade foi acionada na justiça por um antigo funcionário, que pedia R$ 12.000; os advogados julgaram que a perda da causa era provável e deveria acontecer no início de X3. Na análise dos indicadores de liquidez da entidade em 31/12/X1 e em 31/12/X2, é correto concluir que os indicadores de liquidez:",
+      "options": [
+        {"key": "A", "text": "seca passaram de 0,95 para 0,17;"},
+        {"key": "B", "text": "imediata passaram de 1,25 para 0,88;"},
+        {"key": "C", "text": "corrente passaram de 1,55 para 2,23;"},
+        {"key": "D", "text": "geral passaram de 1,73 para 1,46;"},
+        {"key": "E", "text": "seca e corrente permaneceram iguais."}
+      ],
+      "correctAnswer": "B",
+      "explanation": "Liquidez imediata = Disponibilidades ÷ Passivo Circulante. Em X1: 50.000 ÷ 40.000 = 1,25. Em X2 o caixa passa a 37.000 (50.000 − 40.000 de fornecedores + 27.000 do empréstimo; a compra de estoque será paga em X3 e as despesas antecipadas não afetam caixa) e o passivo circulante passa a 42.000 (30.000 do estoque a pagar + 12.000 da provisão trabalhista de perda provável): 37.000 ÷ 42.000 ≈ 0,88.",
+      "difficulty": 3
+    },
+    {
+      "subject": "AFO / Orçamento Público",
+      "topic": "Classificação de receitas e despesas (Lei 4.320/1964)",
+      "statement": "A Superintendência do Patrimônio da União no Estado Alfa teve que indicar a classificação de suas receitas referentes a foro e taxa de ocupação quanto a terrenos de marinha localizados no referido Estado, bem como a classificação da despesa para aquisição de imóvel tido como necessário para a execução de obra pública. Levando-se em consideração a classificação por natureza de cada uma dessas receitas e despesa públicas descritas no enunciado, à luz da Lei nº 4.320/1964, é correto afirmar que tais receitas:",
+      "options": [
+        {"key": "A", "text": "de foro e de taxa de ocupação são classificadas como receitas tributárias, e a despesa com a aquisição imobiliária necessária à execução de obra pública, como inversão financeira;"},
+        {"key": "B", "text": "de foro são classificadas como receitas patrimoniais, as de taxa de ocupação como receitas tributárias, e a despesa com a aquisição imobiliária necessária à execução de obra pública, como inversão financeira;"},
+        {"key": "C", "text": "de foro são classificadas como receitas patrimoniais, as de taxa de ocupação como receitas tributárias, e a despesa com a aquisição imobiliária necessária à execução de obra pública, como investimento;"},
+        {"key": "D", "text": "de foro e de taxa de ocupação são classificadas como receitas patrimoniais, e a despesa com a aquisição imobiliária necessária à execução de obra pública, como inversão financeira;"},
+        {"key": "E", "text": "de foro e de taxa de ocupação são classificadas como receitas patrimoniais, e a despesa com a aquisição imobiliária necessária à execução de obra pública, como investimento."}
+      ],
+      "correctAnswer": "E",
+      "explanation": "Foro e taxa de ocupação de terrenos de marinha decorrem da exploração do patrimônio imobiliário da União — são receitas patrimoniais (a 'taxa de ocupação', apesar do nome, não é tributo). Quanto à despesa: a aquisição de imóveis considerada necessária à realização de obra pública classifica-se como investimento (art. 12, §4º, da Lei 4.320/1964); seria inversão financeira se fosse imóvel já em utilização, sem vínculo com obra.",
+      "difficulty": 3
+    },
+    {
+      "subject": "AFO / Orçamento Público",
+      "topic": "LRF — Limites de despesa com pessoal (limite de alerta)",
+      "statement": "Ao final de um certo quadrimestre, verificou-se que a despesa total com pessoal de um determinado Tribunal Regional do Trabalho (TRT) alcançou 94,5% do limite de gastos com pessoal previsto na Lei de Responsabilidade Fiscal (LRF — LC nº 101/2000, arts. 19 e 20). Diante desse fato, tendo-se atingido o percentual de 94,5% acima descrito:",
+      "options": [
+        {"key": "A", "text": "fica vedada a criação de cargo, emprego ou função;"},
+        {"key": "B", "text": "fica vedada a alteração de estrutura de carreira que implique aumento de despesa;"},
+        {"key": "C", "text": "o percentual de 4,5% excedente a 90% terá de ser eliminado nos dois quadrimestres seguintes, sendo, pelo menos, um terço no primeiro;"},
+        {"key": "D", "text": "o Tribunal de Contas da União (TCU) deverá alertar o referido TRT de que o montante da despesa total com pessoal ultrapassou 90% do limite;"},
+        {"key": "E", "text": "fica vedada a concessão de vantagem, aumento, reajuste ou adequação de remuneração a qualquer título, salvo os derivados de sentença judicial ou de determinação legal ou contratual."}
+      ],
+      "correctAnswer": "D",
+      "explanation": "Aos 94,5% do limite foi ultrapassado apenas o limite de alerta (90% do limite — art. 59, §1º, II, da LRF), que obriga o Tribunal de Contas a alertar o órgão. As vedações das alternativas A, B e E incidem a partir do limite prudencial (95% do limite — art. 22, parágrafo único), ainda não atingido; a eliminação do excedente em dois quadrimestres (art. 23) só se aplica quando ultrapassado o limite máximo (100%).",
+      "difficulty": 3
+    },
+    {
+      "subject": "AFO / Orçamento Público",
+      "topic": "LRF — Renúncia de receita (art. 14)",
+      "statement": "Contando com a devida autorização por deliberação dos Estados e Distrito Federal mediante convênio do Confaz, o Estado Alfa, por lei específica, concedeu isenção de ICMS a favorecer pessoas com deficiência que, comprovando sua situação perante o Fisco estadual, adquirissem automóveis adaptados. O Estado Alfa, para conceder a isenção, realizou a estimativa do impacto orçamentário-financeiro no exercício em que devia iniciar a vigência da isenção e no seguinte, atendeu ao disposto em sua lei de diretrizes orçamentárias (LDO) e demonstrou que a renúncia foi considerada na estimativa de receita da lei orçamentária e que não afetaria as metas de resultados fiscais previstas no Anexo Estadual de Metas Fiscais. Diante desse cenário concreto, é correto afirmar que:",
+      "options": [
+        {"key": "A", "text": "a estimativa do impacto orçamentário-financeiro deveria ter sido elaborada no âmbito do Confaz;"},
+        {"key": "B", "text": "não se configura renúncia de receita, por se tratar de concessão de isenção em caráter geral;"},
+        {"key": "C", "text": "a estimativa do impacto orçamentário-financeiro deveria ter sido elaborada considerando-se o exercício em que se inicia a vigência da isenção e os dois seguintes;"},
+        {"key": "D", "text": "as reduções de alíquotas e isenções de ICMS constituem exceção à aplicação das normas da Lei de Responsabilidade Fiscal acerca de renúncia de receitas;"},
+        {"key": "E", "text": "deveria estar presente necessariamente medida de compensação por meio do aumento de receita, proveniente da elevação de alíquotas, ampliação da base de cálculo, majoração ou criação de tributo ou contribuição."}
+      ],
+      "correctAnswer": "C",
+      "explanation": "O art. 14 da LRF exige estimativa do impacto orçamentário-financeiro no exercício em que a renúncia deva iniciar sua vigência e nos dois seguintes — o Estado só considerou o exercício inicial e o seguinte. A isenção concedida sob condição (comprovação perante o Fisco) é em caráter não geral e configura renúncia; a medida de compensação (inciso II) só é obrigatória se a renúncia não estiver amparada na demonstração do inciso I (não afetar as metas fiscais), que foi atendida.",
+      "difficulty": 3
+    },
+    {
+      "subject": "AFO / Orçamento Público",
+      "topic": "Emendas parlamentares impositivas (CF, art. 166)",
+      "statement": "Em certo ano, emendas parlamentares individuais ao projeto de lei orçamentária anual da União foram aprovadas no limite de 1,2% da receita corrente líquida prevista no projeto encaminhado pelo Poder Executivo, destinando-se a metade desse percentual a ações e serviços públicos de saúde. A execução orçamentária dessas emendas, no montante destinado à saúde, contemplou diversos programas, inclusive despesas de custeio na saúde e gastos com pagamento de pessoal dessa área. Porém, após iniciada a execução orçamentária, verificou-se que a reestimativa da receita e da despesa resultaria no não cumprimento da meta de resultado fiscal estabelecida na lei de diretrizes orçamentárias (LDO). Diante desse cenário e à luz do texto atual da Constituição da República de 1988, é correto afirmar que:",
+      "options": [
+        {"key": "A", "text": "a execução orçamentária e financeira das programações decorrentes de tais emendas é discricionária;"},
+        {"key": "B", "text": "os gastos em saúde decorrentes dessas emendas não podem ser aplicados em meras despesas de custeio de ações e serviços públicos de saúde;"},
+        {"key": "C", "text": "os gastos em saúde decorrentes dessas emendas, ainda que venham a ser proporcionalmente reduzidos, são computados para fins de cumprimento do percentual mínimo anual a ser aplicado pela União em ações e serviços públicos de saúde;"},
+        {"key": "D", "text": "havendo impedimentos de ordem técnica para cumprimento integral das programações orçamentárias decorrentes de tais emendas, estas deverão ser executadas em percentual de ao menos 25% do originalmente previsto;"},
+        {"key": "E", "text": "verificado o provável descumprimento da meta de resultado fiscal estabelecida na LDO, as programações orçamentárias decorrentes de tais emendas não poderão ser reduzidas na mesma proporção da limitação incidente sobre o conjunto das demais despesas discricionárias."}
+      ],
+      "correctAnswer": "C",
+      "explanation": "Pelo art. 166, §§ 9º a 20, da CF/88, as emendas individuais são de execução obrigatória (não discricionária), metade do limite destina-se a ações e serviços públicos de saúde, sendo vedado apenas o pagamento de despesas com pessoal e encargos sociais (custeio é permitido), e esses valores são computados no cálculo do mínimo constitucional da saúde (§10). Em caso de risco de descumprimento de meta fiscal, a execução pode ser contingenciada na mesma proporção das demais despesas discricionárias (§17).",
+      "difficulty": 4
+    },
+    {
+      "subject": "AFO / Orçamento Público",
+      "topic": "Créditos adicionais e desafios do controle",
+      "statement": "Apesar dos esforços que têm aperfeiçoado o processo de planejamento orçamentário na administração pública brasileira, há previsão da realização de alterações orçamentárias ao longo do exercício financeiro. Tais alterações são limitadas, entre outros fatores, por imposições legais e restrições de recursos. Um desafio para o controle externo analisar o montante e o impacto da abertura de créditos adicionais no orçamento é a:",
+      "options": [
+        {"key": "A", "text": "falta de controle da edição de medidas provisórias com abertura de créditos extraordinários;"},
+        {"key": "B", "text": "impossibilidade de alterar um atributo de um crédito orçamentário, tal como modalidade de aplicação;"},
+        {"key": "C", "text": "ocorrência de reabertura de créditos adicionais do exercício anterior no orçamento vigente;"},
+        {"key": "D", "text": "possibilidade de alterações orçamentárias não incluídas no limite de créditos suplementares;"},
+        {"key": "E", "text": "recorrência de situações emergenciais que flexibilizam as regras de alterações orçamentárias."}
+      ],
+      "correctAnswer": "D",
+      "explanation": "A LOA autoriza previamente um limite para abertura de créditos suplementares, mas diversas alterações orçamentárias (remanejamentos, transposições, transferências autorizadas, créditos com fontes específicas excluídas do limite pela própria LOA) não são computadas nesse limite, dificultando ao controle externo aferir o montante e o impacto total das alterações. Créditos especiais e extraordinários autorizados nos últimos quatro meses podem ser reabertos (CF, art. 167, §2º) — prática regular, não o desafio central apontado pela banca.",
+      "difficulty": 4
+    },
+    {
+      "subject": "AFO / Orçamento Público",
+      "topic": "Resultado primário e identificador de resultado primário",
+      "statement": "A classificação da despesa pública é estruturada para atender às exigências de informação demandadas por todos os interessados nas questões de finanças públicas. A classificação da despesa por identificador de resultado primário é de caráter indicativo e tem como finalidade auxiliar a apuração do resultado primário, pelo confronto com as receitas primárias. Ao avaliar a meta de resultado primário e o resultado alcançado ao final de um exercício, deve-se considerar que:",
+      "options": [
+        {"key": "A", "text": "é facultada a vinculação com a meta de resultado nominal;"},
+        {"key": "B", "text": "as despesas discricionárias não devem afetar o resultado primário;"},
+        {"key": "C", "text": "todas as despesas primárias devem ser incluídas na meta de resultado primário;"},
+        {"key": "D", "text": "as despesas que devem ser incluídas no resultado primário são de caráter obrigatório;"},
+        {"key": "E", "text": "há classificação específica para despesas decorrentes de emendas parlamentares impositivas."}
+      ],
+      "correctAnswer": "E",
+      "explanation": "No classificador por identificador de resultado primário (RP) do orçamento federal, as despesas decorrentes de emendas impositivas têm códigos próprios — RP 6 (emendas individuais) e RP 7 (emendas de bancada), além de RP 8/9 em exercícios recentes —, distintos das despesas obrigatórias (RP 1) e discricionárias (RP 2). Tanto despesas obrigatórias quanto discricionárias primárias afetam o resultado primário.",
+      "difficulty": 3
+    }
+  ]
+}

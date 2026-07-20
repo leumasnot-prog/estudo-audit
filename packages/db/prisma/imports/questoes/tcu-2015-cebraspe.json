@@ -1,0 +1,415 @@
+{
+  "sourceExam": "TCU 2015 — Auditor Federal de Controle Externo (Área Controle Externo, Especialidade Controle Externo, Orientação Auditoria Governamental) — Prova Objetiva P2, caderno 173TCUAUFC_001_01, aplicada em 16/08/2015",
+  "board": "CEBRASPE",
+  "year": 2015,
+  "questions": [
+    {
+      "subject": "Auditoria Governamental",
+      "topic": "Relatório do auditor independente — parágrafos de ênfase e de outros assuntos",
+      "statement": "Situação hipotética: Os seguintes parágrafos fazem parte de um relatório de auditores independentes: I — Conforme mencionado na nota explicativa n.º 3, em decorrência das reclassificações nela descritas, os valores correspondentes referentes à demonstração do fluxo de caixa consolidado para o exercício findo em 31 de dezembro de 2013, apresentados para fins de comparação, foram ajustados e estão sendo reapresentados como previsto no CPC 23 — Políticas Contábeis, Mudanças de Estimativa e Retificação de Erro e CPC 26(R1) — Apresentação das Demonstrações Contábeis. Nossa opinião não contém modificação relacionada a esse assunto. II — Examinamos, também, as demonstrações individual e consolidada do valor adicionado (DVA), referentes ao exercício findo em 31 de dezembro de 2014, elaboradas sob a responsabilidade da administração da Companhia, e cuja apresentação é requerida pela legislação societária brasileira para companhias abertas. Essas demonstrações foram submetidas aos mesmos procedimentos de auditoria descritos anteriormente e, em nossa opinião, estão adequadamente apresentadas, em todos os seus aspectos relevantes, em relação às demonstrações financeiras tomadas em conjunto. Assertiva: Nesse caso, considerando-se a estrutura do relatório dos auditores independentes sobre as demonstrações financeiras (parecer dos auditores independentes), é correto afirmar que o parágrafo I é um parágrafo de ênfase e o parágrafo II é um parágrafo de opinião.",
+      "options": [
+        {"key": "A", "text": "Certo"},
+        {"key": "B", "text": "Errado"}
+      ],
+      "correctAnswer": "B",
+      "explanation": "Gabarito oficial: ERRADO. O parágrafo I é, de fato, parágrafo de ênfase (NBC TA 706): chama a atenção para assunto apropriadamente divulgado nas demonstrações (reapresentação de valores comparativos), sem modificar a opinião. Já o parágrafo II, relativo ao exame da DVA — demonstração exigida pela legislação societária brasileira, mas suplementar às demonstrações para fins de IFRS —, é o típico parágrafo de 'outros assuntos', e não o parágrafo de opinião do relatório, que trata das demonstrações contábeis tomadas em conjunto.",
+      "difficulty": 3
+    },
+    {
+      "subject": "Auditoria Governamental",
+      "topic": "Mudança de política contábil detectada pelo auditor (NBC TA / NBC TG 23)",
+      "statement": "Acerca das normas técnicas de auditoria, julgue o item. Situação hipotética: Um auditor independente verificou que as taxas de depreciação utilizadas por uma empresa foram calculadas pelo método das somas dos dígitos. Além disso, o auditor verificou que tal procedimento diferia daquele realizado no último exercício, quando foi adotado o método das quotas constantes, sem evidenciar em notas explicativas. Assertiva: Diante desses fatos, por se tratar apenas de uma mudança de política contábil, a conduta adequada do auditor independente seria considerar como não relevante a alteração descrita.",
+      "options": [
+        {"key": "A", "text": "Certo"},
+        {"key": "B", "text": "Errado"}
+      ],
+      "correctAnswer": "B",
+      "explanation": "Gabarito oficial: ERRADO. A alteração do método de depreciação afeta a comparabilidade das demonstrações e exige divulgação em notas explicativas (NBC TG 23 trata mudanças de método de depreciação como mudança de estimativa contábil com efeitos divulgáveis; NBC TG 27 exige revisão e divulgação do método). Como a mudança não foi evidenciada, o auditor não pode tratá-la como irrelevante: deve avaliar o efeito da omissão sobre as demonstrações e considerar possível modificação de opinião (NBC TA 705).",
+      "difficulty": 3
+    },
+    {
+      "subject": "Auditoria Governamental",
+      "topic": "Papéis de trabalho e documentação de auditoria (NBC TA 230)",
+      "statement": "Acerca das normas técnicas de auditoria, julgue o item. A determinação do escopo do trabalho constitui um dos pontos essenciais a serem obrigatoriamente documentados nos papéis de trabalho do auditor, que deve observar o conceito de materialidade quanto aos procedimentos e à relevância da informação, além de ter senso crítico e julgamento para direcionar o seu trabalho.",
+      "options": [
+        {"key": "A", "text": "Certo"},
+        {"key": "B", "text": "Errado"}
+      ],
+      "correctAnswer": "A",
+      "explanation": "Gabarito oficial: CERTO. A NBC TA 230 (Documentação de Auditoria) exige que os papéis de trabalho registrem a natureza, a época e a extensão dos procedimentos planejados e executados — o que pressupõe a documentação do escopo definido no planejamento (NBC TA 300). A materialidade (NBC TA 320) orienta a extensão dos procedimentos e a relevância das informações documentadas, e o julgamento profissional e o ceticismo permeiam todo o trabalho (NBC TA 200).",
+      "difficulty": 2
+    },
+    {
+      "subject": "Auditoria Governamental",
+      "topic": "Risco de auditoria — componentes (RA = RI × RC × RD)",
+      "statement": "Acerca das normas técnicas de auditoria, julgue o item. O risco de auditoria é a possibilidade de o auditor, por algum motivo alheio a sua vontade, vir a emitir uma opinião tecnicamente inadequada sobre demonstrações contábeis significativamente incorretas. Para fins de análise, o risco de auditoria divide-se em três componentes: risco inerente, risco de controle e risco de detecção.",
+      "options": [
+        {"key": "A", "text": "Certo"},
+        {"key": "B", "text": "Errado"}
+      ],
+      "correctAnswer": "A",
+      "explanation": "Gabarito oficial: CERTO. O risco de auditoria é o risco de o auditor expressar opinião inadequada quando as demonstrações contábeis contêm distorção relevante (NBC TA 200, item 13). Ele é função do risco de distorção relevante — decomposto em risco inerente e risco de controle — e do risco de detecção, dando origem ao modelo clássico RA = RI × RC × RD, em que o auditor administra o risco de detecção para manter o risco de auditoria em nível aceitavelmente baixo.",
+      "difficulty": 2
+    },
+    {
+      "subject": "Auditoria Governamental",
+      "topic": "Abstenção de opinião e materialidade (NBC TA 705)",
+      "statement": "Acerca das normas técnicas de auditoria, julgue o item. Ao emitir parecer com abstenção de opinião para as demonstrações contábeis de uma entidade, o auditor não estará isento da responsabilidade de mencionar, no parecer, qualquer desvio que possa influenciar a decisão do usuário das demonstrações, independentemente da relevância ou da materialidade desse desvio.",
+      "options": [
+        {"key": "A", "text": "Certo"},
+        {"key": "B", "text": "Errado"}
+      ],
+      "correctAnswer": "B",
+      "explanation": "Gabarito oficial: ERRADO. A materialidade é o filtro de todo o trabalho do auditor (NBC TA 320): mesmo na abstenção de opinião (NBC TA 705), o auditor comunica os motivos da impossibilidade de obter evidência apropriada e suficiente e os desvios RELEVANTES identificados — não 'qualquer desvio independentemente da relevância ou da materialidade'. Distorções claramente triviais não influenciam a decisão do usuário e não precisam ser mencionadas no relatório.",
+      "difficulty": 3
+    },
+    {
+      "subject": "Análise das Demonstrações Contábeis",
+      "topic": "Índices de lucratividade e comparação setorial",
+      "statement": "Com relação aos conceitos de análise das demonstrações contábeis envolvendo retorno sobre o capital empregado e análise da lucratividade, julgue o item. A lucratividade de uma empresa pode ser avaliada em relação às vendas, aos ativos e ao patrimônio líquido, e, por ser relativa, sua análise independe do setor de atuação da empresa.",
+      "options": [
+        {"key": "A", "text": "Certo"},
+        {"key": "B", "text": "Errado"}
+      ],
+      "correctAnswer": "B",
+      "explanation": "Gabarito oficial: ERRADO. A primeira parte é correta: margens (sobre vendas), ROA/ROI (sobre ativos) e ROE (sobre o patrimônio líquido) são medidas relativas de lucratividade. O erro está na conclusão: justamente por serem relativos, esses índices só ganham significado quando comparados com padrões do setor de atuação (análise interempresarial) — setores intensivos em capital operam com margens e giros muito diferentes de setores de serviços. A análise NÃO independe do setor.",
+      "difficulty": 2
+    },
+    {
+      "subject": "Análise das Demonstrações Contábeis",
+      "topic": "Alavancagem financeira",
+      "statement": "Com relação aos conceitos de análise das demonstrações contábeis envolvendo retorno sobre o capital empregado e análise da lucratividade, julgue o item. A alavancagem financeira positiva ocorre quando o custo de capital de terceiros é menor que o retorno sobre o ativo operacional, o que gera ganhos adicionais ao acionista.",
+      "options": [
+        {"key": "A", "text": "Certo"},
+        {"key": "B", "text": "Errado"}
+      ],
+      "correctAnswer": "A",
+      "explanation": "Gabarito oficial: CERTO. Há alavancagem financeira favorável (GAF > 1) quando o retorno sobre o investimento operacional (ROI) supera o custo da dívida (Ki): a diferença (spread) apropria-se ao acionista, elevando o retorno sobre o patrimônio líquido (ROE > ROI). Se Ki > ROI, a alavancagem é desfavorável e o endividamento corrói o retorno do capital próprio.",
+      "difficulty": 2
+    },
+    {
+      "subject": "Análise das Demonstrações Contábeis",
+      "topic": "Retorno sobre o patrimônio líquido (ROE)",
+      "statement": "Com relação aos conceitos de análise das demonstrações contábeis envolvendo retorno sobre o capital empregado e análise da lucratividade, julgue o item. O retorno sobre o patrimônio líquido de uma empresa é negativo quando os custos e as despesas são maiores que as receitas.",
+      "options": [
+        {"key": "A", "text": "Certo"},
+        {"key": "B", "text": "Errado"}
+      ],
+      "correctAnswer": "A",
+      "explanation": "Gabarito oficial: CERTO. ROE = lucro líquido ÷ patrimônio líquido. Quando custos e despesas superam as receitas, o resultado do exercício é prejuízo (numerador negativo) e, com patrimônio líquido positivo, o retorno sobre o patrimônio líquido resulta negativo — o capital próprio foi consumido, e não remunerado, no período.",
+      "difficulty": 1
+    },
+    {
+      "subject": "Análise das Demonstrações Contábeis",
+      "topic": "Ciclo operacional e necessidade de investimento em giro",
+      "statement": "A respeito da análise de liquidez e de solvência de empresas, julgue o item. O ciclo operacional da empresa pode ser definido como as suas fases de funcionamento, que vão desde a aquisição de materiais para a produção até o recebimento das vendas efetuadas. Quanto mais longo se apresentar o ciclo operacional, menor será a necessidade de investimento em giro.",
+      "options": [
+        {"key": "A", "text": "Certo"},
+        {"key": "B", "text": "Errado"}
+      ],
+      "correctAnswer": "B",
+      "explanation": "Gabarito oficial: ERRADO. A definição de ciclo operacional está correta (da compra de materiais ao recebimento das vendas), mas a relação apresentada está invertida: quanto MAIS LONGO o ciclo operacional, MAIOR o período em que a empresa mantém recursos aplicados em estoques e contas a receber sem o correspondente ingresso de caixa — logo, maior a necessidade de investimento em giro (NIG).",
+      "difficulty": 2
+    },
+    {
+      "subject": "Análise das Demonstrações Contábeis",
+      "topic": "Efeito tesoura",
+      "statement": "A respeito da análise de liquidez e de solvência de empresas, julgue o item. Quando uma empresa apresenta, por vários exercícios seguidos, crescimento da necessidade de investimento em giro superior ao do capital circulante líquido, ela convive com o denominado efeito tesoura, que é identificado por um crescente saldo de disponível negativo. Esse efeito pode ocorrer por várias razões, como overtrade, desvio de recursos do giro para imobilizações e inflação.",
+      "options": [
+        {"key": "A", "text": "Certo"},
+        {"key": "B", "text": "Errado"}
+      ],
+      "correctAnswer": "A",
+      "explanation": "Gabarito oficial: CERTO. No modelo dinâmico (Fleuriet), o saldo de tesouraria é a diferença entre o CCL e a NIG. Quando a NIG cresce sistematicamente acima do CCL, o saldo de tesouraria torna-se negativo e crescente — o gráfico das duas curvas abre-se como uma tesoura ('efeito tesoura'), sinalizando financiamento do giro com dívidas onerosas de curto prazo. Causas típicas: overtrade (crescimento das vendas acima da capacidade de financiamento), imobilização de recursos do giro e inflação.",
+      "difficulty": 3
+    },
+    {
+      "subject": "Análise das Demonstrações Contábeis",
+      "topic": "EBITDA — conceito",
+      "statement": "Julgue o item, relativo ao EBITDA (earnings before interest, tax, depreciation and amortization). O EBITDA representa a geração de caixa operacional da empresa, ou seja, o montante de recursos gerados pela empresa apenas em suas atividades operacionais, após a subtração do efeito financeiro e de impostos.",
+      "options": [
+        {"key": "A", "text": "Certo"},
+        {"key": "B", "text": "Errado"}
+      ],
+      "correctAnswer": "B",
+      "explanation": "Gabarito oficial: ERRADO. O EBITDA (LAJIDA) é o lucro ANTES dos juros, impostos sobre o lucro, depreciação e amortização — a sigla é 'earnings BEFORE interest, tax, depreciation and amortization'. O item erra ao afirmar que a medida é apurada 'após a subtração do efeito financeiro e de impostos': esses efeitos são justamente excluídos (adicionados de volta) para aproximar o potencial de geração de caixa operacional (ver Instrução CVM 527/2012, hoje Resolução CVM 156/2022, sobre o cálculo padronizado).",
+      "difficulty": 2
+    },
+    {
+      "subject": "Análise das Demonstrações Contábeis",
+      "topic": "Análise temporal e análise interempresarial",
+      "statement": "Com referência às análises horizontal e vertical, a tendências e a grupos de comparação, julgue o item. A comparação feita durante a análise de balanços apresenta-se de duas formas: análise temporal e análise interempresarial. Enquanto a primeira compreende a tendência apresentada pelos indicadores de desempenho e não limita a avaliação a resultado restrito a um único período, a segunda relaciona o desempenho de uma empresa com o setor de atividade e o mercado em geral.",
+      "options": [
+        {"key": "A", "text": "Certo"},
+        {"key": "B", "text": "Errado"}
+      ],
+      "correctAnswer": "A",
+      "explanation": "Gabarito oficial: CERTO. A avaliação de indicadores exige referenciais de comparação: a análise temporal (ou de série histórica) examina a evolução dos índices da própria empresa ao longo de vários períodos, identificando tendências; a análise interempresarial (cross-section) confronta o desempenho da empresa, em um mesmo período, com o de concorrentes, com a mediana do setor e com o mercado — é a base dos quocientes-padrão.",
+      "difficulty": 2
+    },
+    {
+      "subject": "Análise das Demonstrações Contábeis",
+      "topic": "Análise horizontal × análise vertical",
+      "statement": "Com referência às análises horizontal e vertical, a tendências e a grupos de comparação, julgue o item. A análise horizontal é um processo comparativo, expresso em porcentagem, que se aplica ao se relacionar uma conta ou grupo de contas com um valor afim ou relacionável, identificado no mesmo demonstrativo. A análise vertical, por sua vez, é a comparação entre os valores de uma mesma conta ou grupo de contas em diferentes exercícios sociais.",
+      "options": [
+        {"key": "A", "text": "Certo"},
+        {"key": "B", "text": "Errado"}
+      ],
+      "correctAnswer": "B",
+      "explanation": "Gabarito oficial: ERRADO. As definições estão invertidas. Análise VERTICAL: relaciona cada conta com um valor-base do MESMO demonstrativo no mesmo período (ex.: participação de cada conta sobre o ativo total ou sobre a receita líquida). Análise HORIZONTAL: compara a evolução de uma mesma conta ou grupo AO LONGO de exercícios sociais sucessivos, com base em números-índices.",
+      "difficulty": 1
+    },
+    {
+      "subject": "Contabilidade Pública (CASP)",
+      "topic": "Campo de aplicação da contabilidade aplicada ao setor público (NBC T 16.1)",
+      "statement": "Julgue o item, que diz respeito à contabilidade pública, seu campo de aplicação, objeto e objetivos descritos nas Normas Brasileiras de Contabilidade Aplicadas ao Setor Público (NBCASP). As entidades do setor público são abrangidas pelo campo de aplicação da contabilidade aplicada ao setor público e devem observar as NBCASP. As entidades governamentais, os serviços sociais e os conselhos profissionais devem observar o escopo de forma integral, e as demais entidades do setor público devem observar o escopo de forma parcial, com a finalidade de garantir procedimentos suficientes de prestação de contas.",
+      "options": [
+        {"key": "A", "text": "Certo"},
+        {"key": "B", "text": "Errado"}
+      ],
+      "correctAnswer": "A",
+      "explanation": "Gabarito oficial: CERTO. Segundo a NBC T 16.1 (vigente à época da prova), o campo de aplicação da contabilidade aplicada ao setor público abrange todas as entidades do setor público: integralmente, as entidades governamentais, os serviços sociais autônomos e os conselhos profissionais; parcialmente, as demais entidades, observados procedimentos suficientes de prestação de contas e instrumentalização do controle social. A lógica foi mantida na atual NBC TSP Estrutura Conceitual, cujo alcance prioriza entes da Federação e suas entidades.",
+      "difficulty": 3
+    },
+    {
+      "subject": "Contabilidade Pública (CASP)",
+      "topic": "Função social da contabilidade pública e controle social",
+      "statement": "Julgue o item, que diz respeito à contabilidade pública, seu campo de aplicação, objeto e objetivos descritos nas Normas Brasileiras de Contabilidade Aplicadas ao Setor Público (NBCASP). A função social da contabilidade pública é fornecer aos usuários informações sobre os resultados alcançados, sejam os de natureza orçamentária, econômica, financeira ou física do patrimônio da entidade do setor público, visando atender aos aspectos legais, independentemente do controle social.",
+      "options": [
+        {"key": "A", "text": "Certo"},
+        {"key": "B", "text": "Errado"}
+      ],
+      "correctAnswer": "B",
+      "explanation": "Gabarito oficial: ERRADO. A função social da contabilidade aplicada ao setor público consiste em refletir o ciclo da administração pública para evidenciar informações necessárias à tomada de decisões, à prestação de contas e AO NECESSÁRIO SUPORTE PARA A INSTRUMENTALIZAÇÃO DO CONTROLE SOCIAL (NBC T 16.1; ideia reiterada na NBC TSP Estrutura Conceitual, que coloca cidadãos entre os usuários primários). Dizer que a informação visa apenas a aspectos legais 'independentemente do controle social' contraria frontalmente a norma.",
+      "difficulty": 2
+    },
+    {
+      "subject": "Contabilidade Pública (CASP)",
+      "topic": "SIAFI — segurança e mecanismo de partidas dobradas",
+      "statement": "Julgue o item, relativo ao Sistema de Contabilidade Federal, previsto no Decreto n.º 6.976/2009, e ao Sistema Integrado de Administração Financeira do Governo Federal (SIAFI). Para o fim de registro contábil, o SIAFI somente validará os documentos de entrada de dados que apresentarem eventos que, no todo, completem as partidas dobradas. Como forma de monitorar ações danosas ou fraudulentas, o usuário que ingressar no sistema terá registrado seu cadastro de pessoa física bem como o horário e o terminal de acesso.",
+      "options": [
+        {"key": "A", "text": "Certo"},
+        {"key": "B", "text": "Errado"}
+      ],
+      "correctAnswer": "A",
+      "explanation": "Gabarito oficial: CERTO. O registro contábil no SIAFI opera pela tabela de eventos: o sistema só aceita documentos cujos eventos, em conjunto, fechem o mecanismo de débitos e créditos (método das partidas dobradas), garantindo a consistência dos lançamentos. Quanto à segurança, cada usuário é identificado pelo CPF, e o sistema registra data, hora e terminal de acesso (trilha de auditoria), conforme as normas de segurança do SIAFI (Manual SIAFI/STN).",
+      "difficulty": 3
+    },
+    {
+      "subject": "Contabilidade Pública (CASP)",
+      "topic": "Objetivos do Sistema de Contabilidade Federal (Decreto 6.976/2009)",
+      "statement": "Julgue o item, relativo ao Sistema de Contabilidade Federal, previsto no Decreto n.º 6.976/2009, e ao Sistema Integrado de Administração Financeira do Governo Federal (SIAFI). Como forma de garantir que os princípios fundamentais de contabilidade sejam respeitados no âmbito do setor público, o acompanhamento contínuo das normas contábeis aplicadas a esse setor constitui um dos objetivos previstos para o Sistema de Contabilidade Federal.",
+      "options": [
+        {"key": "A", "text": "Certo"},
+        {"key": "B", "text": "Errado"}
+      ],
+      "correctAnswer": "A",
+      "explanation": "Gabarito oficial: CERTO. O Decreto 6.976/2009 (art. 4º) fixa entre os objetivos do Sistema de Contabilidade Federal a promoção e o acompanhamento contínuo das normas de contabilidade aplicadas ao setor público, de modo a assegurar a observância dos princípios e a padronização dos procedimentos contábeis, sob a coordenação do órgão central (Secretaria do Tesouro Nacional).",
+      "difficulty": 3
+    },
+    {
+      "subject": "Contabilidade Pública (CASP)",
+      "topic": "Despesas de créditos adicionais — natureza orçamentária (Lei 4.320/1964)",
+      "statement": "Julgue o item, que diz respeito à estrutura e às características dos balanços orçamentário, financeiro e patrimonial e da demonstração das variações patrimoniais, previstos na Lei n.º 4.320/1964. Por não estarem previstas no momento de elaboração da proposta orçamentária, as despesas provenientes de créditos adicionais abertos durante o exercício financeiro são consideradas extraorçamentárias.",
+      "options": [
+        {"key": "A", "text": "Certo"},
+        {"key": "B", "text": "Errado"}
+      ],
+      "correctAnswer": "B",
+      "explanation": "Gabarito oficial: ERRADO. Os créditos adicionais (suplementares, especiais e extraordinários — arts. 40 a 46 da Lei 4.320/1964) são autorizações de despesa ORÇAMENTÁRIA: uma vez abertos, integram o orçamento do exercício e transitam pelo balanço orçamentário (art. 102). Despesa extraorçamentária é a que não depende de autorização legislativa orçamentária, como a devolução de cauções e o pagamento de restos a pagar inscritos.",
+      "difficulty": 2
+    },
+    {
+      "subject": "Contabilidade Pública (CASP)",
+      "topic": "Balanço financeiro (Lei 4.320/1964, art. 103)",
+      "statement": "Julgue o item, que diz respeito à estrutura e às características dos balanços orçamentário, financeiro e patrimonial e da demonstração das variações patrimoniais, previstos na Lei n.º 4.320/1964. O balanço financeiro demonstra a receita e a despesa orçamentárias, bem como os recebimentos e pagamentos de natureza extraorçamentária, conjugados com os saldos em espécie do exercício anterior e os que se transferem para o exercício seguinte.",
+      "options": [
+        {"key": "A", "text": "Certo"},
+        {"key": "B", "text": "Errado"}
+      ],
+      "correctAnswer": "A",
+      "explanation": "Gabarito oficial: CERTO. Reprodução literal do art. 103 da Lei 4.320/1964: o balanço financeiro demonstrará a receita e a despesa orçamentárias, bem como os recebimentos e os pagamentos de natureza extraorçamentária, conjugados com os saldos em espécie provenientes do exercício anterior e os que se transferem para o exercício seguinte. É o demonstrativo do fluxo de ingressos e dispêndios em uma visão de caixa ampliada.",
+      "difficulty": 1
+    },
+    {
+      "subject": "Contabilidade Pública (CASP)",
+      "topic": "Dívida consolidada líquida — cálculo no RREO",
+      "statement": "Situação hipotética: No demonstrativo do resultado nominal do governo federal constante do Relatório Resumido da Execução Orçamentária de maio de 2015, constavam as seguintes informações: dívida consolidada, R$ 3.610.068.016; deduções — ativo disponível, R$ 720.847.465; haveres financeiros, R$ 1.575.856.214; e os restos a pagar processados apresentavam o valor de R$ 45.446.936. Assertiva: Nesse caso, a dívida consolidada líquida será de R$ 1.358.811.273.",
+      "options": [
+        {"key": "A", "text": "Certo"},
+        {"key": "B", "text": "Errado"}
+      ],
+      "correctAnswer": "A",
+      "explanation": "Gabarito oficial: CERTO. Pela metodologia do Manual de Demonstrativos Fiscais (STN) para o RREO, a dívida consolidada líquida = dívida consolidada − (ativo disponível + haveres financeiros − restos a pagar processados). Deduções = 720.847.465 + 1.575.856.214 − 45.446.936 = 2.251.256.743. DCL = 3.610.068.016 − 2.251.256.743 = R$ 1.358.811.273. Os restos a pagar processados reduzem as disponibilidades dedutíveis porque representam obrigações já liquidadas a serem pagas com esses recursos.",
+      "difficulty": 4
+    },
+    {
+      "subject": "Contabilidade Pública (CASP)",
+      "topic": "Demonstração das variações patrimoniais (Lei 4.320/1964, art. 104)",
+      "statement": "Julgue o item, que diz respeito à estrutura e às características dos balanços orçamentário, financeiro e patrimonial e da demonstração das variações patrimoniais, previstos na Lei n.º 4.320/1964. Na demonstração das variações patrimoniais, as variações decorrentes da execução orçamentária devem ser elencadas em separado daquelas que independem da execução, tais como a alienação de bens e direitos.",
+      "options": [
+        {"key": "A", "text": "Certo"},
+        {"key": "B", "text": "Errado"}
+      ],
+      "correctAnswer": "B",
+      "explanation": "Gabarito oficial: ERRADO. O art. 104 da Lei 4.320/1964 realmente determina a segregação entre variações resultantes da execução orçamentária e variações independentes dela — essa parte está correta. O erro está no exemplo: a alienação de bens e direitos gera receita orçamentária (receita de capital) e a correspondente baixa patrimonial, sendo variação RESULTANTE da execução orçamentária. Exemplos de variações independentes: doações recebidas, inscrição de dívida ativa, incorporações e baixas por fatos alheios ao orçamento.",
+      "difficulty": 3
+    },
+    {
+      "subject": "Contabilidade Pública (CASP)",
+      "topic": "Variações patrimoniais quantitativas × qualitativas (MCASP)",
+      "statement": "Julgue o item à luz dos preceitos do Manual de Contabilidade Aplicada ao Setor Público. O lançamento contábil da aquisição de veículo a prazo, por um ente público, caracteriza-se como uma variação patrimonial quantitativa por ser de caráter compensatório.",
+      "options": [
+        {"key": "A", "text": "Certo"},
+        {"key": "B", "text": "Errado"}
+      ],
+      "correctAnswer": "B",
+      "explanation": "Gabarito oficial: ERRADO. Pelo MCASP, variações quantitativas são as que ALTERAM o valor do patrimônio líquido (aumentativas ou diminutivas); variações qualitativas (permutativas ou compensatórias) alteram apenas a composição dos elementos patrimoniais, sem modificar o PL. Na aquisição de veículo a prazo há incorporação simultânea de ativo (veículo) e de passivo (obrigação com o fornecedor) pelo mesmo valor: trata-se de variação QUALITATIVA (permutativa), e não quantitativa.",
+      "difficulty": 3
+    },
+    {
+      "subject": "Contabilidade Pública (CASP)",
+      "topic": "Classificação programática — projeto × atividade",
+      "statement": "Julgue o item à luz dos preceitos do Manual de Contabilidade Aplicada ao Setor Público. Situação hipotética: Para viabilizar a melhoria das condições de saúde da população, o prefeito de determinado município incluiu em seu plano plurianual a construção de uma unidade de pronto atendimento em saúde. Assertiva: Nesse caso, ao promover a classificação programática dessa ação de governo, o prefeito deverá classificar a construção da edificação na categoria de atividades, visto que a obra será o resultado de um produto necessário à manutenção da ação do governo.",
+      "options": [
+        {"key": "A", "text": "Certo"},
+        {"key": "B", "text": "Errado"}
+      ],
+      "correctAnswer": "B",
+      "explanation": "Gabarito oficial: ERRADO. Pela Portaria MOG 42/1999 e pelo MCASP, PROJETO é o instrumento de programação envolvendo operações limitadas no tempo, das quais resulta um produto que concorre para a expansão ou o aperfeiçoamento da ação de governo — caso típico de uma obra de construção de unidade de saúde. ATIVIDADE envolve operações contínuas e permanentes de manutenção da ação de governo (ex.: custeio do funcionamento da unidade depois de pronta).",
+      "difficulty": 2
+    },
+    {
+      "subject": "AFO / Orçamento Público",
+      "topic": "LRF — prestação de contas para consolidação nacional (art. 51)",
+      "statement": "De acordo com a Lei Complementar n.º 101/2000 — Lei de Responsabilidade Fiscal (LRF) —, julgue o item. O governador de um estado brasileiro que não tenha submetido suas contas ao Poder Executivo da União no prazo estabelecido será impedido, até que a situação seja regularizada, de receber transferências voluntárias e contratar operações de crédito, inclusas aquelas destinadas ao refinanciamento do principal da dívida.",
+      "options": [
+        {"key": "A", "text": "Certo"},
+        {"key": "B", "text": "Errado"}
+      ],
+      "correctAnswer": "B",
+      "explanation": "Gabarito oficial: ERRADO. O art. 51, § 2º, da LRF determina que o descumprimento do prazo de envio das contas para a consolidação nacional impede o ente de receber transferências voluntárias e de contratar operações de crédito, EXCETO as destinadas ao refinanciamento do principal atualizado da dívida mobiliária. O item erra ao incluir na vedação justamente a operação que a lei excepciona.",
+      "difficulty": 3
+    },
+    {
+      "subject": "AFO / Orçamento Público",
+      "topic": "LRF — limites em percentual da RCL e Relatório de Gestão Fiscal",
+      "statement": "De acordo com a Lei Complementar n.º 101/2000 — Lei de Responsabilidade Fiscal (LRF) —, julgue o item. Os limites da LRF estabelecidos para despesas com pessoal, concessão de garantias e contratação de operações de crédito são definidos em percentuais da receita corrente líquida e devem ser divulgados no relatório de gestão fiscal.",
+      "options": [
+        {"key": "A", "text": "Certo"},
+        {"key": "B", "text": "Errado"}
+      ],
+      "correctAnswer": "A",
+      "explanation": "Gabarito oficial: CERTO. A receita corrente líquida (art. 2º, IV, da LRF) é a base de cálculo dos principais limites fiscais: despesa total com pessoal (arts. 19 e 20), garantias e contragarantias (art. 40 c/c Resoluções do Senado) e operações de crédito (art. 32 c/c Resolução 43/2001 do Senado). O Relatório de Gestão Fiscal deve indicar os comparativos com esses limites (art. 55, I e III, da LRF), com publicação quadrimestral (ou semestral, para os entes menores que exerçam a opção do art. 63).",
+      "difficulty": 2
+    },
+    {
+      "subject": "AFO / Orçamento Público",
+      "topic": "LRF — operações de crédito por antecipação de receita (art. 38)",
+      "statement": "De acordo com a Lei Complementar n.º 101/2000 — Lei de Responsabilidade Fiscal (LRF) —, julgue o item. As operações de crédito compõem a dívida pública, sendo vedada, no último ano de mandato presidencial, a obtenção de operações de crédito por antecipação de receita para o atendimento de insuficiência de caixa.",
+      "options": [
+        {"key": "A", "text": "Certo"},
+        {"key": "B", "text": "Errado"}
+      ],
+      "correctAnswer": "A",
+      "explanation": "Gabarito oficial: CERTO. As operações de crédito por antecipação de receita (ARO) destinam-se a atender insuficiência de caixa durante o exercício (art. 38, caput, da LRF) e integram a dívida pública flutuante/consolidada conforme o caso (art. 29). O art. 38, IV, 'b', veda a realização de ARO no último ano de mandato do Presidente, Governador ou Prefeito. Além disso, a ARO deve ser liquidada até 10 de dezembro do mesmo exercício.",
+      "difficulty": 2
+    },
+    {
+      "subject": "AFO / Orçamento Público",
+      "topic": "Evolução histórica do orçamento no Brasil",
+      "statement": "Com referência aos aspectos doutrinários e históricos da administração financeira e orçamentária, julgue o item. Considerando a evolução conceitual da terminologia usada em referência ao orçamento, o Brasil utilizou o orçamento legislativo, o executivo e o misto ao longo de sua história.",
+      "options": [
+        {"key": "A", "text": "Certo"},
+        {"key": "B", "text": "Errado"}
+      ],
+      "correctAnswer": "A",
+      "explanation": "Gabarito oficial: CERTO. Pela classificação doutrinária (Giacomoni), quanto ao papel dos Poderes na elaboração e aprovação, o Brasil já experimentou os três tipos: orçamento LEGISLATIVO na República Velha (CF 1891, elaboração pelo Congresso), orçamento EXECUTIVO em períodos autoritários (CF 1937, Estado Novo) e orçamento MISTO no regime atual (CF 1988: o Executivo elabora, o Legislativo aprova e emenda).",
+      "difficulty": 2
+    },
+    {
+      "subject": "AFO / Orçamento Público",
+      "topic": "Excesso de arrecadação como fonte de créditos adicionais (Lei 4.320/1964, art. 43)",
+      "statement": "Com referência aos aspectos doutrinários e históricos da administração financeira e orçamentária, julgue o item. Se a arrecadação efetivamente realizada for maior que a prevista na lei orçamentária anual, a diferença a maior poderá ser utilizada como fonte de recursos para a abertura de créditos adicionais.",
+      "options": [
+        {"key": "A", "text": "Certo"},
+        {"key": "B", "text": "Errado"}
+      ],
+      "correctAnswer": "A",
+      "explanation": "Gabarito oficial: CERTO. O excesso de arrecadação — saldo positivo das diferenças, acumuladas mês a mês, entre a arrecadação prevista e a realizada, deduzida a tendência do exercício — é fonte de recursos para a abertura de créditos suplementares e especiais (art. 43, § 1º, II, e § 3º, da Lei 4.320/1964), ao lado do superávit financeiro, das operações de crédito e da anulação de dotações.",
+      "difficulty": 1
+    },
+    {
+      "subject": "AFO / Orçamento Público",
+      "topic": "PPA — valor global dos programas",
+      "statement": "Com referência aos aspectos doutrinários e históricos da administração financeira e orçamentária, julgue o item. O valor global dos programas constantes do plano plurianual compreende os recursos do orçamento fiscal e do orçamento da seguridade social e deve ser especificado para cada ano de execução do plano.",
+      "options": [
+        {"key": "A", "text": "Certo"},
+        {"key": "B", "text": "Errado"}
+      ],
+      "correctAnswer": "B",
+      "explanation": "Gabarito oficial: ERRADO. O valor global dos programas do PPA é referencial e não se limita aos orçamentos fiscal e da seguridade social: abrange também recursos do orçamento de investimento das estatais e outras fontes (parcerias, renúncias, crédito). Além disso, a metodologia do PPA federal não exige a especificação do valor global ano a ano — a anualização das dotações é papel das leis orçamentárias anuais, orientadas pelas LDOs (CF, art. 165, §§ 1º, 2º e 5º).",
+      "difficulty": 4
+    },
+    {
+      "subject": "AFO / Orçamento Público",
+      "topic": "LDO e limitação de empenho (LRF, art. 4º)",
+      "statement": "Com referência aos aspectos doutrinários e históricos da administração financeira e orçamentária, julgue o item. É vedado à lei de diretrizes orçamentárias prever a indisponibilidade de determinadas dotações orçamentárias para a limitação de despesas, diante da hipótese de a realização da receita não comportar o cumprimento das metas de resultado primário ou nominal.",
+      "options": [
+        {"key": "A", "text": "Certo"},
+        {"key": "B", "text": "Errado"}
+      ],
+      "correctAnswer": "B",
+      "explanation": "Gabarito oficial: ERRADO. Longe de ser vedado, é atribuição da LDO dispor sobre os critérios e a forma de limitação de empenho e movimentação financeira (LRF, art. 4º, I, 'b'). Quando a realização da receita não comportar o cumprimento das metas de resultado primário ou nominal do Anexo de Metas Fiscais, os Poderes e o Ministério Público promoverão a limitação de empenho segundo esses critérios (LRF, art. 9º), preservadas as despesas obrigatórias.",
+      "difficulty": 2
+    },
+    {
+      "subject": "AFO / Orçamento Público",
+      "topic": "Classificação da despesa — modalidade de aplicação",
+      "statement": "Com relação às técnicas e mecanismos de elaboração, à execução e ao controle do orçamento público, julgue o item. Deve-se usar a modalidade de aplicação se for preciso distinguir os recursos a serem aplicados diretamente por órgãos ou entidades no âmbito da mesma esfera de governo daqueles transferidos para outro ente da Federação.",
+      "options": [
+        {"key": "A", "text": "Certo"},
+        {"key": "B", "text": "Errado"}
+      ],
+      "correctAnswer": "A",
+      "explanation": "Gabarito oficial: CERTO. Na classificação por natureza da despesa (Portaria Interministerial STN/SOF 163/2001), a modalidade de aplicação indica se os recursos serão aplicados diretamente pela unidade detentora do crédito (modalidade 90 — aplicações diretas) ou transferidos a outro ente ou entidade (30 — transferências a estados/DF, 40 — a municípios, 50 — a instituições privadas sem fins lucrativos etc.), evitando dupla contagem na consolidação das contas públicas.",
+      "difficulty": 2
+    },
+    {
+      "subject": "AFO / Orçamento Público",
+      "topic": "Emendas ao projeto de lei orçamentária — compatibilidade com o PPA (CF, art. 166)",
+      "statement": "Com relação às técnicas e mecanismos de elaboração, à execução e ao controle do orçamento público, julgue o item. Ainda que não esteja compatível com o plano plurianual, a emenda ao projeto de lei orçamentária que pretender consignar recursos para transferência a empresa estatal com o objetivo de financiar a construção de uma usina hidrelétrica poderá ser apresentada na Comissão Mista de Orçamento por qualquer parlamentar.",
+      "options": [
+        {"key": "A", "text": "Certo"},
+        {"key": "B", "text": "Errado"}
+      ],
+      "correctAnswer": "A",
+      "explanation": "Gabarito oficial: CERTO. As emendas ao projeto de lei orçamentária são APRESENTADAS na Comissão Mista de Orçamento (CF, art. 166, § 2º), e qualquer parlamentar pode apresentá-las. A compatibilidade com o PPA e com a LDO é requisito para a APROVAÇÃO da emenda (art. 166, § 3º, I), não para a sua apresentação — a emenda incompatível pode ser apresentada e será rejeitada no exame de admissibilidade/mérito.",
+      "difficulty": 3
+    },
+    {
+      "subject": "AFO / Orçamento Público",
+      "topic": "Transferências voluntárias — exigência de contrapartida (LRF, art. 25)",
+      "statement": "Julgue o item, relativo ao sistema de planejamento federal e à Lei de Responsabilidade Fiscal. Os estados e municípios somente poderão receber transferências voluntárias da União se, em seus orçamentos, incluírem dotação destinada à contrapartida de tais transferências, sem prejuízo de outras condições estabelecidas em lei.",
+      "options": [
+        {"key": "A", "text": "Certo"},
+        {"key": "B", "text": "Errado"}
+      ],
+      "correctAnswer": "A",
+      "explanation": "Gabarito oficial: CERTO. O art. 25, § 1º, IV, 'd', da LRF exige, como condição para o recebimento de transferências voluntárias, a comprovação, por parte do beneficiário, de previsão orçamentária de contrapartida — além das demais exigências: regularidade quanto a tributos e prestações de contas, adimplência com o ente transferidor, cumprimento dos limites constitucionais de saúde e educação e observância dos limites de dívida e operações de crédito.",
+      "difficulty": 2
+    },
+    {
+      "subject": "Controle Externo",
+      "topic": "Sistema de Controle Interno do Poder Executivo Federal (Lei 10.180/2001; CF, art. 74)",
+      "statement": "A respeito do Sistema de Controle Interno do Poder Executivo Federal, disciplinado pela Lei n.º 10.180/2001, julgue o item. São finalidades do Sistema de Controle Interno do Poder Executivo: a comprovação da legalidade e a avaliação de resultados da gestão orçamentária, financeira e patrimonial, o controle das operações de crédito e o apoio ao controle externo; entretanto, não compete a esse sistema a avaliação do cumprimento de metas previstas no plano plurianual por essa tarefa estar relacionada à execução de programas de governo.",
+      "options": [
+        {"key": "A", "text": "Certo"},
+        {"key": "B", "text": "Errado"}
+      ],
+      "correctAnswer": "B",
+      "explanation": "Gabarito oficial: ERRADO. A avaliação do cumprimento das metas previstas no plano plurianual e da execução dos programas de governo e dos orçamentos da União é justamente a PRIMEIRA finalidade do sistema de controle interno, tanto na CF/88 (art. 74, I) quanto na Lei 10.180/2001 (art. 19, I). As demais finalidades citadas no item (legalidade e avaliação de resultados da gestão, controle de operações de crédito, avais e garantias, e apoio ao controle externo) também constam do art. 74, II a IV.",
+      "difficulty": 2
+    }
+  ]
+}

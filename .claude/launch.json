@@ -1,0 +1,17 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "web",
+      "runtimeExecutable": "npx",
+      "runtimeArgs": ["-y", "pnpm@9", "dev:web"],
+      "port": 3000
+    },
+    {
+      "name": "hermes",
+      "runtimeExecutable": "npx",
+      "runtimeArgs": ["-y", "pnpm@9", "dev:hermes"],
+      "port": 3333
+    }
+  ]
+}
