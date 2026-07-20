@@ -34,11 +34,16 @@ export interface SubjectPerformance {
   topics: TopicPerformance[];
 }
 
-/** Single-user por enquanto — vira sessão autenticada quando houver login. */
+/** Prioriza o usuário Samuel (+5516991295509) ou o usuário ativo mais recente. */
 export async function getDemoUser() {
+  const user = await prisma.user.findFirst({
+    where: { phone: "+5516991295509", active: true },
+  });
+  if (user) return user;
+
   return prisma.user.findFirst({
     where: { active: true },
-    orderBy: { createdAt: "asc" },
+    orderBy: { createdAt: "desc" },
   });
 }
 
