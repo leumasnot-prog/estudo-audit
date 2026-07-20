@@ -34,19 +34,37 @@ export interface SubjectPerformance {
   topics: TopicPerformance[];
 }
 
-/** Prioriza o usuário Samuel (+5516991295509) ou o usuário ativo mais recente. */
+/**
+ * Retorna o usuário oficial do operador Samuel (+5516991295509).
+ * Se a base remota tiver um telefone antigo, atualiza automaticamente.
+ */
 export async function getDemoUser() {
-  const user = await prisma.user.findFirst({
+  let user = await prisma.user.findFirst({
     where: { phone: "+5516991295509", active: true },
     select: { id: true, name: true, phone: true, timezone: true, dailyGoal: true, sendHour: true },
   });
-  if (user) return user;
 
-  return prisma.user.findFirst({
-    where: { active: true },
-    orderBy: { createdAt: "desc" },
-    select: { id: true, name: true, phone: true, timezone: true, dailyGoal: true, sendHour: true },
-  });
+  if (!user) {
+    const existing = await prisma.user.findFirst({
+      where: { active: true },
+      orderBy: { createdAt: "asc" },
+      select: { id: true, name: true, phone: true, timezone: true, dailyGoal: true, sendHour: true },
+    });
+
+    if (existing) {
+      await prisma.user.update({
+        where: { id: existing.id },
+        data: { phone: "+5516991295509", name: "Samuel" },
+      });
+      return {
+        ...existing,
+        name: "Samuel",
+        phone: "+5516991295509",
+      };
+    }
+  }
+
+  return user;
 }
 
 export async function getKpis(userId: string, timezone: string): Promise<Kpis> {
