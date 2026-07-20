@@ -38,12 +38,14 @@ export interface SubjectPerformance {
 export async function getDemoUser() {
   const user = await prisma.user.findFirst({
     where: { phone: "+5516991295509", active: true },
+    select: { id: true, name: true, phone: true, timezone: true, dailyGoal: true, sendHour: true },
   });
   if (user) return user;
 
   return prisma.user.findFirst({
     where: { active: true },
     orderBy: { createdAt: "desc" },
+    select: { id: true, name: true, phone: true, timezone: true, dailyGoal: true, sendHour: true },
   });
 }
 
@@ -70,7 +72,6 @@ export async function getKpis(userId: string, timezone: string): Promise<Kpis> {
     : null;
 
   // Sequência: dias consecutivos com >=1 resposta, na timezone do usuário.
-  // Hoje ainda sem resposta não quebra a sequência.
   const fmt = new Intl.DateTimeFormat("en-CA", { timeZone: timezone });
   const days = new Set(recent.map((l) => fmt.format(l.answeredAt)));
   let streakDays = 0;
@@ -84,10 +85,7 @@ export async function getKpis(userId: string, timezone: string): Promise<Kpis> {
 
 /**
  * Agrega o desempenho por DISCIPLINA — visão principal do dashboard.
- * Escopo: só editais em que o usuário está matriculado (Enrollment),
- * senão dados de qualquer edital cadastrado no banco vazam para todo
- * usuário. Tópicos ficam como detalhe (drill-down) dentro de cada
- * disciplina, não como linhas soltas na tabela principal.
+ * Otimizado com seleções enxutas para carga ultrarrápida em Serverless.
  */
 export async function getSubjectPerformance(
   userId: string,
@@ -101,14 +99,20 @@ export async function getSubjectPerformance(
 
   const subjects = await prisma.subject.findMany({
     where: { examId: { in: examIds } },
-    include: {
+    select: {
+      id: true,
+      name: true,
+      examWeight: true,
       exam: { select: { name: true } },
       topics: {
-        where: { parentId: null }, // só raiz para a hierarquia
-        include: {
+        where: { parentId: null },
+        select: {
+          id: true,
+          name: true,
           questions: {
             where: { active: true },
-            include: {
+            select: {
+              id: true,
               answers: {
                 where: { userId },
                 select: { isCorrect: true },
@@ -116,10 +120,11 @@ export async function getSubjectPerformance(
             },
           },
           children: {
-            include: {
+            select: {
               questions: {
                 where: { active: true },
-                include: {
+                select: {
+                  id: true,
                   answers: {
                     where: { userId },
                     select: { isCorrect: true },
